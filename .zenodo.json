@@ -1,0 +1,51 @@
+{
+  "upload_type": "software",
+  "title": "Nour OSeMOSYS Studio: a desktop studio to build, solve and analyse OSeMOSYS models",
+  "version": "0.22.1",
+  "publication_date": "2026-11-11",
+  "creators": [
+    {
+      "name": "DJEDAA, Nour Elislam",
+      "affiliation": "Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algiers, Algeria",
+      "orcid": "0009-0004-5488-8401"
+    }
+  ],
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "description": "<p>Nour OSeMOSYS Studio builds, checks, solves and analyses OSeMOSYS models with the standard OSeMOSYS model (built in, unchanged; the model file MUIO uses). Models are built on the diagram or with forms, or read from OSeMOSYS / MUIO data files; MUIO cases are imported and exported.</p><p>Solvers: HiGHS, GLPK, CBC, Gurobi (when installed and licensed). Analyses: results with their meaning and unit, results by time slice, questions about the results in English, French, Spanish or Arabic (no AI), Monte Carlo, robust decision making. Interface in four languages.</p>",
+  "keywords": [
+    "OSeMOSYS",
+    "MUIO",
+    "energy planning",
+    "CLEWs",
+    "Monte Carlo",
+    "robust decision making"
+  ],
+  "notes": "Third-party components and their licences are listed in NOTICE.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Islam-Dj/Nour-OSeMOSYS-Studio-Standard/tree/v0.22.1",
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "10.5281/zenodo.24117166",
+      "relation": "isDocumentedBy",
+      "scheme": "doi",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "identifier": "10.5281/zenodo.24117220",
+      "relation": "isDocumentedBy",
+      "scheme": "doi",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "identifier": "https://github.com/OSeMOSYS/MUIO",
+      "relation": "references",
+      "scheme": "url",
+      "resource_type": "software"
+    }
+  ]
+}

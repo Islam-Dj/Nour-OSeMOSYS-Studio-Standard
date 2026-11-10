@@ -1,0 +1,304 @@
+Raise capacity or lower the mode limits.	Aumente la capacidad o baje los límites del modo.	ارفع القدرة أو خفّض حدود النمط.
+Raise the budget or allow more clean capacity.	Aumente el presupuesto o permita más capacidad limpia.	ارفع الميزانية أو اسمح بمزيد من القدرة النظيفة.
+Raise the limit or lower forced activity.	Aumente el límite o baje la actividad forzada.	ارفع الحد أو خفّض النشاط المفروض.
+Ramp down rate	Tasa de rampa descendente	معدل الانحدار نزولًا
+Ramp up rate	Tasa de rampa ascendente	معدل الارتفاع صعودًا
+Range	Rango	المدى
+Range (highest - lowest year)	Rango (año más alto - más bajo)	المدى (أعلى سنة - أدنى سنة)
+Range in the box (bar) within all futures	Rango en la caja (barra) dentro de todos los futuros	المدى داخل الصندوق (العمود) ضمن كل المستقبلات
+Rank corr. with driver	Corr. de rango con el impulsor	ارتباط الرتب مع المحرّك
+Rank correlation	Correlación de rango	ارتباط الرتب
+Rank the samples by	Ordenar las muestras por	ترتيب العيّنات حسب
+Rate for a storage	Tasa para un almacenamiento	المعدل لمخزن
+Rate for a technology	Tasa para una tecnología	المعدل لتقنية
+Rates are normally between 0 and 0.3.	Las tasas suelen estar entre 0 y 0,3.	المعدلات عادة بين 0 و0.3.
+Ratio	Relación	النسبة
+Ratios are normally positive; check the sign.	Las relaciones suelen ser positivas; compruebe el signo.	النسب عادة موجبة؛ تحقق من الإشارة.
+Ratios by time slice	Relaciones por intervalo	النسب حسب الشريحة الزمنية
+Reading the model…	Leyendo el modelo…	جارٍ قراءة النموذج…
+Reading the results	Leyendo los resultados	جارٍ قراءة النتائج
+Reading…	Leyendo…	جارٍ القراءة…
+Redo (Ctrl+Y)	Rehacer (Ctrl+Y)	إعادة (Ctrl+Y)
+Redone	Rehecho	أُعيد
+Reference energy system{0}	Sistema energético de referencia{0}	النظام الطاقوي المرجعي{0}
+Reference evapotranspiration	Evapotranspiración de referencia	التبخر النتحي المرجعي
+Reference run (dashed)	Ejecución de referencia (discontinua)	التشغيل المرجعي (متقطّع)
+Refinery	Refinería	المصفاة
+Refresh	Actualizar	تحديث
+Region	Región	المنطقة
+Region {0} of the added data	Región {0} de los datos añadidos	المنطقة {0} من البيانات المضافة
+Regions	Regiones	المناطق
+Regions (codes, comma separated)	Regiones (códigos, separados por comas)	المناطق (رموز مفصولة بفواصل)
+Region{0}	Región{0}	المنطقة{0}
+Regret	Arrepentimiento	الندم
+Regret, 90 %	Arrepentimiento, 90 %	الندم، 90 %
+Relationships:	Relaciones:	العلاقات:
+Remove	Quitar	إزالة
+Remove (put the values back)	Quitar (restaurar los valores)	إزالة (إرجاع القيم)
+Remove (sum)	Quitar (suma)	إزالة (مجموع)
+Remove from the part	Quitar de la parte	إزالة من الجزء
+Remove row	Quitar fila	إزالة صف
+Remove the metric	Quitar la métrica	إزالة المقياس
+Remove the {0} change(s) of {1}?	¿Quitar los {0} cambio(s) de {1}?	إزالة {0} تغيير(ات) من {1}؟
+Remove {0}	Quitar {0}	إزالة {0}
+Remove {0} for the {1} item(s) chosen?	¿Quitar {0} para los {1} elemento(s) elegidos?	إزالة {0} للعناصر {1} المختارة؟
+Remove {0} member(s) and their data ({1}{2})?	¿Quitar {0} miembro(s) y sus datos ({1}{2})?	إزالة {0} عنصر(عناصر) وبياناتها ({1}{2})؟
+Rename	Renombrar	إعادة تسمية
+Rename a member of	Renombrar un miembro de	إعادة تسمية عنصر من
+Rename {0}	Renombrar {0}	إعادة تسمية {0}
+Rename…	Renombrar…	إعادة تسمية…
+Renewable resource / water	Recurso renovable / agua	مورد متجدد / ماء
+Renewable resources	Recursos renovables	الموارد المتجددة
+Reopened {0}	{0} reabierto	أُعيد فتح {0}
+Reopened {0} from your cases	{0} reabierto desde sus casos	أُعيد فتح {0} من حالاتك
+Repaid from the budget	Reembolsado con el presupuesto	يُسدَّد من الميزانية
+Reserve margin and RE target	Margen de reserva y meta de ER	هامش الاحتياط وهدف الطاقات المتجددة
+Reservoir / dam lake	Embalse / lago de presa	خزان / بحيرة سد
+Reset	Restablecer	إعادة ضبط
+Reset colours	Restablecer colores	إعادة ضبط الألوان
+Reset options	Restablecer opciones	إعادة ضبط الخيارات
+Reset this chart	Restablecer este gráfico	إعادة ضبط هذا الرسم
+Residential / buildings	Residencial / edificios	السكني / المباني
+Residual capacity	Capacidad residual	القدرة المتبقية
+Residual capacity by vintage	Capacidad residual por cohorte	القدرة المتبقية حسب الفوج
+Residual capacity {0}	Capacidad residual {0}	القدرة المتبقية {0}
+ResidualCapacity from the vintages	ResidualCapacity desde las cohortes	ResidualCapacity من الأفواج
+Resolution (dpi){0}	Resolución (ppp){0}	الدقة (نقطة/بوصة){0}
+Restore from a backup…	Restaurar desde una copia…	الاستعادة من نسخة احتياطية…
+Restoring	Restaurando	جارٍ الاستعادة
+Result	Resultado	النتيجة
+Results	Resultados	النتائج
+Results and derived results	Resultados y resultados derivados	النتائج والنتائج المشتقة
+Results by vintage	Resultados por cohorte	النتائج حسب الفوج
+Results kept for each sample	Resultados conservados para cada muestra	النتائج المحفوظة لكل عيّنة
+Results of the model	Resultados del modelo	نتائج النموذج
+Results only	Solo resultados	النتائج فقط
+Resume	Reanudar	استئناف
+Resumed: the futures already solved are kept	Reanudado: se conservan los futuros ya resueltos	استُؤنف: تُحفظ المستقبلات المحلولة سابقًا
+Retirement and refurbishment	Retiro y renovación	الإحالة والتجديد
+Revenue share by technology	Proporción de ingresos por tecnología	حصة الإيرادات حسب التقنية
+Right	Derecha	يمين
+Right axis title	Título del eje derecho	عنوان المحور الأيمن
+Right axis unit	Unidad del eje derecho	وحدة المحور الأيمن
+Right-hand side	Lado derecho	الطرف الأيمن
+Robust decision making (XLRM)	Toma de decisiones robustas (XLRM)	صنع القرار الصامد (XLRM)
+Robust decisions	Decisiones robustas	القرارات الصامدة
+Robust-decision run started	Ejecución de decisiones robustas iniciada	بدأ تشغيل القرارات الصامدة
+Robust-decision runs on this computer	Las decisiones robustas se ejecutan en este ordenador	تعمل القرارات الصامدة على هذا الحاسوب
+Role	Función	الدور
+Rolling horizon	Horizonte rodante	الأفق المتدحرج
+Rolling horizon started	Horizonte rodante iniciado	بدأ الأفق المتدحرج
+Rolling plan (all years)	Plan rodante (todos los años)	الخطة المتدحرجة (كل السنوات)
+Rolling-horizon runs on this computer	El horizonte rodante se ejecuta en este ordenador	يعمل الأفق المتدحرج على هذا الحاسوب
+Rose clay	Arcilla rosa	طين وردي
+Row order{0}	Orden de filas{0}	ترتيب الصفوف{0}
+Row {0}	Fila {0}	الصف {0}
+Rows	Filas	الصفوف
+Run	Ejecutar	تشغيل
+Run name	Nombre de la ejecución	اسم التشغيل
+Run started:	Ejecución iniciada:	بدأ التشغيل:
+Running	En ejecución	قيد التشغيل
+Runs	Ejecuciones	التشغيلات
+Runs compared	Ejecuciones comparadas	التشغيلات المقارنة
+Runs on this computer	Se ejecuta en este ordenador	يعمل على هذا الحاسوب
+Runs without a case	Ejecuciones sin caso	تشغيلات دون حالة
+Runs, with their results	Ejecuciones, con sus resultados	التشغيلات مع نتائجها
+SVG is not available for this chart	SVG no está disponible para este gráfico	SVG غير متاح لهذا الرسم
+Sage	Salvia	مريمية
+Sale price	Precio de venta	سعر البيع
+Salvage value	Valor residual	القيمة المتبقية
+Sample {0} highlighted	Muestra {0} resaltada	العيّنة {0} مبرزة
+Samples	Muestras	العيّنات
+Samples drawn{0}	Muestras sorteadas{0}	العيّنات المسحوبة{0}
+Samples kept	Muestras conservadas	العيّنات المحتفظ بها
+Sampling	Muestreo	المعاينة
+Sampling settings saved	Ajustes de muestreo guardados	حُفظت إعدادات المعاينة
+Sampling{0}	Muestreo{0}	المعاينة{0}
+Sand	Arena	رملي
+Sankey (rows -> columns)	Sankey (filas -> columnas)	سانكي (صفوف -> أعمدة)
+Save	Guardar	حفظ
+Save SVG	Guardar SVG	حفظ SVG
+Save as file	Guardar como archivo	حفظ كملف
+Save cancelled	Guardado cancelado	أُلغي الحفظ
+Save chart	Guardar gráfico	حفظ الرسم
+Save failed:	Error al guardar:	فشل الحفظ:
+Save view…	Guardar vista…	حفظ العرض…
+Saved	Guardado	محفوظ
+Saved charts	Gráficos guardados	الرسوم المحفوظة
+Saved views	Vistas guardadas	العروض المحفوظة
+Saved {0}	Guardado {0}	حُفظ {0}
+Saved {0} ({1} MB)	Guardado {0} ({1} MB)	حُفظ {0} ({1} ميغابايت)
+Savings interest rate	Tasa de interés del ahorro	معدل فائدة الادخار
+Scale	Escala	المقياس
+Scaled	Escalado	مُقيَّس
+Scatter (points)	Dispersión (puntos)	انتشار (نقاط)
+Scenario	Escenario	السيناريو
+Scenario added: you are editing it	Escenario añadido: lo está editando	أُضيف السيناريو: أنت تحرّره
+Scenario deleted	Escenario eliminado	حُذف السيناريو
+Scenario duplicated	Escenario duplicado	كُرّر السيناريو
+Scenario renamed	Escenario renombrado	أُعيدت تسمية السيناريو
+Scenario {0} added: you are editing it	Escenario {0} añadido: lo está editando	أُضيف السيناريو {0}: أنت تحرّره
+Scenario {0} copied ({1} values)	Escenario {0} copiado ({1} valores)	نُسخ السيناريو {0} ({1} قيمة)
+Scenario {0} deleted	Escenario {0} eliminado	حُذف السيناريو {0}
+Scenario {0} renamed	Escenario {0} renombrado	أُعيدت تسمية السيناريو {0}
+Scenarios	Escenarios	السيناريوهات
+Scenarios applied (in this order, after the base)	Escenarios aplicados (en este orden, tras la base)	السيناريوهات المطبقة (بهذا الترتيب، بعد الأساس)
+Scenarios…	Escenarios…	السيناريوهات…
+Scorecard	Cuadro de mando	بطاقة الأداء
+Search	Buscar	بحث
+Search a parameter…	Buscar un parámetro…	ابحث عن معلمة…
+Search rows	Buscar filas	بحث في الصفوف
+Search the findings	Buscar en los hallazgos	بحث في النتائج
+Search the findings (technology, commodity, text)	Buscar en los hallazgos (tecnología, producto, texto)	بحث في النتائج (تقنية، سلعة، نص)
+Search the members	Buscar los miembros	بحث في العناصر
+Search variables	Buscar variables	بحث في المتغيرات
+Search variables (name or meaning)	Buscar variables (nombre o significado)	بحث في المتغيرات (الاسم أو المعنى)
+Search {0}	Buscar {0}	بحث في {0}
+Search {0} members	Buscar {0} miembros	بحث في {0} عنصر
+Season	Estación	الموسم
+Seasonal {0} profile does not average 1	El perfil estacional {0} no promedia 1	الملف الموسمي {0} لا يساوي متوسطه 1
+Seasons (names, comma separated)	Estaciones (nombres, separados por comas)	المواسم (أسماء مفصولة بفواصل)
+Seasons · day types · day parts	Estaciones · tipos de día · partes del día	المواسم · أنواع الأيام · أجزاء اليوم
+Second y-axis (right){0}	Segundo eje y (derecho){0}	محور y ثانٍ (أيمن){0}
+See the results	Ver los resultados	عرض النتائج
+Seed	Semilla	البذرة
+Seed (same seed = same samples)	Semilla (misma semilla = mismas muestras)	البذرة (البذرة نفسها = العيّنات نفسها)
+Seen {0}-{1}	Visto {0}-{1}	مرئي {0}-{1}
+Seen, not kept	Visto, no conservado	مرئي، غير محفوظ
+Select	Seleccionar	تحديد
+Select a part of the diagram	Seleccionar una parte del diagrama	تحديد جزء من المخطط
+Select every row shown	Seleccionar todas las filas mostradas	تحديد كل الصفوف المعروضة
+Select shown	Seleccionar mostrados	تحديد المعروض
+Select technologies or show a part first.	Seleccione tecnologías o muestre primero una parte.	حدّد تقنيات أو اعرض جزءًا أولًا.
+Select {0}	Seleccionar {0}	تحديد {0}
+Self-discharge	Autodescarga	التفريغ الذاتي
+Self-discharge (per hour)	Autodescarga (por hora)	التفريغ الذاتي (في الساعة)
+Sensitivity	Sensibilidad	الحساسية
+Separates bad futures	Separa los futuros malos	يفصل المستقبلات السيئة
+Set	Conjunto	المجموعة
+Set for several…	Fijar para varios…	تعيين لعدة عناصر…
+Set it to 1 (on) or 0 (off).	Póngalo a 1 (activo) o 0 (inactivo).	اجعله 1 (مفعّل) أو 0 (معطّل).
+Set to	Fijar en	تعيين إلى
+Set up	Configurar	الإعداد
+Set {0} for several {1}	Fijar {0} para varios {1}	تعيين {0} لعدة {1}
+Sets	Conjuntos	المجموعات
+Sets applied	Conjuntos aplicados	طُبّقت المجموعات
+Setting	Ajuste	الإعداد
+Settings	Ajustes	الإعدادات
+Shadow price of the constraint	Precio sombra de la restricción	السعر الظلي للقيد
+Shadow prices	Precios sombra	الأسعار الظلية
+Shadow prices (duals of the constraints)	Precios sombra (duales de las restricciones)	الأسعار الظلية (ثنائيات القيود)
+Shadow prices of the constraints	Precios sombra de las restricciones	الأسعار الظلية للقيود
+Share drawn in the year	Proporción usada en el año	الحصة المسحوبة في السنة
+Share of capacity available in each time slice.	Proporción de capacidad disponible en cada intervalo.	حصة القدرة المتاحة في كل شريحة زمنية.
+Share of export revenue	Proporción de ingresos de exportación	حصة إيرادات التصدير
+Share of futures below a regret (cumulative lines)	Proporción de futuros bajo un arrepentimiento (líneas acumuladas)	حصة المستقبلات تحت مستوى ندم (خطوط تراكمية)
+Share of the year the capacity is available.	Proporción del año en que la capacidad está disponible.	حصة السنة التي تكون فيها القدرة متاحة.
+Shares above 1 in {0}	Proporciones mayores que 1 en {0}	حصص أكبر من 1 في {0}
+Sheet	Hoja	الورقة
+Short id (no spaces)	Id corto (sin espacios)	معرّف قصير (بلا مسافات)
+Show	Mostrar	عرض
+Show a part (or select technologies) first.	Muestre primero una parte (o seleccione tecnologías).	اعرض جزءًا أولًا (أو حدّد تقنيات).
+Show all {0}	Mostrar los {0}	عرض كل {0}
+Show as	Mostrar como	العرض كـ
+Show as{0}	Mostrar como{0}	العرض كـ{0}
+Show changes	Mostrar cambios	عرض التغييرات
+Show every row again	Mostrar de nuevo todas las filas	إعادة عرض كل الصفوف
+Show folder	Mostrar carpeta	عرض المجلد
+Show only	Mostrar solo	عرض فقط
+Show only the rows with these {0}s	Mostrar solo las filas con estos {0}	عرض الصفوف التي فيها هذه {0} فقط
+Show only the technologies of some systems	Mostrar solo las tecnologías de algunos sistemas	عرض تقنيات بعض الأنظمة فقط
+Show only the {0} (click again: all)	Mostrar solo los {0} (clic de nuevo: todos)	عرض {0} فقط (انقر مجددًا: الكل)
+Show only these	Mostrar solo estos	عرض هذه فقط
+Show the cases of which model	Mostrar los casos de qué modelo	عرض حالات أي نموذج
+Show the chart first	Muestre primero el gráfico	اعرض الرسم أولًا
+Show the explanation	Mostrar la explicación	عرض الشرح
+Show the whole system again	Mostrar de nuevo todo el sistema	إعادة عرض النظام كله
+Show them as “Other”	Mostrarlos como “Otros”	عرضها كـ “أخرى”
+Shut-down cost	Costo de parada	تكلفة الإيقاف
+Silo / grain store	Silo / almacén de grano	صومعة / مخزن حبوب
+Size and file	Tamaño y archivo	الحجم والملف
+Slate	Pizarra	أردوازي
+Slide 16:9 (1920 × 1080 px)	Diapositiva 16:9 (1920 × 1080 px)	شريحة 16:9 (1920 × 1080 بكسل)
+Smaller	Más pequeño	أصغر
+Smaller (Alt + wheel)	Más pequeño (Alt + rueda)	أصغر (Alt + العجلة)
+Smallest item	Elemento menor	أصغر عنصر
+Smallest share of a project above the largest	Proporción mínima de un proyecto por encima de la máxima	أدنى حصة من مشروع تفوق أقصاها
+Smooth lines	Líneas suaves	خطوط ناعمة
+Smooth only:	Solo suave:	ناعم فقط:
+Smoothing{0}	Suavizado{0}	التنعيم{0}
+Sobol (quasi-random)	Sobol (cuasi aleatorio)	سوبول (شبه عشوائي)
+Soil bucket size	Tamaño del depósito del suelo	حجم خزان التربة
+Soil drainage	Drenaje del suelo	تصريف التربة
+Soil level at the start	Nivel del suelo al inicio	مستوى التربة في البداية
+Soil store of the crop	Almacén del suelo del cultivo	مخزون التربة للمحصول
+Solar PV	Solar fotovoltaica	الطاقة الشمسية الكهروضوئية
+Solve	Resolver	الحل
+Solve on all futures	Resolver en todos los futuros	الحل على كل المستقبلات
+Solve the enhanced strategy	Resolver la estrategia mejorada	حل الاستراتيجية المحسّنة
+Solve the model	Resolver el modelo	حل النموذج
+Solved	Resuelto	محلول
+Solver	Solucionador	المحلّل
+Solver default	Por defecto del solucionador	افتراضي المحلّل
+Solver settings	Ajustes del solucionador	إعدادات المحلّل
+Solves at the same time	Resoluciones a la vez	عمليات حل متزامنة
+Solving ({0})	Resolviendo ({0})	جارٍ الحل ({0})
+Source	Fuente	المصدر
+Source ratio (1 input, 2 output)	Relación de la fuente (1 entrada, 2 salida)	نسبة المصدر (1 مُدخل، 2 مُخرج)
+Sources and factors	Fuentes y factores	المصادر والعوامل
+Sowing day	Día de siembra	يوم البذر
+Space	Espacio	المسافة
+Split by	Dividir por	التقسيم حسب
+Spread over the futures (boxes)	Dispersión en los futuros (cajas)	التشتت عبر المستقبلات (صناديق)
+Spread over the futures (violins)	Dispersión en los futuros (violines)	التشتت عبر المستقبلات (كمانات)
+Stacked areas	Áreas apiladas	مساحات مكدّسة
+Stacked areas 100 %	Áreas apiladas 100 %	مساحات مكدّسة 100 %
+Stacked bars	Barras apiladas	أعمدة مكدّسة
+Stacked bars 100 %	Barras apiladas 100 %	أعمدة مكدّسة 100 %
+Stacked columns	Columnas apiladas	أعمدة رأسية مكدّسة
+Stage	Etapa	المرحلة
+Stage lengths (days)	Duración de las etapas (días)	أطوال المراحل (أيام)
+Standard deviation over the years	Desviación estándar en los años	الانحراف المعياري عبر السنوات
+Standard deviation · CV	Desviación estándar · CV	الانحراف المعياري · معامل الاختلاف
+Start	Iniciar	بدء
+Start a Monte Carlo run	Iniciar una ejecución Monte Carlo	بدء تشغيل مونت كارلو
+Start a robust-decision run	Iniciar una ejecución de decisiones robustas	بدء تشغيل قرارات صامدة
+Start a rolling-horizon run	Iniciar una ejecución de horizonte rodante	بدء تشغيل أفق متدحرج
+Start dialog…	Diálogo de inicio…	نافذة البدء…
+Start from	Empezar desde	البدء من
+Start-up cost	Costo de arranque	تكلفة الإقلاع
+Statistics	Estadísticas	الإحصاءات
+Status	Estado	الحالة
+Steel blue	Azul acero	أزرق فولاذي
+Stop	Detener	إيقاف
+Stop editing the scenario (it is kept)	Dejar de editar el escenario (se conserva)	إيقاف تحرير السيناريو (يُحتفظ به)
+Stopped	Detenido	متوقف
+Stopping after the samples being solved	Deteniendo tras las muestras en resolución	التوقف بعد العيّنات قيد الحل
+Stopping after the solves under way	Deteniendo tras las resoluciones en curso	التوقف بعد عمليات الحل الجارية
+Stopping after the window being solved	Deteniendo tras la ventana en resolución	التوقف بعد النافذة قيد الحل
+Storage	Almacenamiento	التخزين
+Storage capacity	Capacidad de almacenamiento	قدرة التخزين
+Storage charge	Carga del almacenamiento	شحن المخزن
+Storage discharge	Descarga del almacenamiento	تفريغ المخزن
+Storage investment	Inversión en almacenamiento	الاستثمار في التخزين
+Storage level	Nivel del almacenamiento	مستوى المخزن
+Storage tank	Tanque de almacenamiento	خزان
+Storage with no capital cost	Almacenamiento sin costo de capital	تخزين دون تكلفة رأسمالية
+Storage {0}	Almacenamiento {0}	التخزين {0}
+Storages	Almacenamientos	المخازن
+Strategies	Estrategias	الاستراتيجيات
+Strategies{0}	Estrategias{0}	الاستراتيجيات{0}
+Strategy	Estrategia	الاستراتيجية
+Strategy (by worst regret)	Estrategia (por peor arrepentimiento)	الاستراتيجية (حسب أسوأ ندم)
+Strategy to enhance	Estrategia a mejorar	الاستراتيجية المراد تحسينها
+Stream graph	Gráfico de flujo	رسم تدفقي
+Strip plot (ticks)	Gráfico de tiras (marcas)	رسم شريطي (علامات)
+Structure	Estructura	البنية
+Studio	Studio	الاستوديو
+Studio (validated, 8)	Studio (validada, 8)	الاستوديو (مُتحقق منها، 8)
+Studio backup restored as the case "{0}"	Copia del Studio restaurada como el caso "{0}"	استُعيدت نسخة الاستوديو كالحالة "{0}"
+Subtitle	Subtítulo	العنوان الفرعي
+Suggest from the codes and names…	Sugerir a partir de códigos y nombres…	اقتراح من الرموز والأسماء…
+Sum	Suma	المجموع
+Sum discounted to the first year	Suma descontada al primer año	المجموع مخصومًا إلى السنة الأولى
+Sum over the years	Suma en los años	المجموع عبر السنوات

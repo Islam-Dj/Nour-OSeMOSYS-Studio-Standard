@@ -1,0 +1,10 @@
+pyinstaller>=6.6
+pywebview>=5.1
+highspy
+swiglpk
+pandas>=2.2,<3
+numpy
+openpyxl
+werkzeug
+pulp>=2.7,<3          # CBC: the build bundles the cbc executable that comes with PuLP 2
+scipy

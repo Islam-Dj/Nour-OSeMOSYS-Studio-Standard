@@ -1,0 +1,234 @@
+Auto	Auto	تلقائي
+Automatic	Automático	تلقائي
+Automatic ({0})	Automático ({0})	تلقائي ({0})
+Availability	Disponibilidad	الإتاحة
+Availability factor outside 0–1	Factor de disponibilidad fuera de 0–1	عامل الإتاحة خارج 0–1
+Availability factors are shares.	Los factores de disponibilidad son proporciones.	عوامل الإتاحة نِسَب.
+Average	Promedio	المتوسط
+Average per year	Promedio por año	المتوسط في السنة
+Average yearly growth (%)	Crecimiento anual medio (%)	متوسط النمو السنوي (%)
+Axes and layout	Ejes y diseño	المحاور والتخطيط
+Axis titles	Títulos de los ejes	عناوين المحاور
+Back to Robust decisions	Volver a Decisiones robustas	العودة إلى القرارات الصامدة
+Back to base	Volver a la base	العودة إلى الأساس
+Back to the default colours of the topics	Volver a los colores por defecto de los temas	العودة إلى الألوان الافتراضية للمواضيع
+Back to the diagram	Volver al diagrama	العودة إلى المخطط
+Back up (zip)	Copia de seguridad (zip)	نسخة احتياطية (zip)
+Back up this case as one zip	Copia de seguridad de este caso en un zip	نسخ هذه الحالة احتياطيًا في ملف zip واحد
+Background (transparent for slides): in Axes and layout.	Fondo (transparente para diapositivas): en Ejes y diseño.	الخلفية (شفافة للشرائح): في المحاور والتخطيط.
+Background{0}	Fondo{0}	الخلفية{0}
+Backstop	Respaldo	احتياطي
+Backup cancelled	Copia cancelada	أُلغي النسخ الاحتياطي
+Backup failed:	La copia falló:	فشل النسخ الاحتياطي:
+Backup saved: {0} ({1} MB)	Copia guardada: {0} ({1} MB)	حُفظت النسخة: {0} ({1} ميغابايت)
+Backup {0}: {1} MB	Copia {0}: {1} MB	النسخة {0}: {1} ميغابايت
+Bad	Malo	سيئ
+Balance (1 slice, 0 year, 2 season)	Balance (1 intervalo, 0 año, 2 estación)	التوازن (1 شريحة، 0 سنة، 2 موسم)
+Balance as equality	Balance como igualdad	التوازن كمساواة
+Balance levels	Niveles de balance	مستويات التوازن
+Balanced by year (CommodityTimeSliced 0): {0}	Equilibrado por año (CommodityTimeSliced 0): {0}	متوازن سنويًا (CommodityTimeSliced 0): {0}
+Bar at the top	Barra arriba	شريط في الأعلى
+Bars	Barras	أعمدة
+Bars, positive / negative stacked	Barras, positivas / negativas apiladas	أعمدة، موجبة / سالبة مكدّسة
+Base	Base	الأساس
+Base (mean)	Base (media)	الأساس (المتوسط)
+Base + one strategy per scenario	Base + una estrategia por escenario	الأساس + استراتيجية لكل سيناريو
+Base field{0}	Campo base{0}	الحقل الأساسي{0}
+Base member{0}	Miembro base{0}	العنصر الأساسي{0}
+Base of the samples	Base de las muestras	أساس العيّنات
+Base only	Solo base	الأساس فقط
+Battery / storage	Batería / almacenamiento	بطارية / تخزين
+Before you export	Antes de exportar	قبل التصدير
+Best match	Mejor coincidencia	أفضل تطابق
+Best strategy in	Mejor estrategia en	أفضل استراتيجية في
+Beta	Beta	تجريبي
+Better when{0}	Mejor cuando{0}	أفضل عندما{0}
+Biomass	Biomasa	الكتلة الحيوية
+Both	Ambos	كلاهما
+Bottom	Abajo	أسفل
+Box plot (spread over rows)	Diagrama de caja (dispersión por filas)	مخطط صندوقي (التشتت عبر الصفوف)
+Bubbles (size = value)	Burbujas (tamaño = valor)	فقاعات (الحجم = القيمة)
+Budget and finance	Presupuesto y finanzas	الميزانية والتمويل
+Budget of each region	Presupuesto de cada región	ميزانية كل منطقة
+Budget pays imports (share)	El presupuesto paga importaciones (proporción)	الميزانية تدفع الواردات (حصة)
+Budget pays operation (share)	El presupuesto paga la operación (proporción)	الميزانية تدفع التشغيل (حصة)
+Budget savings allowed	Ahorro del presupuesto permitido	ادخار الميزانية مسموح
+Building	Construcción	البناء
+Built-in (SVG)	Integrado (SVG)	مدمج (SVG)
+By family	Por familia	حسب العائلة
+By more than (%)	Por más de (%)	بأكثر من (%)
+By system	Por sistema	حسب النظام
+By technology	Por tecnología	حسب التقنية
+Cancel	Cancelar	إلغاء
+Cancelled	Cancelado	أُلغي
+Capacity	Capacidad	القدرة
+Capacity adequacy	Suficiencia de capacidad	كفاية القدرة
+Capacity factor outside 0–1	Factor de capacidad fuera de 0–1	عامل القدرة خارج 0–1
+Capacity factors are shares.	Los factores de capacidad son proporciones.	عوامل القدرة نِسَب.
+Capacity fade	Pérdida de capacidad	تراجع القدرة
+Capacity is free and unlimited	La capacidad es gratuita e ilimitada	القدرة مجانية وغير محدودة
+Capacity limits	Límites de capacidad	حدود القدرة
+Capacity online (committed) in a time slice [6].	Capacidad en línea (comprometida) en un intervalo [6].	القدرة المشغّلة (الملتزم بها) في شريحة زمنية [6].
+Capacity refurbished in the year (life extension) [2].	Capacidad renovada en el año (extensión de vida) [2].	القدرة المجدّدة في السنة (تمديد العمر) [2].
+Capacity to activity	Capacidad a actividad	القدرة إلى النشاط
+Capacity under construction: limit without construction time	Capacidad en construcción: límite sin tiempo de construcción	القدرة قيد الإنشاء: حدّ دون مدة إنشاء
+Capacity under construction: negative limit	Capacidad en construcción: límite negativo	القدرة قيد الإنشاء: حدّ سالب
+Capacity unit	Unidad de capacidad	وحدة القدرة
+Capital cost	Costo de capital	تكلفة رأس المال
+Capital cost {0}	Costo de capital {0}	تكلفة رأس المال {0}
+Capital must be financed (1)	El capital debe financiarse (1)	يجب تمويل رأس المال (1)
+Capital paid by construction year	Capital pagado por año de construcción	رأس المال المدفوع حسب سنة الإنشاء
+Capital spending on new storage capacity.	Gasto de capital en nueva capacidad de almacenamiento.	الإنفاق الرأسمالي على قدرة تخزين جديدة.
+Capital {0}	Capital {0}	رأس المال {0}
+Cascade rule	Regla de cascada	قاعدة التتابع
+Cascade share	Proporción de cascada	حصة التتابع
+Case	Caso	الحالة
+Case {0} opened in another window	Caso {0} abierto en otra ventana	الحالة {0} مفتوحة في نافذة أخرى
+Cases	Casos	الحالات
+Cases folder not reachable:	Carpeta de casos no accesible:	مجلد الحالات غير متاح:
+Cell of the driver (season, region…)	Celda del impulsor (estación, región…)	خلية المحرّك (الموسم، المنطقة…)
+Cells	Celdas	الخلايا
+Change the code everywhere in the model	Cambiar el código en todo el modelo	تغيير الرمز في كل النموذج
+Changes applied	Cambios aplicados	طُبّقت التغييرات
+Changes cleared	Cambios borrados	مُسحت التغييرات
+Changes undone	Cambios deshechos	أُلغيت التغييرات
+Charged and discharged by	Cargado y descargado por	يُشحن ويُفرّغ بواسطة
+Charged by	Cargado por	يُشحن بواسطة
+Charging link to a storage, by mode.	Enlace de carga a un almacenamiento, por modo.	رابط الشحن إلى مخزن، حسب النمط.
+Chart	Gráfico	الرسم البياني
+Chart builder	Constructor de gráficos	منشئ الرسوم
+Chart saved with this model	Gráfico guardado con este modelo	رسم محفوظ مع هذا النموذج
+Chart style	Estilo del gráfico	نمط الرسم
+Charts	Gráficos	الرسوم البيانية
+Check	Comprobación	الفحص
+Check (failed)	Comprobación (fallida)	الفحص (فشل)
+Check correlations	Comprobar correlaciones	فحص الارتباطات
+Check feasibility (exact)	Comprobar factibilidad (exacta)	فحص قابلية الحل (دقيق)
+Check it on	Comprobarlo en	افحصه على
+Checking…	Comprobando…	جارٍ الفحص…
+Checkpoint {0}	Punto de control {0}	نقطة الحفظ {0}
+Checkpoint {0} saved{1}. You keep working on {2}.	Punto de control {0} guardado{1}. Sigue trabajando en {2}.	حُفظت نقطة الحفظ {0}{1}. تواصل العمل على {2}.
+Checkpoints	Puntos de control	نقاط الحفظ
+Checkpoints of deleted cases	Puntos de control de casos eliminados	نقاط حفظ لحالات محذوفة
+Choose	Elegir	اختيار
+Choose a unit to apply	Elija una unidad para aplicar	اختر وحدة لتطبيقها
+Choose the items	Elegir los elementos	اختيار العناصر
+Choose the items first.	Elija primero los elementos.	اختر العناصر أولًا.
+Choose the model to start with	Elija el modelo con el que empezar	اختر النموذج الذي تبدأ به
+Choose…	Elegir…	اختر…
+Chronological	Cronológico	زمني متسلسل
+Clear	Borrar	مسح
+Clear (back to default)	Borrar (volver al valor por defecto)	مسح (العودة إلى الافتراضي)
+Clear changes	Borrar cambios	مسح التغييرات
+Clear filters	Borrar filtros	مسح عوامل التصفية
+Clear for these items	Borrar para estos elementos	مسح لهذه العناصر
+Clear {0} row{1}	Borrar {0} fila{1}	مسح {0} صف{1}
+Click	Clic	انقر
+Click to search and choose	Clic para buscar y elegir	انقر للبحث والاختيار
+Climate and emissions	Clima y emisiones	المناخ والانبعاثات
+Climate drivers (by region and season)	Impulsores climáticos (por región y estación)	محرّكات المناخ (حسب المنطقة والموسم)
+Close	Cerrar	إغلاق
+Close all	Cerrar todo	إغلاق الكل
+Coal	Carbón	الفحم
+Code	Código	الرمز
+Code of the copy of {0}:	Código de la copia de {0}:	رمز نسخة {0}:
+Code of {0}	Código de {0}	رمز {0}
+Code · description	Código · descripción	الرمز · الوصف
+Coefficient of variation over the years (%)	Coeficiente de variación en los años (%)	معامل الاختلاف عبر السنوات (%)
+Coefficient on new capacity in a user-defined constraint.	Coeficiente sobre capacidad nueva en una restricción del usuario.	معامل القدرة الجديدة في قيد يحدده المستخدم.
+Coefficient on the activity in a user-defined constraint.	Coeficiente sobre la actividad en una restricción del usuario.	معامل النشاط في قيد يحدده المستخدم.
+Coefficient on total capacity in a user-defined constraint.	Coeficiente sobre la capacidad total en una restricción del usuario.	معامل القدرة الكلية في قيد يحدده المستخدم.
+Coherence inside this parameter: {0}	Coherencia dentro de este parámetro: {0}	الاتساق داخل هذه المعلمة: {0}
+Collapse all	Contraer todo	طيّ الكل
+Colour	Color	اللون
+Colour of the Studio	Color del Studio	لون الاستوديو
+Colour of the page	Color de la página	لون الصفحة
+Colour of the topic {0} (for you only)	Color del tema {0} (solo para usted)	لون الموضوع {0} (لك فقط)
+Colour of this page	Color de esta página	لون هذه الصفحة
+Colour of this parameter (for you only)	Color de este parámetro (solo para usted)	لون هذه المعلمة (لك فقط)
+Colour ▾	Color ▾	اللون ▾
+Colours everywhere	Colores en todas partes	الألوان في كل مكان
+Colours, names and marks	Colores, nombres y marcas	الألوان والأسماء والعلامات
+Colours{0}	Colores{0}	الألوان{0}
+Columns	Columnas	الأعمدة
+Combined	Combinado	مُجمَّع
+Combined targets: % of futures (bars)	Metas combinadas: % de futuros (barras)	الأهداف المجمّعة: % من المستقبلات (أعمدة)
+Combined:	Combinado:	مُجمَّع:
+Committed	Comprometido	ملتزم به
+Committed investment above the budget and external finance	Inversión comprometida por encima del presupuesto y la financiación externa	استثمار ملتزم به يفوق الميزانية والتمويل الخارجي
+Committed investment with no eligible finance source	Inversión comprometida sin fuente de financiación elegible	استثمار ملتزم به دون مصدر تمويل مؤهل
+Committed money above the envelope of the source	Dinero comprometido por encima del techo de la fuente	مال ملتزم به يفوق سقف المصدر
+Committed money above what the source has	Dinero comprometido por encima de lo que tiene la fuente	مال ملتزم به يفوق ما لدى المصدر
+Committed {0} above its ceiling	{0} comprometido por encima de su techo	{0} ملتزم به يفوق سقفه
+Committed {0}-{1}	Comprometido {0}-{1}	ملتزم به {0}-{1}
+Commodities	Productos	السلع
+Commodities (technologies)	Productos (tecnologías)	السلع (التقنيات)
+Commodity	Producto	السلعة
+Commodity balances	Balances de productos	موازين السلع
+Commodity used per unit of installed capacity (InputToTotalCapacityRatio).	Producto usado por unidad de capacidad instalada (InputToTotalCapacityRatio).	السلعة المستخدمة لكل وحدة قدرة مركّبة (InputToTotalCapacityRatio).
+Commodity used to build new capacity (InputToNewCapacityRatio).	Producto usado para construir capacidad nueva (InputToNewCapacityRatio).	السلعة المستخدمة لبناء قدرة جديدة (InputToNewCapacityRatio).
+Compare the runs	Comparar las ejecuciones	مقارنة التشغيلات
+Compute	Calcular	احسب
+Compute first	Calcule primero	احسب أولًا
+Computed ({0})	Calculado ({0})	محسوب ({0})
+Computed on	Calculado sobre	محسوب على
+Computing 200 samples…	Calculando 200 muestras…	جارٍ حساب 200 عيّنة…
+Computing the metrics of every strategy and future…	Calculando las métricas de cada estrategia y futuro…	جارٍ حساب مقاييس كل استراتيجية ومستقبل…
+Concessional	Concesional	ميسّر
+Constant	Constante	ثابت
+Constant {0}	Constante {0}	ثابت {0}
+Constraint	Restricción	القيد
+Constraints	Restricciones	القيود
+Constraints and objective	Restricciones y objetivo	القيود ودالة الهدف
+Construction time	Tiempo de construcción	مدة الإنشاء
+Construction time: negative spending share	Tiempo de construcción: proporción de gasto negativa	مدة الإنشاء: حصة إنفاق سالبة
+Construction time: spending weights normalised to shares	Tiempo de construcción: pesos de gasto normalizados a proporciones	مدة الإنشاء: أوزان الإنفاق مُعيَّرة إلى حصص
+Construction time: whole number of years (1-20)	Tiempo de construcción: número entero de años (1-20)	مدة الإنشاء: عدد صحيح من السنوات (1-20)
+Construction years before online	Años de construcción antes de entrar en servicio	سنوات الإنشاء قبل التشغيل
+Continue	Continuar	متابعة
+Continue from it	Continuar desde él	المتابعة منها
+Convergence	Convergencia	التقارب
+Convergence: is the number of samples enough?	Convergencia: ¿es suficiente el número de muestras?	التقارب: هل عدد العيّنات كافٍ؟
+Conversion	Conversión	التحويل
+Converting…	Convirtiendo…	جارٍ التحويل…
+Cooling	Refrigeración	التبريد
+Copied	Copiado	نُسخ
+Copied as they are	Copiados tal cual	نُسخت كما هي
+Copy (Excel)	Copiar (Excel)	نسخ (Excel)
+Copy CSV	Copiar CSV	نسخ CSV
+Copy not allowed here	Copiar no está permitido aquí	النسخ غير مسموح هنا
+Copy to all regions	Copiar a todas las regiones	نسخ إلى كل المناطق
+Correlation between them	Correlación entre ellos	الارتباط بينها
+Correlations and sampling	Correlaciones y muestreo	الارتباطات والمعاينة
+Correlations between uncertain parameters	Correlaciones entre parámetros inciertos	الارتباطات بين المعلمات غير المؤكدة
+Cost of myopia	Costo de la miopía	تكلفة قصر النظر
+Cost of the rolling plan	Costo del plan rodante	تكلفة الخطة المتدحرجة
+Costs	Costos	التكاليف
+Could not add	No se pudo añadir	تعذّرت الإضافة
+Could not draw with {0}: {1}	No se pudo dibujar con {0}: {1}	تعذّر الرسم باستخدام {0}: {1}
+Could not import	No se pudo importar	تعذّر الاستيراد
+Could not open the folder	No se pudo abrir la carpeta	تعذّر فتح المجلد
+Could not read	No se pudo leer	تعذّرت القراءة
+Could not read the model: {0}	No se pudo leer el modelo: {0}	تعذّرت قراءة النموذج: {0}
+Could not save in the browser library:	No se pudo guardar en la biblioteca del navegador:	تعذّر الحفظ في مكتبة المتصفح:
+Could not save the case:	No se pudo guardar el caso:	تعذّر حفظ الحالة:
+Could not save:	No se pudo guardar:	تعذّر الحفظ:
+Could not start the run:	No se pudo iniciar la ejecución:	تعذّر بدء التشغيل:
+Could not start:	No se pudo iniciar:	تعذّر البدء:
+Could not write the description:	No se pudo escribir la descripción:	تعذّرت كتابة الوصف:
+Count of values	Número de valores	عدد القيم
+Counts	Recuentos	الأعداد
+Create	Crear	إنشاء
+Create and edit in the diagram	Crear y editar en el diagrama	إنشاء وتحرير في المخطط
+Create model	Crear modelo	إنشاء نموذج
+Credit line	Línea de crédito	خط ائتمان
+Crop yield and calendar	Rendimiento y calendario de cultivos	مردود المحاصيل وتقويمها
+Crops	Cultivos	المحاصيل
+Cross-border link	Enlace transfronterizo	ربط عابر للحدود
+Cross-border links	Enlaces transfronterizos	روابط عابرة للحدود
+Crossover	Crossover	التقاطع (Crossover)
+Crossover{0}	Crossover{0}	التقاطع{0}
+Cumulative distribution of {0}{1}	Distribución acumulada de {0}{1}	التوزيع التراكمي لـ {0}{1}
+Cumulative over rows	Acumulado por filas	تراكمي عبر الصفوف
+Currency	Moneda	العملة
+Currency set	Moneda fijada	حُدّدت العملة

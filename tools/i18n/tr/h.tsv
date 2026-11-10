@@ -1,0 +1,363 @@
+(all years)	(todos los años)	(كل السنوات)
+(only those set in the data; the others keep their default)	(solo los fijados en los datos; los demás conservan su valor por defecto)	(فقط المحددة في البيانات؛ يحتفظ الباقي بقيمته الافتراضية)
+(UDCConstant, summed over the regions)	(UDCConstant, sumado sobre las regiones)	(UDCConstant، مجموعًا على المناطق)
++ Add	+ Añadir	+ إضافة
++ Commodity	+ Producto	+ سلعة
++ Constraint (UDC)	+ Restricción (UDC)	+ قيد (UDC)
++ Emission	+ Emisión	+ انبعاث
++ finance	+ financiación	+ تمويل
++ Scenario	+ Escenario	+ سيناريو
++ Storage	+ Almacenamiento	+ مخزن
++ Technology	+ Tecnología	+ تقنية
+. Empty = default.	. Vacío = por defecto.	. فارغ = الافتراضي.
+= national	= nacional	= وطني
+= regional	= regional	= إقليمي
+A copy with all its data, under a new code	Una copia con todos sus datos, con un código nuevo	نسخة بكل بياناتها تحت رمز جديد
+a user-defined constraint uses this storage	una restricción del usuario usa este almacenamiento	قيد مستخدم يستعمل هذا المخزن
+activity	actividad	النشاط
+Add a fixed amount per step (cumulative: {0}, {1}, {2} …)	Sumar una cantidad fija por paso (acumulada: {0}, {1}, {2} …)	إضافة مقدار ثابت لكل خطوة (تراكمي: {0}، {1}، {2} …)
+Add a fixed amount per year (cumulative: {0}, {1}, {2} …)	Sumar una cantidad fija por año (acumulada: {0}, {1}, {2} …)	إضافة مقدار ثابت لكل سنة (تراكمي: {0}، {1}، {2} …)
+Age: all ({0}) ▾	Edad: todas ({0}) ▾	العمر: الكل ({0}) ▾
+Mode: all ({0}) ▾	Modo: todos ({0}) ▾	النمط: الكل ({0}) ▾
+Season: all ({0}) ▾	Estación: todas ({0}) ▾	الموسم: الكل ({0}) ▾
+Day part: all ({0}) ▾	Parte del día: todas ({0}) ▾	جزء اليوم: الكل ({0}) ▾
+Finance: all ({0}) ▾	Financiación: todas ({0}) ▾	التمويل: الكل ({0}) ▾
+Timeslice: all ({0}) ▾	Intervalo: todos ({0}) ▾	الشريحة الزمنية: الكل ({0}) ▾
+Vintage: all ({0}) ▾	Cohorte: todas ({0}) ▾	الفوج: الكل ({0}) ▾
+Systems: all ({0}) ▾	Sistemas: todos ({0}) ▾	الأنظمة: الكل ({0}) ▾
+Commodity: none ▾	Producto: ninguno ▾	السلعة: لا شيء ▾
+Emission: none ▾	Emisión: ninguna ▾	الانبعاث: لا شيء ▾
+Storage: none ▾	Almacenamiento: ninguno ▾	المخزن: لا شيء ▾
+Technology: none ▾	Tecnología: ninguna ▾	التقنية: لا شيء ▾
+Udc: none ▾	Udc: ninguna ▾	Udc: لا شيء ▾
+Agriculture (AGRI)	Agricultura (AGRI)	الزراعة (AGRI)
+Energy (ENERGY)	Energía (ENERGY)	الطاقة (ENERGY)
+Land (LAND)	Tierra (LAND)	الأرض (LAND)
+Water (WATER)	Agua (WATER)	الماء (WATER)
+all regions ·	todas las regiones ·	كل المناطق ·
+all regions, {0}:	todas las regiones, {0}:	كل المناطق، {0}:
+allow negative values	permitir valores negativos	السماح بالقيم السالبة
+also solve the whole horizon at once (perfect foresight) to measure the cost of myopia	resolver también todo el horizonte de una vez (previsión perfecta) para medir el costo de la miopía	حلّ الأفق كله دفعة واحدة أيضًا (بصيرة كاملة) لقياس تكلفة قصر النظر
+an emission limit is set	hay un límite de emisiones	حُدّد حد للانبعاثات
+Analyse	Analizar	التحليل
+Share	Compartir	المشاركة
+Workflow	Flujo de trabajo	سير العمل
+automatic (HiGHS chooses)	automático (HiGHS elige)	تلقائي (يختار HiGHS)
+availability (bounded {0}-{1})	disponibilidad (acotada {0}-{1})	الإتاحة (محصورة {0}-{1})
+capacity factor (bounded {0}-{1})	factor de capacidad (acotado {0}-{1})	معامل القدرة (محصور {0}-{1})
+Back to the default value in the selected rows (one undo step)	Volver al valor por defecto en las filas seleccionadas (un paso de deshacer)	العودة إلى القيمة الافتراضية في الصفوف المحددة (خطوة تراجع واحدة)
+Bring back a case from a backup zip (as a new case: nothing is overwritten)	Recuperar un caso desde una copia zip (como caso nuevo: no se sobrescribe nada)	استرجاع حالة من نسخة zip (كحالة جديدة: لا يُستبدل شيء)
+Build	Construir	البناء
+Build and edit	Construir y editar	البناء والتحرير
+Build or edit the model, then save data.txt	Construya o edite el modelo y luego guarde data.txt	ابنِ النموذج أو حرّره ثم احفظ data.txt
+Calculations	Cálculos	الحسابات
+planned	previsto	مخطط
+Calculations (residual capacity from vintages, then more): planned, not built yet	Cálculos (capacidad residual desde cohortes, y más): previsto, aún no construido	الحسابات (القدرة المتبقية من الأفواج، ثم المزيد): مخطط، لم يُبنَ بعد
+Planned: residual capacity from the years and sizes of the plants, then other calculators	Previsto: capacidad residual a partir de los años y tamaños de las plantas, luego otras calculadoras	مخطط: القدرة المتبقية من سنوات المحطات وأحجامها، ثم حاسبات أخرى
+can be built only from	solo puede construirse desde	لا يمكن بناؤها إلا من
+can be used only from	solo puede usarse desde	لا يمكن استخدامها إلا من
+capacity and annual activity by cohort	capacidad y actividad anual por cohorte	القدرة والنشاط السنوي حسب الفوج
+carbon price (policy)	precio del carbono (política)	سعر الكربون (سياسة)
+Check the data for infeasibilities before solving	Compruebe los datos en busca de infactibilidades antes de resolver	افحص البيانات بحثًا عن عدم الجدوى قبل الحل
+choose	elegir	اختر
+Choose the model to work with (the dialog shown at start)	Elija el modelo con el que trabajar (el diálogo del inicio)	اختر النموذج الذي تعمل عليه (نافذة البداية)
+chronological	cronológico	زمني
+Clear {0} row	Borrar {0} fila	مسح {0} صف
+Clear {0} rows	Borrar {0} filas	مسح {0} صفوف
+click a box to edit it	haga clic en una caja para editarla	انقر على صندوق لتحريره
+click: select every cell	clic: seleccionar todas las celdas	نقرة: تحديد كل الخلايا
+click: select the column · Ctrl+click: add or remove one · Shift+click: a range	clic: seleccionar la columna · Ctrl+clic: añadir o quitar una · Mayús+clic: un rango	نقرة: تحديد العمود · Ctrl+نقرة: إضافة أو إزالة واحد · Shift+نقرة: نطاق
+{0} · click: select the column · Ctrl+click: add or remove one · Shift+click: a range	{0} · clic: seleccionar la columna · Ctrl+clic: añadir o quitar una · Mayús+clic: un rango	{0} · نقرة: تحديد العمود · Ctrl+نقرة: إضافة أو إزالة واحد · Shift+نقرة: نطاق
+Code or name; several words = all of them	Código o nombre; varias palabras = todas ellas	الرمز أو الاسم؛ عدة كلمات = كلها معًا
+Colour of the Studio: box edges, the item you click, buttons	Color del Studio: bordes de las cajas, el elemento que pulsa, botones	لون الاستوديو: حواف الصناديق، العنصر الذي تنقره، الأزرار
+columns from	columnas desde	الأعمدة من
+commodity	producto	السلعة
+commodity of the new rows: {0} selected. Click to search and choose	producto de las filas nuevas: {0} seleccionado(s). Clic para buscar y elegir	سلعة الصفوف الجديدة: {0} محدد. انقر للبحث والاختيار
+emission of the new rows: {0} selected. Click to search and choose	emisión de las filas nuevas: {0} seleccionada(s). Clic para buscar y elegir	انبعاث الصفوف الجديدة: {0} محدد. انقر للبحث والاختيار
+mode of the new rows: {0} selected. Click to search and choose	modo de las filas nuevas: {0} seleccionado(s). Clic para buscar y elegir	نمط الصفوف الجديدة: {0} محدد. انقر للبحث والاختيار
+season of the new rows: {0} selected. Click to search and choose	estación de las filas nuevas: {0} seleccionada(s). Clic para buscar y elegir	موسم الصفوف الجديدة: {0} محدد. انقر للبحث والاختيار
+storage of the new rows: {0} selected. Click to search and choose	almacenamiento de las filas nuevas: {0} seleccionado(s). Clic para buscar y elegir	مخزن الصفوف الجديدة: {0} محدد. انقر للبحث والاختيار
+technology of the new rows: {0} selected. Click to search and choose	tecnología de las filas nuevas: {0} seleccionada(s). Clic para buscar y elegir	تقنية الصفوف الجديدة: {0} محدد. انقر للبحث والاختيار
+timeslice of the new rows: {0} selected. Click to search and choose	intervalo de las filas nuevas: {0} seleccionado(s). Clic para buscar y elegir	شريحة الصفوف الجديدة: {0} محدد. انقر للبحث والاختيار
+udc of the new rows: {0} selected. Click to search and choose	udc de las filas nuevas: {0} seleccionada(s). Clic para buscar y elegir	قيد الصفوف الجديدة: {0} محدد. انقر للبحث والاختيار
+Show only the rows with these ages: {0} selected. Click to search and choose	Mostrar solo las filas con estas edades: {0} seleccionada(s). Clic para buscar y elegir	إظهار الصفوف بهذه الأعمار فقط: {0} محدد. انقر للبحث والاختيار
+Show only the rows with these day parts: {0} selected. Click to search and choose	Mostrar solo las filas con estas partes del día: {0} seleccionada(s). Clic para buscar y elegir	إظهار الصفوف بأجزاء اليوم هذه فقط: {0} محدد. انقر للبحث والاختيار
+Show only the rows with these finances: {0} selected. Click to search and choose	Mostrar solo las filas con estas financiaciones: {0} seleccionada(s). Clic para buscar y elegir	إظهار الصفوف بمصادر التمويل هذه فقط: {0} محدد. انقر للبحث والاختيار
+Show only the rows with these modes: {0} selected. Click to search and choose	Mostrar solo las filas con estos modos: {0} seleccionado(s). Clic para buscar y elegir	إظهار الصفوف بهذه الأنماط فقط: {0} محدد. انقر للبحث والاختيار
+Show only the rows with these seasons: {0} selected. Click to search and choose	Mostrar solo las filas con estas estaciones: {0} seleccionada(s). Clic para buscar y elegir	إظهار الصفوف بهذه المواسم فقط: {0} محدد. انقر للبحث والاختيار
+Show only the rows with these timeslices: {0} selected. Click to search and choose	Mostrar solo las filas con estos intervalos: {0} seleccionado(s). Clic para buscar y elegir	إظهار الصفوف بهذه الشرائح فقط: {0} محدد. انقر للبحث والاختيار
+Show only the rows with these vintages: {0} selected. Click to search and choose	Mostrar solo las filas con estas cohortes: {0} seleccionada(s). Clic para buscar y elegir	إظهار الصفوف بهذه الأفواج فقط: {0} محدد. انقر للبحث والاختيار
+Show only the technologies of some systems: {0} selected. Click to search and choose	Mostrar solo las tecnologías de algunos sistemas: {0} seleccionado(s). Clic para buscar y elegir	إظهار تقنيات بعض الأنظمة فقط: {0} محدد. انقر للبحث والاختيار
+cost	costo	التكلفة
+Create a MUIO case from this model and/or a run (MUIO installed on this computer)	Crear un caso MUIO desde este modelo y/o una ejecución (MUIO instalado en este equipo)	إنشاء حالة MUIO من هذا النموذج و/أو تشغيل (MUIO مثبت على هذا الحاسوب)
+Dashed = reverse direction · dotted = own use	Discontinua = dirección inversa · punteada = uso propio	متقطع = اتجاه معاكس · منقّط = استهلاك ذاتي
+data checks · {0}	comprobación de datos · {0}	فحص البيانات · {0}
+Delete	Eliminar	حذف
+Delete it and all its data (Undo on this page)	Eliminarlo con todos sus datos (Deshacer en esta página)	حذفه مع كل بياناته (تراجع في هذه الصفحة)
+Delete technology {0}	Eliminar la tecnología {0}	حذف التقنية {0}
+demand	demanda	الطلب
+differs by region	difiere por región	يختلف حسب المنطقة
+discount rate	tasa de descuento	معدل الخصم
+down the rows from	filas abajo desde	نزولًا في الصفوف من
+Download the template	Descargar la plantilla	تنزيل القالب
+dual simplex	símplex dual	السمبلكس المزدوج
+simplex	símplex	السمبلكس
+e.g. High gas price	p. ej. Precio alto del gas	مثال: سعر غاز مرتفع
+early retirement allowed	retiro anticipado permitido	التقاعد المبكر مسموح
+emission	emisión	الانبعاث
+emission factor	factor de emisión	معامل الانبعاث
+emission limit (policy)	límite de emisiones (política)	حد الانبعاثات (سياسة)
+empty = none	vacío = ninguno	فارغ = لا شيء
+Energy, water, land use, climate…: create them first, then each item belongs to one	Energía, agua, uso del suelo, clima…: créelos primero; luego cada elemento pertenece a uno	الطاقة، الماء، استخدام الأراضي، المناخ…: أنشئها أولًا، ثم ينتمي كل عنصر إلى واحد منها
+Every combination of what is chosen above; rows already there are kept	Cada combinación de lo elegido arriba; las filas existentes se conservan	كل تركيبة مما اختير أعلاه؛ يُحتفظ بالصفوف الموجودة
+Every emission, constraint (UDC), storage and vintaged technology with its whole configuration, one page each	Cada emisión, restricción (UDC), almacenamiento y tecnología con cohortes con toda su configuración, una página cada uno	كل انبعاث وقيد (UDC) ومخزن وتقنية بأفواج بكامل إعداداتها، صفحة لكل منها
+Every fill formula stops at {0}: a value that would cross 0 is written as 0	Toda fórmula de relleno se detiene en {0}: un valor que cruzaría 0 se escribe como 0	كل صيغة تعبئة تتوقف عند {0}: القيمة التي تتجاوز 0 تُكتب 0
+existing capacity	capacidad existente	القدرة القائمة
+eXogenous uncertainties:	incertidumbres eXógenas:	عوامل عدم اليقين الخارجية (X):
+PoLicy Levers:	Palancas de poLítica:	روافع السياسة (L):
+Export image…	Exportar imagen…	تصدير صورة…
+Export the diagram: title, author, legend, size, font, resolution, PNG / SVG / PDF	Exportar el diagrama: título, autor, leyenda, tamaño, fuente, resolución, PNG / SVG / PDF	تصدير المخطط: العنوان، المؤلف، وسيلة الإيضاح، الحجم، الخط، الدقة، PNG / SVG / PDF
+Export the model description (Excel)…	Exportar la descripción del modelo (Excel)…	تصدير وصف النموذج (Excel)…
+Filter by code or name (also the technologies in them)	Filtrar por código o nombre (también las tecnologías que contienen)	التصفية بالرمز أو الاسم (والتقنيات التي فيها أيضًا)
+Filter technologies	Filtrar tecnologías	تصفية التقنيات
+finance	financiación	التمويل
+Find a technology	Buscar una tecnología	البحث عن تقنية
+Fit	Ajustar	ملاءمة
+Folders group the cases by theme (a country, a paper, a test series).	Las carpetas agrupan los casos por tema (un país, un artículo, una serie de pruebas).	تجمع المجلدات الحالات حسب الموضوع (بلد، ورقة بحثية، سلسلة اختبارات).
+fraction	fracción	كسر
+Harmless for activity results; set a small cost or a maximum capacity if you chart capacities.	Inofensivo para los resultados de actividad; fije un costo pequeño o una capacidad máxima si grafica capacidades.	غير ضار بنتائج النشاط؛ ضع تكلفة صغيرة أو قدرة قصوى إن كنت ترسم القدرات.
+Hide the browser (More ▸ Show the model browser brings it back)	Ocultar el explorador (Más ▸ Mostrar el explorador del modelo lo recupera)	إخفاء المستعرض (المزيد ▸ إظهار مستعرض النموذج يعيده)
+HiGHS settings	Ajustes de HiGHS	إعدادات HiGHS
+how decisions and futures become results	cómo las decisiones y los futuros se vuelven resultados	كيف تتحول القرارات والمستقبلات إلى نتائج
+how you judge a strategy in a future	cómo juzga una estrategia en un futuro	كيف تحكم على استراتيجية في مستقبل ما
+Icons in the diagram	Iconos en el diagrama	الأيقونات في المخطط
+Icons: badges	Iconos: insignias	الأيقونات: شارات
+Icons: chosen only	Iconos: solo los elegidos	الأيقونات: المختارة فقط
+No icons	Sin iconos	بلا أيقونات
+Import a MUIO case (zip)…	Importar un caso MUIO (zip)…	استيراد حالة MUIO (zip)…
+in a UDC	en una UDC	في قيد UDC
+In:	En:	في:
+infeasible	infactible	غير ممكن
+input ratio (efficiency)	relación de entrada (eficiencia)	نسبة المدخل (الكفاءة)
+inter-year	interanual	بين السنوات
+keep the first column's value	conservar el valor de la primera columna	الاحتفاظ بقيمة العمود الأول
+Language of the Studio	Idioma del Studio	لغة الاستوديو
+Leave the build mode (the model stays as it is)	Salir del modo construcción (el modelo queda como está)	مغادرة وضع البناء (يبقى النموذج كما هو)
+length of the crop stages (days)	duración de las etapas del cultivo (días)	طول مراحل المحصول (أيام)
+library	biblioteca	المكتبة
+lifetime	vida útil	العمر التشغيلي
+Light / dark theme	Tema claro / oscuro	سمة فاتحة / داكنة
+Switch light / dark	Cambiar claro / oscuro	التبديل فاتح / داكن
+limit (deployment / policy)	límite (despliegue / política)	حد (النشر / السياسة)
+limit of the capacity under construction	límite de la capacidad en construcción	حد القدرة قيد الإنشاء
+limited	limitado	محدود
+Linked · {0} window	Vinculada · {0} ventana	مرتبطة · {0} نافذة
+Linked · {0} windows	Vinculada · {0} ventanas	مرتبطة · {0} نوافذ
+Load descriptions (CSV)…	Cargar descripciones (CSV)…	تحميل الأوصاف (CSV)…
+lowest yield factor	factor de rendimiento mínimo	أدنى معامل مردود
+Map and table of the commodities that cross from one system to another	Mapa y tabla de los productos que pasan de un sistema a otro	خريطة وجدول السلع التي تعبر من نظام إلى آخر
+MIP gap	Brecha MIP	فجوة MIP
+Model browser	Explorador del modelo	مستعرض النموذج
+Model file (.txt, .mod)	Archivo de modelo (.txt, .mod)	ملف النموذج (.txt، .mod)
+model files	archivos de modelo	ملفات النموذج
+model-specific	propio del modelo	خاص بالنموذج
+More	Más	المزيد
+More ▾	Más ▾	المزيد ▾
+my own windows (start year and years seen of each)	mis propias ventanas (año de inicio y años vistos de cada una)	نوافذي الخاصة (سنة البداية والسنوات المرئية لكل منها)
+negative ratio: the technology absorbs this emission	relación negativa: la tecnología absorbe esta emisión	نسبة سالبة: التقنية تمتص هذا الانبعاث
+New capacity and the yearly activity of each mode stay as decided.	La capacidad nueva y la actividad anual de cada modo quedan como se decidieron.	تبقى القدرة الجديدة والنشاط السنوي لكل نمط كما تقرر.
+New capacity stays as decided; operation of those years can change in later windows (past kept mode).	La capacidad nueva queda como se decidió; la operación de esos años puede cambiar en ventanas posteriores (modo pasado conservado).	تبقى القدرة الجديدة كما تقرر؛ ويمكن أن يتغير تشغيل تلك السنوات في النوافذ اللاحقة (نمط الماضي المحفوظ).
+New window	Nueva ventana	نافذة جديدة
+next to your cases.	junto a sus casos.	بجانب حالاتك.
+no formula file	sin archivo de fórmulas	لا يوجد ملف صيغ
+No jobs yet: Solve the model to start one.	Aún no hay trabajos: resuelva el modelo para iniciar uno.	لا مهام بعد: حلّ النموذج لبدء مهمة.
+not set (no constraint)	sin fijar (sin restricción)	غير محدد (بلا قيد)
+not used by any constraint	no usado por ninguna restricción	غير مستخدم في أي قيد
+notes	notas	ملاحظات
+Nothing to do if these are the shares you want; otherwise correct the weights.	Nada que hacer si estas son las proporciones que quiere; si no, corrija los pesos.	لا شيء يلزم إن كانت هذه الحصص المطلوبة؛ وإلا فصحّح الأوزان.
+on (default)	activado (por defecto)	مفعّل (افتراضي)
+on (exact vertex, exact duals)	activado (vértice exacto, duales exactos)	مفعّل (رأس دقيق، قيم مزدوجة دقيقة)
+on = exact vertex solution, slower	activado = solución de vértice exacta, más lenta	مفعّل = حل رأس دقيق، أبطأ
+only for integer models	solo para modelos enteros	للنماذج الصحيحة فقط
+only the {0} selected column	solo la {0} columna seleccionada	العمود المحدد {0} فقط
+only the {0} selected columns	solo las {0} columnas seleccionadas	الأعمدة المحددة {0} فقط
+Open a data file, descriptions, view options, theme	Abrir un archivo de datos, descripciones, opciones de vista, tema	فتح ملف بيانات، أوصاف، خيارات العرض، السمة
+Open a workflow in a new window (for a second screen)	Abrir un flujo de trabajo en una ventana nueva (para una segunda pantalla)	فتح سير عمل في نافذة جديدة (لشاشة ثانية)
+Open any OSeMOSYS / MUIO data file (MathProg format), or drop it on the page	Abrir cualquier archivo de datos OSeMOSYS / MUIO (formato MathProg), o soltarlo en la página	فتح أي ملف بيانات OSeMOSYS / MUIO (صيغة MathProg) أو إفلاته على الصفحة
+Open as a new case	Abrir como caso nuevo	فتح كحالة جديدة
+Open data file…	Abrir archivo de datos…	فتح ملف بيانات…
+Open Diagram and data in a new window	Abrir Diagrama y datos en una ventana nueva	فتح المخطط والبيانات في نافذة جديدة
+Open Jobs and monitor in a new window	Abrir Trabajos y monitor en una ventana nueva	فتح المهام والمراقبة في نافذة جديدة
+Open Results in a new window	Abrir Resultados en una ventana nueva	فتح النتائج في نافذة جديدة
+Open Monte Carlo in a new window	Abrir Monte Carlo en una ventana nueva	فتح مونت كارلو في نافذة جديدة
+Open futures →	Abrir futuros →	فتح المستقبلات →
+Open metrics →	Abrir métricas →	فتح المقاييس →
+Open model →	Abrir modelo →	فتح النموذج →
+Open strategies →	Abrir estrategias →	فتح الاستراتيجيات →
+Optional: CSV with code,description (technologies and commodities)	Opcional: CSV con código,descripción (tecnologías y productos)	اختياري: CSV برمز ووصف (التقنيات والسلع)
+OSeMOSYS master {0} (built in)	OSeMOSYS master {0} (integrado)	OSeMOSYS master {0} (مدمج)
+MUIO {0} (standard, built in)	MUIO {0} (estándar, integrado)	MUIO {0} (قياسي، مدمج)
+Other model files ({0})	Otros archivos de modelo ({0})	ملفات نماذج أخرى ({0})
+output ratio	relación de salida	نسبة المخرج
+Paste a table copied from Excel (with or without its labels)	Pegar una tabla copiada de Excel (con o sin sus etiquetas)	لصق جدول منسوخ من Excel (مع تسمياته أو بدونها)
+policy target	meta de política	هدف السياسة
+priced	con precio	مُسعّر
+profile (shares of the year)	perfil (fracciones del año)	المنحنى (حصص السنة)
+refurbishment cost	costo de renovación	تكلفة التجديد
+retirement cost	costo de retiro	تكلفة الإحالة
+Restore a Studio backup (zip)…	Restaurar una copia del Studio (zip)…	استعادة نسخة احتياطية للاستوديو (zip)…
+Row value	Valor de la fila	قيمة الصف
+UDC1: one constraint per region and year, sum of the terms ≤ constant	UDC1: una restricción por región y año, suma de los términos ≤ constante	UDC1: قيد لكل منطقة وسنة، مجموع الحدود ≤ الثابت
+UDC2: one constraint per region and year, sum of the terms = constant	UDC2: una restricción por región y año, suma de los términos = constante	UDC2: قيد لكل منطقة وسنة، مجموع الحدود = الثابت
+RUDC1: one constraint per year, terms of all regions summed ≤ sum of the constants	RUDC1: una restricción por año, términos de todas las regiones sumados ≤ suma de las constantes	RUDC1: قيد لكل سنة، مجموع حدود كل المناطق ≤ مجموع الثوابت
+RUDC2: one constraint per year, terms of all regions summed = sum of the constants	RUDC2: una restricción por año, términos de todas las regiones sumados = suma de las constantes	RUDC2: قيد لكل سنة، مجموع حدود كل المناطق = مجموع الثوابت
+≤ national	≤ nacional	≤ وطني
+≤ national (UDC1)	≤ nacional (UDC1)	≤ وطني (UDC1)
+≤ regional	≤ regional	≤ إقليمي
+≤ regional, all regions summed (RUDC1)	≤ regional, todas las regiones sumadas (RUDC1)	≤ إقليمي، مجموع كل المناطق (RUDC1)
+run · server http://{0}	ejecutar · servidor http://{0}	تشغيل · الخادم http://{0}
+Save a checkpoint	Guardar un punto de control	حفظ نقطة حفظ
+Save a checkpoint: a copy of the model as it is now, kept unchanged; you go on working, and can go back to it from Cases	Guardar un punto de control: una copia del modelo tal como está, sin cambios; usted sigue trabajando y puede volver a ella desde Casos	حفظ نقطة حفظ: نسخة من النموذج كما هو الآن تبقى دون تغيير؛ تواصل العمل ويمكنك العودة إليها من الحالات
+Save data.txt	Guardar data.txt	حفظ data.txt
+Save state of the open case: each change adds one to the edit count	Estado de guardado del caso abierto: cada cambio suma uno al contador de ediciones	حالة حفظ الحالة المفتوحة: كل تغيير يضيف واحدًا إلى عداد التعديلات
+saved	guardado	محفوظ
+saving…	guardando…	جارٍ الحفظ…
+not saved	sin guardar	غير محفوظ
+saved · {0} edit	guardado · {0} edición	محفوظ · {0} تعديل
+saved · {0} edits	guardado · {0} ediciones	محفوظ · {0} تعديلات
+saving… · {0} edit	guardando… · {0} edición	جارٍ الحفظ… · {0} تعديل
+saving… · {0} edits	guardando… · {0} ediciones	جارٍ الحفظ… · {0} تعديلات
+not saved · {0} edit	sin guardar · {0} edición	غير محفوظ · {0} تعديل
+not saved · {0} edits	sin guardar · {0} ediciones	غير محفوظ · {0} تعديلات
+Scenarios as in MUIO: the base and the values each scenario changes	Escenarios como en MUIO: la base y los valores que cambia cada escenario	السيناريوهات كما في MUIO: الأساس والقيم التي يغيّرها كل سيناريو
+Selection tool: click boxes or commodity lines, or drag a rectangle (Ctrl / Shift + click works too)	Herramienta de selección: pulse cajas o líneas de productos, o arrastre un rectángulo (Ctrl / Mayús + clic también)	أداة التحديد: انقر الصناديق أو خطوط السلع أو اسحب مستطيلًا (Ctrl / Shift + نقرة تعمل أيضًا)
+set (TimesliceGroup / Order / Hours): chronological storage and unit commitment can use it	fijado (TimesliceGroup / Order / Hours): el almacenamiento cronológico y el compromiso de unidades pueden usarlo	محدد (TimesliceGroup / Order / Hours): يمكن للتخزين الزمني والتزام الوحدات استخدامه
+Set the ticked:	Fijar los marcados:	ضبط المحدد:
+Sets, parameters, constraints	Conjuntos, parámetros, restricciones	المجموعات، المعلمات، القيود
+share / fraction ({0}-{1}, model-specific)	proporción / fracción ({0}-{1}, propia del modelo)	حصة / كسر ({0}-{1}، خاص بالنموذج)
+Show backstops	Mostrar tecnologías de respaldo	إظهار تقنيات الاحتياط
+Show inactive technologies	Mostrar tecnologías inactivas	إظهار التقنيات غير النشطة
+show structural parameters	mostrar parámetros estructurales	إظهار المعلمات البنيوية
+Show the model browser	Mostrar el explorador del modelo	إظهار مستعرض النموذج
+soil water store of the crop	reserva de agua del suelo del cultivo	مخزون ماء التربة للمحصول
+Solve with HiGHS, CBC, GLPK or Gurobi on this computer	Resolver con HiGHS, CBC, GLPK o Gurobi en este equipo	الحل باستخدام HiGHS أو CBC أو GLPK أو Gurobi على هذا الحاسوب
+Split ResidualCapacity into cohorts: a fall in year y is a cohort built in y - life	Dividir ResidualCapacity en cohortes: una caída en el año y es una cohorte construida en y - vida	تقسيم ResidualCapacity إلى أفواج: الانخفاض في السنة y فوج بُني في y - العمر
+Steel blue ✓	Azul acero ✓	أزرق فولاذي ✓
+Storage construction time	Tiempo de construcción del almacenamiento	زمن إنشاء المخزن
+StorageInflow: water or energy flows in by itself	StorageInflow: el agua o la energía entra por sí sola	StorageInflow: الماء أو الطاقة تتدفق ذاتيًا
+straight line from … to …	línea recta de … a …	خط مستقيم من … إلى …
+Strategies x futures: regret, targets, scenario discovery (Beta: under construction)	Estrategias x futuros: arrepentimiento, metas, descubrimiento de escenarios (Beta: en construcción)	الاستراتيجيات × المستقبلات: الندم، الأهداف، اكتشاف السيناريوهات (تجريبي: قيد الإنشاء)
+Myopic planning: windows of years, decisions kept step by step, compared with perfect foresight (Beta: under construction)	Planificación miope: ventanas de años, decisiones conservadas paso a paso, comparadas con previsión perfecta (Beta: en construcción)	تخطيط قصير النظر: نوافذ من السنوات، قرارات تُحفظ خطوة بخطوة، مقارنة بالبصيرة الكاملة (تجريبي: قيد الإنشاء)
+Stubble evaporation	Evaporación del rastrojo	تبخر بقايا المحصول
+switched off (no new capacity, no activity, all years)	desactivada (sin capacidad nueva, sin actividad, todos los años)	متوقفة (بلا قدرة جديدة، بلا نشاط، كل السنوات)
+technology	tecnología	التقنية
+The model files you work with, with their descriptions; choose the one this case uses	Los archivos de modelo con los que trabaja, con sus descripciones; elija el que usa este caso	ملفات النماذج التي تعمل بها مع أوصافها؛ اختر ما تستخدمه هذه الحالة
+The open case uses a model file that is not in the library yet.	El caso abierto usa un archivo de modelo que aún no está en la biblioteca.	تستخدم الحالة المفتوحة ملف نموذج غير موجود في المكتبة بعد.
+The order is the order of this list (a later scenario overrides an earlier one).	El orden es el de esta lista (un escenario posterior prevalece sobre uno anterior).	الترتيب هو ترتيب هذه القائمة (السيناريو اللاحق يتغلب على السابق).
+The parameter reference, the meaning of the results, shortcuts, zoom	La referencia de parámetros, el significado de los resultados, atajos, zoom	مرجع المعلمات، معنى النتائج، الاختصارات، التكبير
+The windows use the model as it is, with the scenarios chosen here.	Las ventanas usan el modelo tal como está, con los escenarios elegidos aquí.	تستخدم النوافذ النموذج كما هو، مع السيناريوهات المختارة هنا.
+The windows are solved one after the other: give each solve the threads of the computer (minus {0}) for large models.	Las ventanas se resuelven una tras otra: dé a cada resolución los hilos del equipo (menos {0}) para modelos grandes.	تُحل النوافذ واحدة تلو الأخرى: امنح كل حل خيوط الحاسوب (ناقص {0}) للنماذج الكبيرة.
+This parameter can be negative by nature (purchase price, sink, user-constraint coefficient)	Este parámetro puede ser negativo por naturaleza (precio de compra, sumidero, coeficiente de restricción del usuario)	يمكن أن تكون هذه المعلمة سالبة بطبيعتها (سعر الشراء، المصرف، معامل قيد المستخدم)
+This window follows the other linked windows (case, region, year, selection). Click to make it alone.	Esta ventana sigue a las otras ventanas vinculadas (caso, región, año, selección). Clic para independizarla.	تتبع هذه النافذة النوافذ المرتبطة الأخرى (الحالة، المنطقة، السنة، التحديد). انقر لفصلها.
+Tick {0}	Marcar {0}	تحديد {0}
+Tick technologies (or a whole family by its header): show only them, or delete them	Marque tecnologías (o una familia entera por su encabezado): mostrar solo esas, o eliminarlas	حدّد تقنيات (أو عائلة كاملة من عنوانها): لإظهارها وحدها أو حذفها
+time slices of day part {0} ({1})	intervalos de la parte del día {0} ({1})	شرائح جزء اليوم {0} ({1})
+time slices of season {0} ({1})	intervalos de la estación {0} ({1})	شرائح الموسم {0} ({1})
+timeslice	intervalo de tiempo	الشريحة الزمنية
+Type ({0} budget, {1} debt, {2} equity, {3} grant, {4} fund)	Tipo ({0} presupuesto, {1} deuda, {2} capital, {3} subvención, {4} fondo)	النوع ({0} ميزانية، {1} دين، {2} حقوق ملكية، {3} منحة، {4} صندوق)
+unit (from the units of this technology; Units page)	unidad (de las unidades de esta tecnología; página Unidades)	الوحدة (من وحدات هذه التقنية؛ صفحة الوحدات)
+Units of new items (and of items not set)	Unidades de los elementos nuevos (y de los no fijados)	وحدات العناصر الجديدة (والعناصر غير المحددة)
+Units of the technologies, commodities, emissions and storage, the currency, and your own units	Unidades de las tecnologías, productos, emisiones y almacenamiento, la moneda y sus propias unidades	وحدات التقنيات والسلع والانبعاثات والمخازن، والعملة، ووحداتك الخاصة
+Use it for the open case ({0})	Usarlo para el caso abierto ({0})	استخدامه للحالة المفتوحة ({0})
+used in {0} constraint: {1}	usado en {0} restricción: {1}	مستخدم في {0} قيد: {1}
+used in {0} constraints: {1}	usado en {0} restricciones: {1}	مستخدم في {0} قيود: {1}
+user constraint	restricción del usuario	قيد المستخدم
+value	valor	القيمة
+Values you type in the editors go into this scenario	Los valores que escribe en los editores van a este escenario	القيم التي تكتبها في المحررات تذهب إلى هذا السيناريو
+variable cost / fuel price	costo variable / precio del combustible	التكلفة المتغيرة / سعر الوقود
+warnings	advertencias	تحذيرات
+What it is, where it acts, its page in the reference	Qué es, dónde actúa, su página en la referencia	ما هو، وأين يعمل، وصفحته في المرجع
+what you can decide	lo que usted puede decidir	ما يمكنك تقريره
+what you cannot control	lo que usted no puede controlar	ما لا يمكنك التحكم فيه
+Wider / narrower side panel (or drag its left edge)	Panel lateral más ancho / estrecho (o arrastre su borde izquierdo)	لوحة جانبية أعرض / أضيق (أو اسحب حافتها اليسرى)
+Width of the section menu (drag, or arrow keys)	Ancho del menú de secciones (arrastre, o teclas de flecha)	عرض قائمة الأقسام (اسحب أو استخدم مفاتيح الأسهم)
+window {0}: sees {1}, keeps {2}	ventana {0}: ve {1}, conserva {2}	النافذة {0}: ترى {1}، تحتفظ بـ {2}
+years from	años desde	السنوات من
+YearSplit of {0}	YearSplit de {0}	YearSplit لـ {0}
+yes, every year	sí, cada año	نعم، كل سنة
+yield response factor Ky	factor de respuesta del rendimiento Ky	معامل استجابة المردود Ky
+Your cases: one folder per model	Sus casos: una carpeta por modelo	حالاتك: مجلد لكل نموذج
+Zoom in	Acercar	تكبير
+Zoom out	Alejar	تصغير
+{0} / {1} with values	{0} / {1} con valores	{0} / {1} بقيم
+{0} change(s)	{0} cambio(s)	{0} تغيير
+{0} changed value(s) in {1} parameter(s)	{0} valor(es) cambiado(s) en {1} parámetro(s)	{0} قيمة متغيرة في {1} معلمة
+{0} factors	{0} factores	{0} عوامل
+{0} in the diagram · {1} inactive (dimmed)	{0} en el diagrama · {1} inactiva(s) (atenuada)	{0} في المخطط · {1} غير نشطة (باهتة)
+{0} item set	{0} elemento fijado	{0} عنصر محدد
+{0} items set	{0} elementos fijados	{0} عناصر محددة
+{0} metric	{0} métrica	{0} مقياس
+{0} metrics	{0} métricas	{0} مقاييس
+{0} of {1} rows	{0} de {1} filas	{0} من {1} صفوف
+{0} of {1} ticked	{0} de {1} marcados	{0} من {1} محددة
+{0} parameter	{0} parámetro	{0} معلمة
+{0} parameters	{0} parámetros	{0} معلمات
+{0} parameters · {1} constraints	{0} parámetros · {1} restricciones	{0} معلمات · {1} قيود
+{0} residual cohorts	{0} cohortes residuales	{0} أفواج متبقية
+{0} rows	{0} filas	{0} صفوف
+{0} settings	{0} ajustes	{0} إعدادات
+{0} technologies	{0} tecnologías	{0} تقنيات
+{0} technology	{0} tecnología	{0} تقنية
+{0} term	{0} término	{0} حد
+{0} terms	{0} términos	{0} حدود
+{0} value	{0} valor	{0} قيمة
+{0} values	{0} valores	{0} قيم
+{0} values · time slices	{0} valores · intervalos de tiempo	{0} قيم · شرائح زمنية
+{0} values · years	{0} valores · años	{0} قيم · سنوات
+{0} values · years · changes over time	{0} valores · años · cambia en el tiempo	{0} قيم · سنوات · تتغير عبر الزمن
+{0} values · years · time slices	{0} valores · años · intervalos de tiempo	{0} قيم · سنوات · شرائح زمنية
+{0} windows	{0} ventanas	{0} نوافذ
+{0} strategy: {1}	{0} estrategia: {1}	{0} استراتيجية: {1}
+{0} strategies: {1}	{0} estrategias: {1}	{0} استراتيجيات: {1}
+{0} uncertain parameter(s) · {1} samples · Latin hypercube	{0} parámetro(s) incierto(s) · {1} muestras · hipercubo latino	{0} معلمة غير مؤكدة · {1} عيّنة · مكعب لاتيني فائق
+{0} uncertain parameters · {1} futures (lhs)	{0} parámetros inciertos · {1} futuros (lhs)	{0} معلمات غير مؤكدة · {1} مستقبل (lhs)
+· min {0}, max {1}	· mín. {0}, máx. {1}	· الأدنى {0}، الأقصى {1}
+· {0} values	· {0} valores	· {0} قيم
+… {0} more rows: open the editor to see them all	… {0} filas más: abra el editor para verlas todas	… {0} صفوف أخرى: افتح المحرر لرؤيتها كلها
+… {0} more values	… {0} valores más	… {0} قيم أخرى
+… {0} values	… {0} valores	… {0} قيم
+▸ Legend · {0} commodities	▸ Leyenda · {0} productos	▸ وسيلة الإيضاح · {0} سلع
+✕ Exit build	✕ Salir de construcción	✕ الخروج من البناء
+⬚ Select	⬚ Seleccionar	⬚ تحديد
+＋ New unit	＋ Unidad nueva	＋ وحدة جديدة
+＋ New unit…	＋ Unidad nueva…	＋ وحدة جديدة…
+{0}: {1} technologies in the diagram. Inner edge of the boxes = system colour (the outer edge is the colour of the main commodity). Hover: highlight; click: show only this system	{0}: {1} tecnologías en el diagrama. Borde interior de las cajas = color del sistema (el borde exterior es el color del producto principal). Pasar el ratón: resaltar; clic: mostrar solo este sistema	{0}: {1} تقنيات في المخطط. الحافة الداخلية للصناديق = لون النظام (الحافة الخارجية بلون السلعة الرئيسية). تمرير المؤشر: إبراز؛ نقرة: إظهار هذا النظام فقط
+A backup made with Cases > Back up (zip): the case comes back as a new case, with its runs, Monte Carlo, robust-decision and rolling-horizon runs	Una copia hecha con Casos > Copia de seguridad (zip): el caso vuelve como caso nuevo, con sus ejecuciones, Monte Carlo, decisiones robustas y horizonte rodante	نسخة احتياطية مصنوعة من الحالات > نسخ احتياطي (zip): تعود الحالة كحالة جديدة مع تشغيلاتها ومونت كارلو والقرارات المتينة والأفق المتدحرج
+A MUIO case backup (zip of WebAPP/DataStorage/<case>): its data, scenarios, units, descriptions and runs with their results	Una copia de un caso MUIO (zip de WebAPP/DataStorage/<caso>): sus datos, escenarios, unidades, descripciones y ejecuciones con sus resultados	نسخة احتياطية لحالة MUIO (zip لـ WebAPP/DataStorage/<الحالة>): بياناتها وسيناريوهاتها ووحداتها وأوصافها وتشغيلاتها مع نتائجها
+One Excel workbook describing the model: technologies (inputs, outputs, units, systems), commodities, storages, emissions, user constraints, parameters, sets, time slices	Un libro de Excel que describe el modelo: tecnologías (entradas, salidas, unidades, sistemas), productos, almacenamientos, emisiones, restricciones del usuario, parámetros, conjuntos, intervalos de tiempo	مصنف Excel واحد يصف النموذج: التقنيات (المدخلات، المخرجات، الوحدات، الأنظمة)، السلع، المخازن، الانبعاثات، قيود المستخدم، المعلمات، المجموعات، الشرائح الزمنية
+Builds the problem and tests it without costs: if it has no solution, gives the smallest changes of the limits (emission caps, capacity and activity limits, targets, demands) that make it feasible	Construye el problema y lo prueba sin costos: si no tiene solución, da los cambios más pequeños de los límites (topes de emisiones, límites de capacidad y actividad, metas, demandas) que lo hacen factible	يبني المسألة ويختبرها دون تكاليف: إن لم يكن لها حل، يعطي أصغر تغييرات في الحدود (سقوف الانبعاثات، حدود القدرة والنشاط، الأهداف، الطلب) تجعلها ممكنة
+Everything of this case in one zip: data, model file, scenarios, runs and results, Monte Carlo and robust-decision set-ups and runs, checkpoints	Todo este caso en un zip: datos, archivo de modelo, escenarios, ejecuciones y resultados, configuraciones y ejecuciones de Monte Carlo y decisiones robustas, puntos de control	كل ما في هذه الحالة في ملف zip واحد: البيانات، ملف النموذج، السيناريوهات، التشغيلات والنتائج، إعدادات وتشغيلات مونت كارلو والقرارات المتينة، نقاط الحفظ
+Factors outside the planner's control (prices, demand, rain, costs): each future is one draw of all of them, from the Monte Carlo uncertainties.	Factores fuera del control del planificador (precios, demanda, lluvia, costos): cada futuro es un sorteo de todos ellos, a partir de las incertidumbres de Monte Carlo.	عوامل خارج سيطرة المخطِّط (الأسعار، الطلب، المطر، التكاليف): كل مستقبل سحبة واحدة لها جميعًا من عوامل عدم اليقين في مونت كارلو.
+The choices to compare (programmes, policies, investments): each strategy is a set of Studio scenarios on the base model.	Las opciones a comparar (programas, políticas, inversiones): cada estrategia es un conjunto de escenarios del Studio sobre el modelo base.	الخيارات المراد مقارنتها (برامج، سياسات، استثمارات): كل استراتيجية مجموعة من سيناريوهات الاستوديو على النموذج الأساسي.
+The numbers that judge a strategy in a future (cost, water, emissions, formulas of inputs and outputs), with optional targets; computed after the run, they can change without solving again.	Los números que juzgan una estrategia en un futuro (costo, agua, emisiones, fórmulas de entradas y salidas), con metas opcionales; se calculan tras la ejecución y pueden cambiar sin volver a resolver.	الأرقام التي تحكم على استراتيجية في مستقبل ما (التكلفة، الماء، الانبعاثات، صيغ المدخلات والمخرجات) مع أهداف اختيارية؛ تُحسب بعد التشغيل ويمكن تغييرها دون إعادة الحل.
+The model that turns a strategy and a future into results: {0}, solved once for every strategy in every future.	El modelo que convierte una estrategia y un futuro en resultados: {0}, resuelto una vez para cada estrategia en cada futuro.	النموذج الذي يحوّل استراتيجية ومستقبلًا إلى نتائج: {0}، يُحل مرة لكل استراتيجية في كل مستقبل.
+Every parameter with data, sorted by kind of uncertainty. "Add" proposes a setting for it; structural parameters (time structure, units, tags) are not varied.	Cada parámetro con datos, ordenado por tipo de incertidumbre. "Añadir" propone un ajuste; los parámetros estructurales (estructura temporal, unidades, etiquetas) no se varían.	كل معلمة ذات بيانات مرتبة حسب نوع عدم اليقين. "إضافة" يقترح إعدادًا لها؛ المعلمات البنيوية (البنية الزمنية، الوحدات، الوسوم) لا تُغيَّر.
+Functions for the formulas, written in Python with numpy: download it (a template when empty), edit it, upload it again. It is saved with the Monte Carlo design.	Funciones para las fórmulas, escritas en Python con numpy: descárguelo (una plantilla si está vacío), edítelo y súbalo de nuevo. Se guarda con el diseño de Monte Carlo.	دوال للصيغ مكتوبة بلغة Python مع numpy: نزّله (قالب إن كان فارغًا)، حرّره، ثم ارفعه مجددًا. يُحفظ مع تصميم مونت كارلو.
+Small complete models on the example system T1 of the parameter reference: one per topic, to check the model and the Studio. Each says what to check.	Pequeños modelos completos sobre el sistema de ejemplo T1 de la referencia de parámetros: uno por tema, para comprobar el modelo y el Studio. Cada uno dice qué comprobar.	نماذج صغيرة كاملة على نظام المثال T1 من مرجع المعلمات: واحد لكل موضوع لفحص النموذج والاستوديو. كل منها يذكر ما يجب فحصه.
+Standard units come from MUIO, with a few more (TWh, Gcal, MWth, MtCO2…). Yours are marked "·": kept in this data file and remembered by the Studio for your other cases.	Las unidades estándar vienen de MUIO, con algunas más (TWh, Gcal, MWth, MtCO2…). Las suyas llevan "·": se guardan en este archivo de datos y el Studio las recuerda para sus otros casos.	الوحدات القياسية من MUIO مع بعض الإضافات (TWh، Gcal، MWth، MtCO2…). وحداتك معلّمة بـ "·": محفوظة في ملف البيانات هذا ويتذكرها الاستوديو لحالاتك الأخرى.
+The base case holds every value; a scenario holds only the values it changes. A run applies the base, then the scenarios chosen in the Solve dialog, in order. Now editing:	El caso base contiene todos los valores; un escenario solo los que cambia. Una ejecución aplica la base y luego los escenarios elegidos en el diálogo Resolver, en orden. Editando ahora:	الحالة الأساسية تحوي كل القيم؛ والسيناريو يحوي القيم التي يغيّرها فقط. التشغيل يطبق الأساس ثم السيناريوهات المختارة في نافذة الحل بالترتيب. يجري الآن تحرير:
+Each finance source (budget, debt, equity, grant or regional fund) with its money, rates, tenor and what it may finance; the budget settings of each region.	Cada fuente de financiación (presupuesto, deuda, capital, subvención o fondo regional) con su dinero, tasas, plazo y lo que puede financiar; los ajustes de presupuesto de cada región.	كل مصدر تمويل (ميزانية، دين، حقوق ملكية، منحة أو صندوق إقليمي) بأمواله ومعدلاته وأجله وما يمكنه تمويله؛ وإعدادات الميزانية لكل منطقة.
+Bounds on capacity, investment and activity. The years a technology is on or off (Build: “Years this technology is on”) are written as these limits.	Límites de capacidad, inversión y actividad. Los años en que una tecnología está activa o no (Construir: “Años en que esta tecnología está activa”) se escriben como estos límites.	حدود القدرة والاستثمار والنشاط. السنوات التي تكون فيها التقنية مشغلة أو متوقفة (البناء: "سنوات تشغيل هذه التقنية") تُكتب كهذه الحدود.
+Free trade between regions (TradeRoute, by commodity), sale prices and export costs (by technology).	Comercio libre entre regiones (TradeRoute, por producto), precios de venta y costos de exportación (por tecnología).	تجارة حرة بين المناطق (TradeRoute، حسب السلعة)، أسعار البيع وتكاليف التصدير (حسب التقنية).
+Precipitation (the driver commodity, see Demand and balances) is split by each land use into runoff, evapotranspiration and recharge with its rules.	La precipitación (el producto impulsor, ver Demanda y balances) se reparte por cada uso del suelo en escorrentía, evapotranspiración y recarga según sus reglas.	يُقسَّم الهطول (السلعة المحرِّكة، انظر الطلب والموازين) حسب كل استخدام للأرض إلى جريان وتبخر-نتح وتغذية وفق قواعده.
+A ratio of the target technology follows the ratios of other technologies, slice by slice (e.g. the precipitation input of each land use = the output of PRC).	Una relación de la tecnología objetivo sigue las relaciones de otras tecnologías, intervalo a intervalo (p. ej. la entrada de precipitación de cada uso del suelo = la salida de PRC).	نسبة التقنية المستهدفة تتبع نسب تقنيات أخرى شريحة بشريحة (مثل مُدخل الهطول لكل استخدام أرض = مُخرج PRC).
+{0} technologies are tracked by vintage. Mode 1 = capacity and annual activity by cohort; mode 2 = also the activity of each cohort in each time slice.	{0} tecnologías se siguen por cohorte. Modo 1 = capacidad y actividad anual por cohorte; modo 2 = además la actividad de cada cohorte en cada intervalo de tiempo.	{0} تقنيات تُتتبع حسب الفوج. النمط 1 = القدرة والنشاط السنوي حسب الفوج؛ النمط 2 = ونشاط كل فوج في كل شريحة زمنية أيضًا.
+Monte Carlo runs are one job each, with their samples inside; RDM and rolling-horizon batches will appear the same way.	Cada ejecución de Monte Carlo es un trabajo, con sus muestras dentro; los lotes de RDM y horizonte rodante aparecerán igual.	كل تشغيل مونت كارلو مهمة واحدة وعيّناته داخلها؛ وستظهر دفعات RDM والأفق المتدحرج بالطريقة نفسها.
+Grow by % per step (negative = decline)	Crecer un % por paso (negativo = descenso)	النمو بنسبة % لكل خطوة (السالب = انخفاض)
+Grow by % per year (negative = decline)	Crecer un % por año (negativo = descenso)	النمو بنسبة % لكل سنة (السالب = انخفاض)
+Grow by % per step	Crecer un % por paso	النمو بنسبة % لكل خطوة
+Grow by % per year	Crecer un % por año	النمو بنسبة % لكل سنة
+off (faster, interior solution)	desactivado (más rápido, solución interior)	معطّل (أسرع، حل داخلي)
+to	a	إلى
+suggested from the code and description: {0}	sugerido a partir del código y la descripción: {0}	مقترح من الرمز والوصف: {0}
+OSeMOSYS standard model (built in)	Modelo estándar de OSeMOSYS (integrado)	نموذج OSeMOSYS القياسي (مدمج)

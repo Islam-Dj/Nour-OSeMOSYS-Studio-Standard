@@ -1,0 +1,255 @@
+General	General	عام
+Geothermal	Geotermia	الطاقة الحرارية الجوفية
+Give a minimum, a maximum or both	Indique un mínimo, un máximo o ambos	حدّد حدًا أدنى أو أقصى أو كليهما
+Give a number	Indique un número	أدخل رقمًا
+Give a share between 0 and 1.	Indique una proporción entre 0 y 1.	أدخل حصة بين 0 و1.
+Give a type from 1 to 5.	Indique un tipo de 1 a 5.	أدخل نوعًا من 1 إلى 5.
+Give the code, then fill its parameters.	Indique el código y luego rellene sus parámetros.	أدخل الرمز، ثم املأ معلماته.
+Give the end value	Indique el valor final	أدخل القيمة النهائية
+Give the life in whole years (≥ 1).	Indique la vida en años enteros (≥ 1).	أدخل العمر بسنوات كاملة (≥ 1).
+Give the rate as a share, e.g. 0.05.	Indique la tasa como proporción, p. ej. 0,05.	أدخل المعدل كحصة، مثل 0.05.
+Give the seasonal Ky (FAO-33).	Indique el Ky estacional (FAO-33).	أدخل Ky الموسمي (FAO-33).
+Go to Run	Ir a Ejecutar	انتقل إلى التشغيل
+Grey	Gris	رمادي
+Grey = not used in this model	Gris = no usado en este modelo	رمادي = غير مستخدم في هذا النموذج
+Greys (print)	Grises (impresión)	درجات الرمادي (طباعة)
+Grid as drawn	Cuadrícula como está	الشبكة كما رُسمت
+Grid lines	Líneas de cuadrícula	خطوط الشبكة
+Grids	Cuadrículas	الشبكات
+Grids the Excel way	Cuadrículas al estilo Excel	شبكات على طريقة Excel
+Groundwater	Agua subterránea	المياه الجوفية
+Group	Grupo	المجموعة
+Group (TimesliceGroup)	Grupo (TimesliceGroup)	المجموعة (TimesliceGroup)
+Group by	Agrupar por	التجميع حسب
+Group the list by family or by system	Agrupar la lista por familia o por sistema	جمّع القائمة حسب العائلة أو النظام
+Grouped bars	Barras agrupadas	أعمدة مجمّعة
+Grouped columns	Columnas agrupadas	أعمدة رأسية مجمّعة
+Groups of futures that are mostly bad	Grupos de futuros mayormente malos	مجموعات مستقبلات سيئة في معظمها
+
+Growth first to last year (%)	Crecimiento del primer al último año (%)	النمو من السنة الأولى إلى الأخيرة (%)
+Growth from the previous row (%)	Crecimiento respecto a la fila anterior (%)	النمو مقارنة بالصف السابق (%)
+Growth rate{0}	Tasa de crecimiento{0}	معدل النمو{0}
+HTML (interactive)	HTML (interactivo)	HTML (تفاعلي)
+Halton (quasi-random)	Halton (cuasi aleatorio)	هالتون (شبه عشوائي)
+Harmless for feasibility; check whether it is intended.	Inofensivo para la factibilidad; compruebe si es intencionado.	لا يضر بقابلية الحل؛ تحقق هل هو مقصود.
+Has a metric worse than a value	Tiene una métrica peor que un valor	له مقياس أسوأ من قيمة
+Heat	Calor	الحرارة
+Heat map (rows x columns)	Mapa de calor (filas x columnas)	خريطة حرارية (صفوف × أعمدة)
+Heat map: strategies × futures	Mapa de calor: estrategias × futuros	خريطة حرارية: استراتيجيات × مستقبلات
+Height (px)	Altura (px)	الارتفاع (بكسل)
+Hidden	Oculto	مخفي
+Hide flows below (% of the largest)	Ocultar flujos por debajo de (% del mayor)	إخفاء التدفقات الأقل من (% من الأكبر)
+Hide the model browser	Ocultar el explorador del modelo	إخفاء مستعرض النموذج
+Hide “Other”	Ocultar “Otros”	إخفاء “أخرى”
+Highest 10 %	10 % más alto	أعلى 10 %
+Highest allowed level: the capacity.	Nivel máximo permitido: la capacidad.	أعلى مستوى مسموح: القدرة.
+Highest year	Año más alto	أعلى سنة
+Histogram of the values	Histograma de los valores	مدرّج تكراري للقيم
+Horizontal axis	Eje horizontal	المحور الأفقي
+Horizontal stacked bars	Barras horizontales apiladas	أعمدة أفقية مكدّسة
+Hours	Horas	الساعات
+How many targets are met (stacked bars)	Cuántas metas se cumplen (barras apiladas)	كم هدفًا تحقق (أعمدة مكدّسة)
+How the draw is applied	Cómo se aplica el sorteo	كيف يُطبَّق السحب
+How to read	Cómo leer	كيفية القراءة
+How you judge a strategy in a future	Cómo juzga una estrategia en un futuro	كيف تحكم على استراتيجية في مستقبل ما
+Hydro / dam	Hidro / presa	الطاقة المائية / السد
+Hydrogen	Hidrógeno	الهيدروجين
+Icon	Icono	الأيقونة
+Icon style{0}	Estilo de iconos{0}	نمط الأيقونات{0}
+Icons and background	Iconos y fondo	الأيقونات والخلفية
+Icons{0}	Iconos{0}	الأيقونات{0}
+Import	Importar	استيراد
+Import a MUIO case	Importar un caso de MUIO	استيراد حالة MUIO
+Importance in the tree: {0}	Importancia en el árbol: {0}	الأهمية في الشجرة: {0}
+In user constraints	En restricciones del usuario	في قيود المستخدم
+Inactive here (no capacity possible)	Inactivo aquí (sin capacidad posible)	غير نشط هنا (لا قدرة ممكنة)
+Index	Índice	المؤشر
+Index (first row = 100)	Índice (primera fila = 100)	مؤشر (الصف الأول = 100)
+Index sets	Conjuntos de índices	مجموعات الفهارس
+Industry	Industria	الصناعة
+Infeasible	No factible	غير قابل للحل
+Infeasible data - see Check	Datos no factibles - ver Comprobación	بيانات غير قابلة للحل - انظر الفحص
+Infeasible on purpose	No factible a propósito	غير قابل للحل عمدًا
+Infeasible: proved from the data	No factible: demostrado con los datos	غير قابل للحل: مُثبت من البيانات
+Info	Info	معلومات
+Info ▾	Info ▾	معلومات ▾
+Initial savings	Ahorro inicial	المدخرات الأولية
+Input	Entrada	المُدخل
+Input (parameter)	Entrada (parámetro)	مُدخل (معلمة)
+Input against result, sample by sample	Entrada frente a resultado, muestra a muestra	المُدخل مقابل النتيجة، عيّنة بعيّنة
+Input needed per unit of new capacity.	Insumo necesario por unidad de capacidad nueva.	المُدخل اللازم لكل وحدة قدرة جديدة.
+Input needed per unit of total capacity.	Insumo necesario por unidad de capacidad total.	المُدخل اللازم لكل وحدة قدرة كلية.
+Input ratio by season	Relación de entrada por estación	نسبة المُدخل حسب الموسم
+Input ratio by time slice	Relación de entrada por intervalo	نسبة المُدخل حسب الشريحة الزمنية
+Input vs result	Entrada vs resultado	المُدخل مقابل النتيجة
+Input:	Entrada:	المُدخل:
+Inputs (ratio)	Entradas (relación)	المدخلات (نسبة)
+Inputs of the run (its data)	Entradas de la ejecución (sus datos)	مدخلات التشغيل (بياناته)
+Inputs · {0}	Entradas · {0}	المدخلات · {0}
+Inside the plot	Dentro del gráfico	داخل الرسم
+Integer unit commitment without a unit size	Compromiso de unidades entero sin tamaño de unidad	التزام وحدات صحيح دون حجم وحدة
+Integer units	Unidades enteras	وحدات صحيحة
+Interest / return rate	Tasa de interés / rentabilidad	معدل الفائدة / العائد
+Interlinkages	Interconexiones	الترابطات
+Interlinkages (table)…	Interconexiones (tabla)…	الترابطات (جدول)…
+Interlinkages ({0})	Interconexiones ({0})	الترابطات ({0})
+Interlinkages between the systems	Interconexiones entre los sistemas	الترابطات بين الأنظمة
+Intraday	Intradiario	داخل اليوم
+Invert	Invertir	عكس
+Invert the ticks of the shown members	Invertir las marcas de los miembros mostrados	عكس اختيار العناصر المعروضة
+Investment (total)	Inversión (total)	الاستثمار (المجموع)
+Investments and operation	Inversiones y operación	الاستثمارات والتشغيل
+Investments only	Solo inversiones	الاستثمارات فقط
+Irrigation	Riego	الري
+Is far from the best strategy	Está lejos de la mejor estrategia	بعيدة عن أفضل استراتيجية
+Item	Elemento	العنصر
+Items	Elementos	العناصر
+Items of {0}	Elementos de {0}	عناصر {0}
+Items of{0}	Elementos de{0}	عناصر{0}
+Iteration	Iteración	التكرار
+Its cases	Sus casos	حالاته
+Jobs	Trabajos	المهام
+Jobs and monitor	Trabajos y monitor	المهام والمراقبة
+Kc end	Kc final	Kc النهاية
+Kc initial	Kc inicial	Kc البداية
+Kc mid-season	Kc a mitad de temporada	Kc منتصف الموسم
+Keep all	Conservar todo	الإبقاء على الكل
+Keep at least one member	Conserve al menos un miembro	أبقِ عنصرًا واحدًا على الأقل
+Keep every yearly result	Conservar cada resultado anual	الإبقاء على كل نتيجة سنوية
+Keep everything (with time slices)	Conservar todo (con intervalos de tiempo)	الإبقاء على كل شيء (مع الشرائح الزمنية)
+Keep this range	Conservar este rango	الإبقاء على هذا المدى
+Kept	Conservado	محفوظ
+Kept in the folder	Conservado en la carpeta	محفوظ في المجلد
+Keyboard and mouse	Teclado y ratón	لوحة المفاتيح والفأرة
+Kind	Tipo	النوع
+Kind of chart{0}	Tipo de gráfico{0}	نوع الرسم{0}
+Ky by stage	Ky por etapa	Ky حسب المرحلة
+Ky of the season	Ky de la temporada	Ky الموسم
+Labour / people	Trabajo / personas	العمل / السكان
+Land	Tierra	الأرض
+Land / crops	Tierra / cultivos	الأرض / المحاصيل
+Land of the crop	Tierra del cultivo	أرض المحصول
+Land only in the field months	Tierra solo en los meses de cultivo	الأرض فقط في أشهر الحقل
+Land use	Uso del suelo	استخدام الأراضي
+Large view	Vista grande	عرض كبير
+Larger	Más grande	أكبر
+Larger (Alt + wheel)	Más grande (Alt + rueda)	أكبر (Alt + العجلة)
+Largest item	Elemento mayor	أكبر عنصر
+Last	Último	الأخير
+Last year	Último año	السنة الأخيرة
+Last year must be after the first year	El último año debe ser posterior al primero	يجب أن تكون السنة الأخيرة بعد الأولى
+Later →	Después →	لاحقًا ←
+Latin hypercube	Hipercubo latino	المكعب اللاتيني الفائق
+Latin hypercube (recommended)	Hipercubo latino (recomendado)	المكعب اللاتيني الفائق (موصى به)
+Lavender	Lavanda	خزامي
+Layout	Diseño	التخطيط
+Leave enhancement	Salir de la mejora	مغادرة التحسين
+Left	Izquierda	يسار
+Legend	Leyenda	وسيلة الإيضاح
+Legend{0}	Leyenda{0}	وسيلة الإيضاح{0}
+Letter landscape	Carta horizontal	ورقة Letter أفقية
+Level at start	Nivel al inicio	المستوى في البداية
+Level at the start	Nivel al inicio	المستوى عند البداية
+Life	Vida	العمر
+Life (years)	Vida (años)	العمر (سنوات)
+Light backup	Copia ligera	نسخة خفيفة
+Lighting	Iluminación	الإنارة
+Limit	Límite	الحد
+Limit over the whole horizon	Límite en todo el horizonte	حد على كامل الأفق
+Limits and targets	Límites y metas	الحدود والأهداف
+Limits applied after the draw	Límites aplicados tras el sorteo	حدود تُطبّق بعد السحب
+Line width	Grosor de línea	عرض الخط
+Lines	Líneas	خطوط
+Lines and markers	Líneas y marcadores	خطوط وعلامات
+Lines and points	Líneas y puntos	خطوط ونقاط
+Linked (standard)	Vinculado (estándar)	مرتبط (قياسي)
+Linked in season (0 = not)	Vinculado en la estación (0 = no)	مرتبط في الموسم (0 = لا)
+Linked ratio (1 input, 2 output)	Relación vinculada (1 entrada, 2 salida)	نسبة مرتبطة (1 مُدخل، 2 مُخرج)
+Linked ratio without a source	Relación vinculada sin fuente	نسبة مرتبطة دون مصدر
+Linked ratios	Relaciones vinculadas	نسب مرتبطة
+Linked to a driver (correlation)	Vinculado a un impulsor (correlación)	مرتبط بمحرّك (ارتباط)
+Linked value	Valor vinculado	قيمة مرتبطة
+Linked values	Valores vinculados	قيم مرتبطة
+List	Lista	قائمة
+Livestock	Ganadería	الماشية
+Load a font file (.ttf .otf .woff .woff2)	Cargar un archivo de fuente (.ttf .otf .woff .woff2)	تحميل ملف خط (.ttf .otf .woff .woff2)
+Load a model file…	Cargar un archivo de modelo…	تحميل ملف نموذج…
+Log	Registro	السجل
+Log (last lines)	Registro (últimas líneas)	السجل (الأسطر الأخيرة)
+Log scale	Escala logarítmica	مقياس لوغاريتمي
+Long: one value per line (YEAR a column)	Largo: un valor por línea (YEAR en una columna)	طويل: قيمة في كل سطر (YEAR عمود)
+Looking for the Studio server…	Buscando el servidor del Studio…	جارٍ البحث عن خادم الاستوديو…
+Looking for the solver server…	Buscando el servidor del solucionador…	جارٍ البحث عن خادم المحلّل…
+Lower the commitments or raise the envelope.	Reduzca los compromisos o aumente el techo.	خفّض الالتزامات أو ارفع السقف.
+Lowest 10 %	10 % más bajo	أدنى 10 %
+Lowest year	Año más bajo	أدنى سنة
+Lowest yield factor	Factor de rendimiento más bajo	أدنى عامل مردود
+Make the floor ≤ the ceiling.	Haga que el piso sea ≤ el techo.	اجعل الحد الأدنى ≤ السقف.
+Make the lower limit ≤ the upper limit.	Haga que el límite inferior sea ≤ el superior.	اجعل الحد الأدنى ≤ الحد الأقصى.
+Make the minimum ≤ the maximum.	Haga que el mínimo sea ≤ el máximo.	اجعل الحد الأدنى ≤ الحد الأقصى.
+Make the package	Crear el paquete	إنشاء الحزمة
+Make the zip	Crear el zip	إنشاء ملف zip
+Max	Máx.	الأقصى
+Max activity / year	Actividad máx. / año	أقصى نشاط / سنة
+Max activity by mode	Actividad máx. por modo	أقصى نشاط حسب النمط
+Max activity, whole horizon	Actividad máx., todo el horizonte	أقصى نشاط، كامل الأفق
+Max capacity	Capacidad máx.	أقصى قدرة
+Max decrease by mode	Disminución máx. por modo	أقصى انخفاض حسب النمط
+Max increase by mode	Aumento máx. por modo	أقصى زيادة حسب النمط
+Max new capacity / year	Capacidad nueva máx. / año	أقصى قدرة جديدة / سنة
+Max series	Series máx.	أقصى عدد سلاسل
+Max share of a project	Proporción máx. de un proyecto	أقصى حصة من مشروع
+Max share of a storage	Proporción máx. de un almacenamiento	أقصى حصة من مخزن
+Maximum	Máximo	الحد الأقصى
+Maximum charge rate	Tasa de carga máxima	أقصى معدل شحن
+Maximum cycles	Ciclos máximos	أقصى عدد دورات
+Maximum discharge rate	Tasa de descarga máxima	أقصى معدل تفريغ
+Maximum duration	Duración máxima	أقصى مدة
+Maximum level (share)	Nivel máximo (proporción)	أقصى مستوى (حصة)
+Maximum new capacity per year (build rate).	Capacidad nueva máxima por año (ritmo de construcción).	أقصى قدرة جديدة في السنة (وتيرة البناء).
+Maximum over the horizon	Máximo en el horizonte	الحد الأقصى على الأفق
+Maximum total installed capacity in a year.	Capacidad instalada total máxima en un año.	أقصى قدرة مركّبة كلية في سنة.
+Maximum yearly decrease of a mode.	Disminución anual máxima de un modo.	أقصى انخفاض سنوي لنمط.
+Maximum yearly increase of a mode.	Aumento anual máximo de un modo.	أقصى زيادة سنوية لنمط.
+Mean	Media	المتوسط
+Mean value	Valor medio	القيمة المتوسطة
+Mean, 90 % and worst regret (bars)	Arrepentimiento medio, 90 % y peor (barras)	الندم المتوسط و90 % والأسوأ (أعمدة)
+Meaning	Significado	المعنى
+Meaning of every result	Significado de cada resultado	معنى كل نتيجة
+Measures:	Medidas:	المقاييس:
+Median	Mediana	الوسيط
+Median value	Valor mediano	القيمة الوسيطة
+Median year	Año mediano	السنة الوسيطة
+Meets all targets	Cumple todas las metas	يحقق كل الأهداف
+Member	Miembro	العنصر
+Members	Miembros	العناصر
+Members in a split{0}	Miembros en una división{0}	العناصر في تقسيم{0}
+Members of {0}	Miembros de {0}	عناصر {0}
+Method	Método	الطريقة
+Method{0}	Método{0}	الطريقة{0}
+Metric	Métrica	المقياس
+Metric codes with and, or, not, ( )	Códigos de métricas con and, or, not, ( )	رموز المقاييس مع and وor وnot و( )
+Metrics	Métricas	المقاييس
+Metrics and targets	Métricas y metas	المقاييس والأهداف
+Metric{0}	Métrica{0}	المقياس{0}
+Min	Mín.	الأدنى
+Min activity / year	Actividad mín. / año	أدنى نشاط / سنة
+Min activity by mode	Actividad mín. por modo	أدنى نشاط حسب النمط
+Min activity, whole horizon	Actividad mín., todo el horizonte	أدنى نشاط، كامل الأفق
+Min capacity	Capacidad mín.	أدنى قدرة
+Min down time	Tiempo mín. de parada	أدنى مدة توقف
+Min new capacity / year	Capacidad nueva mín. / año	أدنى قدرة جديدة / سنة
+Min share of a project	Proporción mín. de un proyecto	أدنى حصة من مشروع
+Min share of a storage	Proporción mín. de un almacenamiento	أدنى حصة من مخزن
+Min stable load	Carga mín. estable	أدنى حمل مستقر
+Min up time	Tiempo mín. en marcha	أدنى مدة تشغيل
+Minimal print	Impresión mínima	طباعة مبسطة
+Minimum	Mínimo	الحد الأدنى
+Minimum activity of one mode.	Actividad mínima de un modo.	أدنى نشاط لنمط.
+Minimum activity over the horizon.	Actividad mínima en el horizonte.	أدنى نشاط على الأفق.
+Minimum capacity above maximum capacity	Capacidad mínima por encima de la máxima	القدرة الدنيا تفوق القصوى
+Minimum capacity cannot be reached	La capacidad mínima no se puede alcanzar	لا يمكن بلوغ القدرة الدنيا
+Minimum duration	Duración mínima	أدنى مدة
+Minimum level (share)	Nivel mínimo (proporción)	أدنى مستوى (حصة)
+Minimum new capacity above maximum new capacity	Capacidad nueva mínima por encima de la máxima	القدرة الجديدة الدنيا تفوق القصوى
+Minimum new capacity per year.	Capacidad nueva mínima por año.	أدنى قدرة جديدة في السنة.

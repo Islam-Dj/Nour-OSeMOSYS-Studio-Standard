@@ -1,0 +1,4 @@
+Chart libraries bundled with NOUR OSeMOSYS Studio (loaded only when chosen):
+plotly.min.js  plotly.js-dist-min 2.35.2  MIT License (c) Plotly, Inc.
+echarts.min.js  Apache ECharts 5.5.1  Apache License 2.0
+vega.min.js 5.30.0, vega-lite.min.js 5.21.0, vega-embed.min.js 6.26.0  BSD 3-Clause License (c) University of Washington Interactive Data Lab

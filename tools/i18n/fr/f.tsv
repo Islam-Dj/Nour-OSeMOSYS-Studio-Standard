@@ -1,0 +1,363 @@
+(all years)	(toutes les années)
+(only those set in the data; the others keep their default)	(seulement ceux définis dans les données ; les autres gardent leur défaut)
+(UDCConstant, summed over the regions)	(UDCConstant, sommé sur les régions)
++ Add	+ Ajouter
++ Commodity	+ Produit
++ Constraint (UDC)	+ Contrainte (UDC)
++ Emission	+ Émission
++ finance	+ financement
++ Scenario	+ Scénario
++ Storage	+ Stockage
++ Technology	+ Technologie
+. Empty = default.	. Vide = défaut.
+= national	= national
+= regional	= régional
+A copy with all its data, under a new code	Une copie avec toutes ses données, sous un nouveau code
+a user-defined constraint uses this storage	une contrainte utilisateur utilise ce stockage
+activity	activité
+Add a fixed amount per step (cumulative: {0}, {1}, {2} …)	Ajouter une quantité fixe par pas (cumulée : {0}, {1}, {2} …)
+Add a fixed amount per year (cumulative: {0}, {1}, {2} …)	Ajouter une quantité fixe par an (cumulée : {0}, {1}, {2} …)
+Age: all ({0}) ▾	Âge : tous ({0}) ▾
+Mode: all ({0}) ▾	Mode : tous ({0}) ▾
+Season: all ({0}) ▾	Saison : toutes ({0}) ▾
+Day part: all ({0}) ▾	Partie du jour : toutes ({0}) ▾
+Finance: all ({0}) ▾	Financement : tous ({0}) ▾
+Timeslice: all ({0}) ▾	Tranche : toutes ({0}) ▾
+Vintage: all ({0}) ▾	Cohorte : toutes ({0}) ▾
+Systems: all ({0}) ▾	Systèmes : tous ({0}) ▾
+Commodity: none ▾	Produit : aucun ▾
+Emission: none ▾	Émission : aucune ▾
+Storage: none ▾	Stockage : aucun ▾
+Technology: none ▾	Technologie : aucune ▾
+Udc: none ▾	Udc : aucune ▾
+Agriculture (AGRI)	Agriculture (AGRI)
+Energy (ENERGY)	Énergie (ENERGY)
+Land (LAND)	Terre (LAND)
+Water (WATER)	Eau (WATER)
+all regions ·	toutes les régions ·
+all regions, {0}:	toutes les régions, {0} :
+allow negative values	autoriser les valeurs négatives
+also solve the whole horizon at once (perfect foresight) to measure the cost of myopia	résoudre aussi tout l'horizon d'un coup (prévision parfaite) pour mesurer le coût de la myopie
+an emission limit is set	une limite d'émission est définie
+Analyse	Analyser
+Share	Partager
+Workflow	Flux de travail
+automatic (HiGHS chooses)	automatique (HiGHS choisit)
+availability (bounded {0}-{1})	disponibilité (bornée {0}-{1})
+capacity factor (bounded {0}-{1})	facteur de capacité (borné {0}-{1})
+Back to the default value in the selected rows (one undo step)	Revenir à la valeur par défaut dans les lignes sélectionnées (une étape d'annulation)
+Bring back a case from a backup zip (as a new case: nothing is overwritten)	Récupérer un cas depuis une sauvegarde zip (comme nouveau cas : rien n'est écrasé)
+Build	Construire
+Build and edit	Construire et modifier
+Build or edit the model, then save data.txt	Construisez ou modifiez le modèle, puis enregistrez data.txt
+Calculations	Calculs
+planned	prévu
+Calculations (residual capacity from vintages, then more): planned, not built yet	Calculs (capacité résiduelle à partir des cohortes, puis plus) : prévu, pas encore construit
+Planned: residual capacity from the years and sizes of the plants, then other calculators	Prévu : capacité résiduelle à partir des années et tailles des centrales, puis d'autres calculateurs
+can be built only from	ne peut être construite qu'à partir de
+can be used only from	ne peut être utilisée qu'à partir de
+capacity and annual activity by cohort	capacité et activité annuelle par cohorte
+carbon price (policy)	prix du carbone (politique)
+Check the data for infeasibilities before solving	Vérifier les données pour les infaisabilités avant de résoudre
+choose	choisir
+Choose the model to work with (the dialog shown at start)	Choisir le modèle de travail (la fenêtre affichée au démarrage)
+chronological	chronologique
+Clear {0} row	Effacer {0} ligne
+Clear {0} rows	Effacer {0} lignes
+click a box to edit it	cliquez sur une boîte pour la modifier
+click: select every cell	clic : sélectionner toutes les cellules
+click: select the column · Ctrl+click: add or remove one · Shift+click: a range	clic : sélectionner la colonne · Ctrl+clic : en ajouter ou retirer une · Maj+clic : une plage
+{0} · click: select the column · Ctrl+click: add or remove one · Shift+click: a range	{0} · clic : sélectionner la colonne · Ctrl+clic : en ajouter ou retirer une · Maj+clic : une plage
+Code or name; several words = all of them	Code ou nom ; plusieurs mots = tous à la fois
+Colour of the Studio: box edges, the item you click, buttons	Couleur du Studio : bords des boîtes, l'élément cliqué, boutons
+columns from	colonnes à partir de
+commodity	produit
+commodity of the new rows: {0} selected. Click to search and choose	produit des nouvelles lignes : {0} sélectionné(s). Cliquez pour chercher et choisir
+emission of the new rows: {0} selected. Click to search and choose	émission des nouvelles lignes : {0} sélectionnée(s). Cliquez pour chercher et choisir
+mode of the new rows: {0} selected. Click to search and choose	mode des nouvelles lignes : {0} sélectionné(s). Cliquez pour chercher et choisir
+season of the new rows: {0} selected. Click to search and choose	saison des nouvelles lignes : {0} sélectionnée(s). Cliquez pour chercher et choisir
+storage of the new rows: {0} selected. Click to search and choose	stockage des nouvelles lignes : {0} sélectionné(s). Cliquez pour chercher et choisir
+technology of the new rows: {0} selected. Click to search and choose	technologie des nouvelles lignes : {0} sélectionnée(s). Cliquez pour chercher et choisir
+timeslice of the new rows: {0} selected. Click to search and choose	tranche des nouvelles lignes : {0} sélectionnée(s). Cliquez pour chercher et choisir
+udc of the new rows: {0} selected. Click to search and choose	udc des nouvelles lignes : {0} sélectionnée(s). Cliquez pour chercher et choisir
+Show only the rows with these ages: {0} selected. Click to search and choose	Afficher seulement les lignes avec ces âges : {0} sélectionné(s). Cliquez pour chercher et choisir
+Show only the rows with these day parts: {0} selected. Click to search and choose	Afficher seulement les lignes avec ces parties du jour : {0} sélectionnée(s). Cliquez pour chercher et choisir
+Show only the rows with these finances: {0} selected. Click to search and choose	Afficher seulement les lignes avec ces financements : {0} sélectionné(s). Cliquez pour chercher et choisir
+Show only the rows with these modes: {0} selected. Click to search and choose	Afficher seulement les lignes avec ces modes : {0} sélectionné(s). Cliquez pour chercher et choisir
+Show only the rows with these seasons: {0} selected. Click to search and choose	Afficher seulement les lignes avec ces saisons : {0} sélectionnée(s). Cliquez pour chercher et choisir
+Show only the rows with these timeslices: {0} selected. Click to search and choose	Afficher seulement les lignes avec ces tranches : {0} sélectionnée(s). Cliquez pour chercher et choisir
+Show only the rows with these vintages: {0} selected. Click to search and choose	Afficher seulement les lignes avec ces cohortes : {0} sélectionnée(s). Cliquez pour chercher et choisir
+Show only the technologies of some systems: {0} selected. Click to search and choose	Afficher seulement les technologies de certains systèmes : {0} sélectionné(s). Cliquez pour chercher et choisir
+cost	coût
+Create a MUIO case from this model and/or a run (MUIO installed on this computer)	Créer un cas MUIO à partir de ce modèle et/ou d'une exécution (MUIO installé sur cet ordinateur)
+Dashed = reverse direction · dotted = own use	Tirets = sens inverse · pointillés = autoconsommation
+data checks · {0}	vérification des données · {0}
+Delete	Supprimer
+Delete it and all its data (Undo on this page)	Le supprimer avec toutes ses données (Annuler sur cette page)
+Delete technology {0}	Supprimer la technologie {0}
+demand	demande
+differs by region	diffère selon la région
+discount rate	taux d'actualisation
+down the rows from	vers le bas des lignes à partir de
+Download the template	Télécharger le modèle de fichier
+dual simplex	simplexe dual
+simplex	simplexe
+e.g. High gas price	p. ex. Prix élevé du gaz
+early retirement allowed	retrait anticipé autorisé
+emission	émission
+emission factor	facteur d'émission
+emission limit (policy)	limite d'émission (politique)
+empty = none	vide = aucun
+Energy, water, land use, climate…: create them first, then each item belongs to one	Énergie, eau, usage des terres, climat… : créez-les d'abord, puis chaque élément appartient à l'un d'eux
+Every combination of what is chosen above; rows already there are kept	Chaque combinaison de ce qui est choisi ci-dessus ; les lignes existantes sont conservées
+Every emission, constraint (UDC), storage and vintaged technology with its whole configuration, one page each	Chaque émission, contrainte (UDC), stockage et technologie à cohortes avec toute sa configuration, une page chacun
+Every fill formula stops at {0}: a value that would cross 0 is written as 0	Chaque formule de remplissage s'arrête à {0} : une valeur qui franchirait 0 est écrite 0
+existing capacity	capacité existante
+eXogenous uncertainties:	incertitudes eXogènes :
+PoLicy Levers:	Leviers de poLitique :
+Export image…	Exporter…
+Export the diagram: title, author, legend, size, font, resolution, PNG / SVG / PDF	Exporter le diagramme : titre, auteur, légende, taille, police, résolution, PNG / SVG / PDF
+Export the model description (Excel)…	Exporter la description du modèle (Excel)…
+Filter by code or name (also the technologies in them)	Filtrer par code ou nom (aussi les technologies qu'elles contiennent)
+Filter technologies	Filtrer les technologies
+finance	financement
+Find a technology	Chercher une technologie
+Fit	Ajuster
+Folders group the cases by theme (a country, a paper, a test series).	Les dossiers regroupent les cas par thème (un pays, un article, une série de tests).
+fraction	fraction
+Harmless for activity results; set a small cost or a maximum capacity if you chart capacities.	Sans effet sur les résultats d'activité ; fixez un petit coût ou une capacité maximale si vous tracez les capacités.
+Hide the browser (More ▸ Show the model browser brings it back)	Masquer l'explorateur (Plus ▸ Afficher l'explorateur du modèle le rétablit)
+HiGHS settings	Réglages HiGHS
+how decisions and futures become results	comment décisions et futurs deviennent des résultats
+how you judge a strategy in a future	comment vous jugez une stratégie dans un futur
+Icons in the diagram	Icônes dans le diagramme
+Icons: badges	Icônes : badges
+Icons: chosen only	Icônes : choisies seulement
+No icons	Sans icônes
+Import a MUIO case (zip)…	Importer un cas MUIO (zip)…
+in a UDC	dans une UDC
+In:	Dans :
+infeasible	infaisable
+input ratio (efficiency)	ratio d'entrée (rendement)
+inter-year	interannuel
+keep the first column's value	garder la valeur de la première colonne
+Language of the Studio	Langue du Studio
+Leave the build mode (the model stays as it is)	Quitter le mode construction (le modèle reste tel quel)
+length of the crop stages (days)	durée des stades de la culture (jours)
+library	bibliothèque
+lifetime	durée de vie
+Light / dark theme	Thème clair / sombre
+Switch light / dark	Basculer clair / sombre
+limit (deployment / policy)	limite (déploiement / politique)
+limit of the capacity under construction	limite de la capacité en construction
+limited	limité
+Linked · {0} window	Liée · {0} fenêtre
+Linked · {0} windows	Liée · {0} fenêtres
+Load descriptions (CSV)…	Charger des descriptions (CSV)…
+lowest yield factor	facteur de rendement minimal
+Map and table of the commodities that cross from one system to another	Carte et tableau des produits qui passent d'un système à un autre
+MIP gap	Écart MIP
+Model browser	Explorateur du modèle
+Model file (.txt, .mod)	Fichier modèle (.txt, .mod)
+model files	fichiers modèles
+model-specific	propre au modèle
+More	Plus
+More ▾	Plus ▾
+my own windows (start year and years seen of each)	mes propres fenêtres (année de début et années vues de chacune)
+negative ratio: the technology absorbs this emission	ratio négatif : la technologie absorbe cette émission
+New capacity and the yearly activity of each mode stay as decided.	La nouvelle capacité et l'activité annuelle de chaque mode restent telles que décidées.
+New capacity stays as decided; operation of those years can change in later windows (past kept mode).	La nouvelle capacité reste telle que décidée ; l'exploitation de ces années peut changer dans les fenêtres suivantes (mode passé conservé).
+New window	Nouvelle fenêtre
+next to your cases.	à côté de vos cas.
+no formula file	pas de fichier de formules
+No jobs yet: Solve the model to start one.	Pas encore de tâches : résolvez le modèle pour en lancer une.
+not set (no constraint)	non défini (aucune contrainte)
+not used by any constraint	utilisé par aucune contrainte
+notes	notes
+Nothing to do if these are the shares you want; otherwise correct the weights.	Rien à faire si ce sont les parts voulues ; sinon corrigez les poids.
+on (default)	actif (par défaut)
+on (exact vertex, exact duals)	actif (sommet exact, duales exactes)
+on = exact vertex solution, slower	actif = solution au sommet exacte, plus lente
+only for integer models	seulement pour les modèles entiers
+only the {0} selected column	seulement la {0} colonne sélectionnée
+only the {0} selected columns	seulement les {0} colonnes sélectionnées
+Open a data file, descriptions, view options, theme	Ouvrir un fichier de données, des descriptions, options d'affichage, thème
+Open a workflow in a new window (for a second screen)	Ouvrir un flux de travail dans une nouvelle fenêtre (pour un second écran)
+Open any OSeMOSYS / MUIO data file (MathProg format), or drop it on the page	Ouvrir tout fichier de données OSeMOSYS / MUIO (format MathProg), ou le déposer sur la page
+Open as a new case	Ouvrir comme nouveau cas
+Open data file…	Ouvrir un fichier de données…
+Open Diagram and data in a new window	Ouvrir Diagramme et données dans une nouvelle fenêtre
+Open Jobs and monitor in a new window	Ouvrir Tâches et suivi dans une nouvelle fenêtre
+Open Results in a new window	Ouvrir Résultats dans une nouvelle fenêtre
+Open Monte Carlo in a new window	Ouvrir Monte Carlo dans une nouvelle fenêtre
+Open futures →	Ouvrir les futurs →
+Open metrics →	Ouvrir les indicateurs →
+Open model →	Ouvrir le modèle →
+Open strategies →	Ouvrir les stratégies →
+Optional: CSV with code,description (technologies and commodities)	Facultatif : CSV avec code,description (technologies et produits)
+OSeMOSYS master {0} (built in)	OSeMOSYS master {0} (intégré)
+MUIO {0} (standard, built in)	MUIO {0} (standard, intégré)
+Other model files ({0})	Autres fichiers modèles ({0})
+output ratio	ratio de sortie
+Paste a table copied from Excel (with or without its labels)	Coller un tableau copié d'Excel (avec ou sans ses étiquettes)
+policy target	objectif de politique
+priced	tarifé
+profile (shares of the year)	profil (parts de l'année)
+refurbishment cost	coût de rénovation
+retirement cost	coût de retrait
+Restore a Studio backup (zip)…	Restaurer une sauvegarde du Studio (zip)…
+Row value	Valeur de la ligne
+UDC1: one constraint per region and year, sum of the terms ≤ constant	UDC1 : une contrainte par région et par an, somme des termes ≤ constante
+UDC2: one constraint per region and year, sum of the terms = constant	UDC2 : une contrainte par région et par an, somme des termes = constante
+RUDC1: one constraint per year, terms of all regions summed ≤ sum of the constants	RUDC1 : une contrainte par an, termes de toutes les régions sommés ≤ somme des constantes
+RUDC2: one constraint per year, terms of all regions summed = sum of the constants	RUDC2 : une contrainte par an, termes de toutes les régions sommés = somme des constantes
+≤ national	≤ national
+≤ national (UDC1)	≤ national (UDC1)
+≤ regional	≤ régional
+≤ regional, all regions summed (RUDC1)	≤ régional, toutes régions sommées (RUDC1)
+run · server http://{0}	exécuter · serveur http://{0}
+Save a checkpoint	Enregistrer un point de contrôle
+Save a checkpoint: a copy of the model as it is now, kept unchanged; you go on working, and can go back to it from Cases	Enregistrer un point de contrôle : une copie du modèle tel qu'il est, conservée sans changement ; vous continuez à travailler et pouvez y revenir depuis Cas
+Save data.txt	Enregistrer data.txt
+Save state of the open case: each change adds one to the edit count	État d'enregistrement du cas ouvert : chaque modification ajoute un au compteur
+saved	enregistré
+saving…	enregistrement…
+not saved	non enregistré
+saved · {0} edit	enregistré · {0} modification
+saved · {0} edits	enregistré · {0} modifications
+saving… · {0} edit	enregistrement… · {0} modification
+saving… · {0} edits	enregistrement… · {0} modifications
+not saved · {0} edit	non enregistré · {0} modification
+not saved · {0} edits	non enregistré · {0} modifications
+Scenarios as in MUIO: the base and the values each scenario changes	Scénarios comme dans MUIO : la base et les valeurs que chaque scénario modifie
+Selection tool: click boxes or commodity lines, or drag a rectangle (Ctrl / Shift + click works too)	Outil de sélection : cliquez sur des boîtes ou des lignes de produits, ou tracez un rectangle (Ctrl / Maj + clic fonctionne aussi)
+set (TimesliceGroup / Order / Hours): chronological storage and unit commitment can use it	défini (TimesliceGroup / Order / Hours) : le stockage chronologique et l'engagement des unités peuvent l'utiliser
+Set the ticked:	Définir les cochés :
+Sets, parameters, constraints	Ensembles, paramètres, contraintes
+share / fraction ({0}-{1}, model-specific)	part / fraction ({0}-{1}, propre au modèle)
+Show backstops	Afficher les technologies de secours
+Show inactive technologies	Afficher les technologies inactives
+show structural parameters	afficher les paramètres structurels
+Show the model browser	Afficher l'explorateur du modèle
+soil water store of the crop	réserve d'eau du sol de la culture
+Solve with HiGHS, CBC, GLPK or Gurobi on this computer	Résoudre avec HiGHS, CBC, GLPK ou Gurobi sur cet ordinateur
+Split ResidualCapacity into cohorts: a fall in year y is a cohort built in y - life	Diviser ResidualCapacity en cohortes : une baisse l'année y est une cohorte construite en y - durée de vie
+Steel blue ✓	Bleu acier ✓
+Storage construction time	Durée de construction du stockage
+StorageInflow: water or energy flows in by itself	StorageInflow : l'eau ou l'énergie entre d'elle-même
+straight line from … to …	ligne droite de … à …
+Strategies x futures: regret, targets, scenario discovery (Beta: under construction)	Stratégies x futurs : regret, cibles, découverte de scénarios (Bêta : en construction)
+Myopic planning: windows of years, decisions kept step by step, compared with perfect foresight (Beta: under construction)	Planification myope : fenêtres d'années, décisions conservées pas à pas, comparées à la prévision parfaite (Bêta : en construction)
+Stubble evaporation	Évaporation des chaumes
+switched off (no new capacity, no activity, all years)	désactivée (aucune nouvelle capacité, aucune activité, toutes les années)
+technology	technologie
+The model files you work with, with their descriptions; choose the one this case uses	Les fichiers modèles avec lesquels vous travaillez, avec leurs descriptions ; choisissez celui de ce cas
+The open case uses a model file that is not in the library yet.	Le cas ouvert utilise un fichier modèle qui n'est pas encore dans la bibliothèque.
+The order is the order of this list (a later scenario overrides an earlier one).	L'ordre est celui de cette liste (un scénario plus loin l'emporte sur un précédent).
+The parameter reference, the meaning of the results, shortcuts, zoom	La référence des paramètres, la signification des résultats, raccourcis, zoom
+The windows use the model as it is, with the scenarios chosen here.	Les fenêtres utilisent le modèle tel quel, avec les scénarios choisis ici.
+The windows are solved one after the other: give each solve the threads of the computer (minus {0}) for large models.	Les fenêtres sont résolues l'une après l'autre : donnez à chaque résolution les fils de l'ordinateur (moins {0}) pour les grands modèles.
+This parameter can be negative by nature (purchase price, sink, user-constraint coefficient)	Ce paramètre peut être négatif par nature (prix d'achat, puits, coefficient de contrainte utilisateur)
+This window follows the other linked windows (case, region, year, selection). Click to make it alone.	Cette fenêtre suit les autres fenêtres liées (cas, région, année, sélection). Cliquez pour l'isoler.
+Tick technologies (or a whole family by its header): show only them, or delete them	Cochez des technologies (ou une famille entière par son en-tête) : les afficher seules ou les supprimer
+time slices of day part {0} ({1})	tranches horaires de la partie du jour {0} ({1})
+time slices of season {0} ({1})	tranches horaires de la saison {0} ({1})
+timeslice	tranche horaire
+Type ({0} budget, {1} debt, {2} equity, {3} grant, {4} fund)	Type ({0} budget, {1} dette, {2} fonds propres, {3} subvention, {4} fonds)
+unit (from the units of this technology; Units page)	unité (parmi les unités de cette technologie ; page Unités)
+Units of new items (and of items not set)	Unités des nouveaux éléments (et des éléments non définis)
+Units of the technologies, commodities, emissions and storage, the currency, and your own units	Unités des technologies, produits, émissions et stockages, la devise et vos propres unités
+Use it for the open case ({0})	L'utiliser pour le cas ouvert ({0})
+used in {0} constraint: {1}	utilisé dans {0} contrainte : {1}
+used in {0} constraints: {1}	utilisé dans {0} contraintes : {1}
+user constraint	contrainte utilisateur
+value	valeur
+Values you type in the editors go into this scenario	Les valeurs saisies dans les éditeurs vont dans ce scénario
+variable cost / fuel price	coût variable / prix du combustible
+warnings	avertissements
+What it is, where it acts, its page in the reference	Ce que c'est, où il agit, sa page dans la référence
+what you can decide	ce que vous pouvez décider
+what you cannot control	ce que vous ne contrôlez pas
+Wider / narrower side panel (or drag its left edge)	Panneau latéral plus large / plus étroit (ou faites glisser son bord gauche)
+Width of the section menu (drag, or arrow keys)	Largeur du menu des sections (glisser, ou touches fléchées)
+window {0}: sees {1}, keeps {2}	fenêtre {0} : voit {1}, conserve {2}
+years from	années à partir de
+YearSplit of {0}	YearSplit de {0}
+yes, every year	oui, chaque année
+yield response factor Ky	facteur de réponse du rendement Ky
+Your cases: one folder per model	Vos cas : un dossier par modèle
+Zoom in	Zoom avant
+Zoom out	Zoom arrière
+{0} / {1} with values	{0} / {1} avec valeurs
+{0} change(s)	{0} modification(s)
+{0} changed value(s) in {1} parameter(s)	{0} valeur(s) modifiée(s) dans {1} paramètre(s)
+{0} factors	{0} facteurs
+{0} in the diagram · {1} inactive (dimmed)	{0} dans le diagramme · {1} inactive(s) (estompée)
+{0} item set	{0} élément défini
+{0} items set	{0} éléments définis
+{0} metric	{0} indicateur
+{0} metrics	{0} indicateurs
+{0} of {1} rows	{0} sur {1} lignes
+{0} of {1} ticked	{0} sur {1} cochés
+{0} parameter	{0} paramètre
+{0} parameters	{0} paramètres
+{0} parameters · {1} constraints	{0} paramètres · {1} contraintes
+{0} residual cohorts	{0} cohortes résiduelles
+{0} rows	{0} lignes
+{0} settings	{0} réglages
+{0} technologies	{0} technologies
+{0} technology	{0} technologie
+{0} term	{0} terme
+{0} terms	{0} termes
+{0} value	{0} valeur
+{0} values	{0} valeurs
+{0} values · time slices	{0} valeurs · tranches horaires
+{0} values · years	{0} valeurs · années
+{0} values · years · changes over time	{0} valeurs · années · varie dans le temps
+{0} values · years · time slices	{0} valeurs · années · tranches horaires
+{0} windows	{0} fenêtres
+{0} strategy: {1}	{0} stratégie : {1}
+{0} strategies: {1}	{0} stratégies : {1}
+{0} uncertain parameter(s) · {1} samples · Latin hypercube	{0} paramètre(s) incertain(s) · {1} échantillons · hypercube latin
+{0} uncertain parameters · {1} futures (lhs)	{0} paramètres incertains · {1} futurs (lhs)
+· min {0}, max {1}	· min. {0}, max. {1}
+· {0} values	· {0} valeurs
+… {0} more rows: open the editor to see them all	… {0} lignes de plus : ouvrez l'éditeur pour toutes les voir
+… {0} more values	… {0} valeurs de plus
+… {0} values	… {0} valeurs
+▸ Legend · {0} commodities	▸ Légende · {0} produits
+✕ Exit build	✕ Quitter la construction
+⬚ Select	⬚ Sélectionner
+＋ New unit	＋ Nouvelle unité
+＋ New unit…	＋ Nouvelle unité…
+{0}: {1} technologies in the diagram. Inner edge of the boxes = system colour (the outer edge is the colour of the main commodity). Hover: highlight; click: show only this system	{0} : {1} technologies dans le diagramme. Bord intérieur des boîtes = couleur du système (le bord extérieur est la couleur du produit principal). Survol : mettre en évidence ; clic : afficher seulement ce système
+A backup made with Cases > Back up (zip): the case comes back as a new case, with its runs, Monte Carlo, robust-decision and rolling-horizon runs	Une sauvegarde faite avec Cas > Sauvegarder (zip) : le cas revient comme nouveau cas, avec ses exécutions, Monte Carlo, décisions robustes et horizon glissant
+A MUIO case backup (zip of WebAPP/DataStorage/<case>): its data, scenarios, units, descriptions and runs with their results	Une sauvegarde de cas MUIO (zip de WebAPP/DataStorage/<cas>) : ses données, scénarios, unités, descriptions et exécutions avec leurs résultats
+One Excel workbook describing the model: technologies (inputs, outputs, units, systems), commodities, storages, emissions, user constraints, parameters, sets, time slices	Un classeur Excel décrivant le modèle : technologies (entrées, sorties, unités, systèmes), produits, stockages, émissions, contraintes utilisateur, paramètres, ensembles, tranches horaires
+Builds the problem and tests it without costs: if it has no solution, gives the smallest changes of the limits (emission caps, capacity and activity limits, targets, demands) that make it feasible	Construit le problème et le teste sans coûts : s'il n'a pas de solution, donne les plus petites modifications des limites (plafonds d'émission, limites de capacité et d'activité, cibles, demandes) qui le rendent faisable
+Everything of this case in one zip: data, model file, scenarios, runs and results, Monte Carlo and robust-decision set-ups and runs, checkpoints	Tout ce cas en un zip : données, fichier modèle, scénarios, exécutions et résultats, configurations et exécutions Monte Carlo et décisions robustes, points de contrôle
+Factors outside the planner's control (prices, demand, rain, costs): each future is one draw of all of them, from the Monte Carlo uncertainties.	Facteurs hors du contrôle du planificateur (prix, demande, pluie, coûts) : chaque futur est un tirage de tous, à partir des incertitudes Monte Carlo.
+The choices to compare (programmes, policies, investments): each strategy is a set of Studio scenarios on the base model.	Les choix à comparer (programmes, politiques, investissements) : chaque stratégie est un ensemble de scénarios du Studio sur le modèle de base.
+The numbers that judge a strategy in a future (cost, water, emissions, formulas of inputs and outputs), with optional targets; computed after the run, they can change without solving again.	Les nombres qui jugent une stratégie dans un futur (coût, eau, émissions, formules d'entrées et de sorties), avec des cibles facultatives ; calculés après l'exécution, ils peuvent changer sans nouvelle résolution.
+The model that turns a strategy and a future into results: {0}, solved once for every strategy in every future.	Le modèle qui transforme une stratégie et un futur en résultats : {0}, résolu une fois pour chaque stratégie dans chaque futur.
+Every parameter with data, sorted by kind of uncertainty. "Add" proposes a setting for it; structural parameters (time structure, units, tags) are not varied.	Chaque paramètre avec données, trié par type d'incertitude. « Ajouter » propose un réglage ; les paramètres structurels (structure temporelle, unités, étiquettes) ne varient pas.
+Functions for the formulas, written in Python with numpy: download it (a template when empty), edit it, upload it again. It is saved with the Monte Carlo design.	Fonctions pour les formules, écrites en Python avec numpy : téléchargez-le (un modèle s'il est vide), modifiez-le, téléversez-le à nouveau. Il est enregistré avec la conception Monte Carlo.
+Small complete models on the example system T1 of the parameter reference: one per topic, to check the model and the Studio. Each says what to check.	Petits modèles complets sur le système d'exemple T1 de la référence des paramètres : un par thème, pour vérifier le modèle et le Studio. Chacun indique quoi vérifier.
+Standard units come from MUIO, with a few more (TWh, Gcal, MWth, MtCO2…). Yours are marked "·": kept in this data file and remembered by the Studio for your other cases.	Les unités standard viennent de MUIO, avec quelques ajouts (TWh, Gcal, MWth, MtCO2…). Les vôtres sont marquées « · » : conservées dans ce fichier de données et retenues par le Studio pour vos autres cas.
+The base case holds every value; a scenario holds only the values it changes. A run applies the base, then the scenarios chosen in the Solve dialog, in order. Now editing:	Le cas de base contient toutes les valeurs ; un scénario seulement celles qu'il modifie. Une exécution applique la base, puis les scénarios choisis dans la fenêtre Résoudre, dans l'ordre. En cours de modification :
+Each finance source (budget, debt, equity, grant or regional fund) with its money, rates, tenor and what it may finance; the budget settings of each region.	Chaque source de financement (budget, dette, fonds propres, subvention ou fonds régional) avec son argent, ses taux, sa durée et ce qu'elle peut financer ; les réglages budgétaires de chaque région.
+Bounds on capacity, investment and activity. The years a technology is on or off (Build: “Years this technology is on”) are written as these limits.	Bornes de capacité, d'investissement et d'activité. Les années où une technologie est active ou non (Construire : « Années où cette technologie est active ») sont écrites comme ces limites.
+Free trade between regions (TradeRoute, by commodity), sale prices and export costs (by technology).	Libre-échange entre régions (TradeRoute, par produit), prix de vente et coûts d'export (par technologie).
+Precipitation (the driver commodity, see Demand and balances) is split by each land use into runoff, evapotranspiration and recharge with its rules.	Les précipitations (le produit moteur, voir Demande et bilans) sont réparties par chaque usage des terres en ruissellement, évapotranspiration et recharge selon ses règles.
+A ratio of the target technology follows the ratios of other technologies, slice by slice (e.g. the precipitation input of each land use = the output of PRC).	Un ratio de la technologie cible suit les ratios d'autres technologies, tranche par tranche (p. ex. l'entrée de précipitations de chaque usage des terres = la sortie de PRC).
+{0} technologies are tracked by vintage. Mode 1 = capacity and annual activity by cohort; mode 2 = also the activity of each cohort in each time slice.	{0} technologies sont suivies par cohorte. Mode 1 = capacité et activité annuelle par cohorte ; mode 2 = aussi l'activité de chaque cohorte dans chaque tranche horaire.
+Monte Carlo runs are one job each, with their samples inside; RDM and rolling-horizon batches will appear the same way.	Chaque exécution Monte Carlo est une tâche, avec ses échantillons à l'intérieur ; les lots RDM et horizon glissant apparaîtront de la même façon.
+Grow by % per step (negative = decline)	Croître de % par pas (négatif = baisse)
+Grow by % per year (negative = decline)	Croître de % par an (négatif = baisse)
+Grow by % per step	Croître de % par pas
+Grow by % per year	Croître de % par an
+off (faster, interior solution)	inactif (plus rapide, solution intérieure)
+to	à
+suggested from the code and description: {0}	suggéré d'après le code et la description : {0}
+
+OSeMOSYS standard model (built in)	Modèle standard d'OSeMOSYS (intégré)

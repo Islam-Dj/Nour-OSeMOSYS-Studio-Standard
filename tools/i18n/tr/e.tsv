@@ -1,0 +1,310 @@
+Minimum stable load outside 0-1	Carga mínima estable fuera de 0-1	الحمل المستقر الأدنى خارج 0-1
+Minimum total installed capacity.	Capacidad instalada total mínima.	أدنى قدرة مركّبة كلية.
+Minimum use / year	Uso mínimo / año	أدنى استخدام / سنة
+Mining	Minería	التعدين
+Misses a target	No cumple una meta	يفوّت هدفًا
+Missing	Falta	مفقود
+Mix at percentiles	Combinación en percentiles	المزيج عند المئينات
+Mode	Modo	النمط
+Mode lower limit above the mode upper limit	Límite inferior del modo por encima del superior	الحد الأدنى للنمط أعلى من الحد الأقصى
+Model	Modelo	النموذج
+Model configuration	Configuración del modelo	إعداد النموذج
+Model description	Descripción del modelo	وصف النموذج
+Model description: {0} sheets ({1} ms)	Descripción del modelo: {0} hojas ({1} ms)	وصف النموذج: {0} أوراق ({1} مللي ثانية)
+Model every year, or set StorageInterYear to 0.	Modele cada año o ponga StorageInterYear a 0.	نمذج كل سنة، أو اجعل StorageInterYear مساويًا 0.
+Model file	Archivo de modelo	ملف النموذج
+Model file (the model is built inside it)	Archivo de modelo (el modelo se construye dentro)	ملف النموذج (يُبنى النموذج داخله)
+Model file not found in the library	Archivo de modelo no encontrado en la biblioteca	ملف النموذج غير موجود في المكتبة
+Model file that reads this data	Archivo de modelo que lee estos datos	ملف النموذج الذي يقرأ هذه البيانات
+Model file {0} added: {1} parameters, {2} constraints	Archivo de modelo {0} añadido: {1} parámetros, {2} restricciones	أُضيف ملف النموذج {0}: {1} معلمة، {2} قيد
+Model files	Archivos de modelo	ملفات النماذج
+Model files (library)…	Archivos de modelo (biblioteca)…	ملفات النماذج (المكتبة)…
+Model items	Elementos del modelo	عناصر النموذج
+Model parameter.	Parámetro del modelo.	معلمة النموذج.
+Model settings	Ajustes del modelo	إعدادات النموذج
+Model setup	Configuración del modelo	إعداد النموذج
+Model setup sections	Secciones de la configuración del modelo	أقسام إعداد النموذج
+Model-period activity lower limit cannot be reached	El límite inferior de actividad del período no se puede alcanzar	لا يمكن بلوغ الحد الأدنى للنشاط على الفترة
+Model-period activity: lower limit above upper limit	Actividad del período: límite inferior por encima del superior	نشاط الفترة: الحد الأدنى أعلى من الأقصى
+Model-period emission limit on {0} cannot be met	El límite de emisión del período sobre {0} no se puede cumplir	لا يمكن احترام حد الانبعاث على الفترة لـ {0}
+Models	Modelos	النماذج
+Modes	Modos	الأنماط
+Modes of operation	Modos de operación	أنماط التشغيل
+Money / finance	Dinero / finanzas	المال / التمويل
+Money available / year	Dinero disponible / año	المال المتاح / سنة
+Monte Carlo	Monte Carlo	مونت كارلو
+Monte Carlo run	Ejecución Monte Carlo	تشغيل مونت كارلو
+Monte Carlo runs on this computer	Monte Carlo se ejecuta en este ordenador	يعمل مونت كارلو على هذا الحاسوب
+Monte Carlo started	Monte Carlo iniciado	بدأ مونت كارلو
+Monte Carlo {0} ({1} / {2} optimal)	Monte Carlo {0} ({1} / {2} óptimas)	مونت كارلو {0} ({1} / {2} مثلى)
+Monte Carlo ·	Monte Carlo ·	مونت كارلو ·
+Monte Carlo · {0}	Monte Carlo · {0}	مونت كارلو · {0}
+More in the document →	Más en el documento →	المزيد في الوثيقة ←
+Most capacity under construction at once	Capacidad máxima en construcción a la vez	أقصى قدرة قيد الإنشاء في آن واحد
+Most often satisfying	Cumple con más frecuencia	الأكثر تحقيقًا
+Most robust	La más robusta	الأكثر صمودًا
+Move the ticked cases to	Mover los casos marcados a	نقل الحالات المحددة إلى
+Move the ticked cases to…	Mover los casos marcados a…	نقل الحالات المحددة إلى…
+Multiplier	Multiplicador	المضاعف
+Multiply by	Multiplicar por	الضرب في
+My own	Propio	خاص بي
+My units	Mis unidades	وحداتي
+Name	Nombre	الاسم
+Name and description	Nombre y descripción	الاسم والوصف
+Name in the legend	Nombre en la leyenda	الاسم في وسيلة الإيضاح
+Name of the case	Nombre del caso	اسم الحالة
+Name of the run in MUIO	Nombre de la ejecución en MUIO	اسم التشغيل في MUIO
+Name of this model file	Nombre de este archivo de modelo	اسم ملف النموذج هذا
+Name of this view (e.g. Water–land, Gas chain):	Nombre de esta vista (p. ej. Agua–tierra, Cadena del gas):	اسم هذا العرض (مثل الماء–الأرض، سلسلة الغاز):
+Name shown	Nombre mostrado	الاسم المعروض
+Names from the data	Nombres de los datos	الأسماء من البيانات
+Names given (#@setdesc)	Nombres dados (#@setdesc)	الأسماء المعطاة (#@setdesc)
+Names of set members	Nombres de los miembros del conjunto	أسماء عناصر المجموعة
+Natural gas	Gas natural	الغاز الطبيعي
+Natural size	Tamaño natural	الحجم الطبيعي
+Needs three samples or more with a spread.	Necesita tres muestras o más con dispersión.	يحتاج ثلاث عيّنات أو أكثر بتشتت.
+Needs two parameters switched on.	Necesita dos parámetros activados.	يحتاج معلمتين مفعّلتين.
+Negative VariableCost (a revenue)	VariableCost negativo (un ingreso)	VariableCost سالب (إيراد)
+Negative activity ratio	Relación de actividad negativa	نسبة نشاط سالبة
+Negative emission penalty	Penalización de emisión negativa	عقوبة انبعاث سالبة
+Negative technology discount rate	Tasa de descuento de tecnología negativa	معدل خصم سالب للتقنية
+Negative values in {0}	Valores negativos en {0}	قيم سالبة في {0}
+Negative {0}	{0} negativo	{0} سالب
+New	Nuevo	جديد
+New capacity	Capacidad nueva	قدرة جديدة
+New capacity limits	Límites de capacidad nueva	حدود القدرة الجديدة
+New capacity ×	Capacidad nueva ×	القدرة الجديدة ×
+New case with it	Nuevo caso con él	حالة جديدة به
+New code ({0})	Código nuevo ({0})	رمز جديد ({0})
+New model	Modelo nuevo	نموذج جديد
+New model created: {0} time slices	Modelo nuevo creado: {0} intervalos de tiempo	أُنشئ نموذج جديد: {0} شريحة زمنية
+New scenario	Escenario nuevo	سيناريو جديد
+New storage capacity	Capacidad de almacenamiento nueva	قدرة تخزين جديدة
+New unit	Unidad nueva	وحدة جديدة
+Nightingale rose	Rosa de Nightingale	وردة نايتنغيل
+No Monte Carlo results yet: start a run.	Aún no hay resultados de Monte Carlo: inicie una ejecución.	لا نتائج مونت كارلو بعد: ابدأ تشغيلًا.
+No Monte Carlo run yet.	Aún no hay ejecución de Monte Carlo.	لا تشغيل مونت كارلو بعد.
+No changes yet.	Aún no hay cambios.	لا تغييرات بعد.
+No commodity crosses between these systems.	Ningún producto pasa entre estos sistemas.	لا سلعة تعبر بين هذه الأنظمة.
+No constraint	Ninguna restricción	لا قيد
+No constraint matches the filter.	Ninguna restricción coincide con el filtro.	لا قيد يطابق التصفية.
+No description yet (load a descriptions CSV: code,description).	Aún sin descripción (cargue un CSV de descripciones: código,descripción).	لا وصف بعد (حمّل ملف CSV للأوصاف: رمز،وصف).
+No description yet.	Aún sin descripción.	لا وصف بعد.
+No description.	Sin descripción.	بلا وصف.
+No emission in this model.	No hay emisiones en este modelo.	لا انبعاث في هذا النموذج.
+No emission matches the filter.	Ninguna emisión coincide con el filtro.	لا انبعاث يطابق التصفية.
+No finding with these filters.	Ningún hallazgo con estos filtros.	لا نتيجة بهذه التصفيات.
+No grid lines	Sin líneas de cuadrícula	بدون خطوط شبكة
+No guess: assign them with "Assign items…"	Sin suposición: asígnelos con "Asignar elementos…"	دون تخمين: عيّنها عبر "تعيين العناصر…"
+No icon	Sin icono	بلا أيقونة
+No infeasibility found	No se encontró inviabilidad	لم يُعثر على عدم قابلية للحل
+No iterations in the log yet{0}.	Aún no hay iteraciones en el registro{0}.	لا تكرارات في السجل بعد{0}.
+No jobs yet.	Aún no hay trabajos.	لا مهام بعد.
+No linked value yet.	Aún no hay valor vinculado.	لا قيمة مرتبطة بعد.
+No metric could be computed: {0}	No se pudo calcular ninguna métrica: {0}	تعذّر حساب أي مقياس: {0}
+No negatives	Sin negativos	بلا قيم سالبة
+No new item	Ningún elemento nuevo	لا عنصر جديد
+No optimal solution	Sin solución óptima	لا حل أمثل
+No other technology supplies these.	Ninguna otra tecnología los suministra.	لا تقنية أخرى تزوّد بها.
+No other technology uses what these make.	Ninguna otra tecnología usa lo que estas producen.	لا تقنية أخرى تستخدم ما تنتجه هذه.
+No parameter matches.	Ningún parámetro coincide.	لا معلمة مطابقة.
+No robust-decision run yet.	Aún no hay ejecución de decisiones robustas.	لا تشغيل للقرارات الصامدة بعد.
+No rolling-horizon run yet.	Aún no hay ejecución de horizonte rodante.	لا تشغيل للأفق المتدحرج بعد.
+No run kept in the backup	Ninguna ejecución guardada en la copia	لا تشغيل محفوظ في النسخة
+No runs yet.	Aún no hay ejecuciones.	لا تشغيلات بعد.
+No runs yet: Solve to start one.	Aún no hay ejecuciones: Resolver para iniciar una.	لا تشغيلات بعد: استخدم الحل لبدء أحدها.
+No sample meets the conditions in "Samples kept".	Ninguna muestra cumple las condiciones de "Muestras conservadas".	لا عيّنة تستوفي شروط "العيّنات المحتفظ بها".
+No sample.	Sin muestra.	لا عيّنة.
+No scenario in this model yet	Aún no hay escenarios en este modelo	لا سيناريو في هذا النموذج بعد
+No scenario: the base model	Sin escenario: el modelo base	لا سيناريو: النموذج الأساسي
+No solution	Sin solución	لا حل
+No solved runs yet: use "Run".	Aún no hay ejecuciones resueltas: use "Ejecutar".	لا تشغيلات محلولة بعد: استخدم "تشغيل".
+No solver found	No se encontró solucionador	لم يُعثر على محلّل
+No storage in this model.	No hay almacenamiento en este modelo.	لا تخزين في هذا النموذج.
+No storage matches the filter.	Ningún almacenamiento coincide con el filtro.	لا مخزن يطابق التصفية.
+No system	Sin sistema	بلا نظام
+No system yet.	Aún no hay sistema.	لا نظام بعد.
+No target yet.	Aún no hay metas.	لا هدف بعد.
+No technology emits it (EmissionActivityRatio is 0 everywhere).	Ninguna tecnología lo emite (EmissionActivityRatio es 0 en todas partes).	لا تقنية تبعثه (EmissionActivityRatio يساوي 0 في كل مكان).
+No technology matches the filter.	Ninguna tecnología coincide con el filtro.	لا تقنية تطابق التصفية.
+No technology matches “	Ninguna tecnología coincide con “	لا تقنية تطابق “
+No term	Sin término	لا حدّ
+No term: every multiplier is 0.	Sin término: todos los multiplicadores son 0.	لا حدّ: كل المضاعفات صفر.
+No user-defined constraint in this model.	No hay restricciones del usuario en este modelo.	لا قيد من المستخدم في هذا النموذج.
+No values in the data	Sin valores en los datos	لا قيم في البيانات
+No values with these filters.	Sin valores con estos filtros.	لا قيم بهذه التصفيات.
+No vintaging data in this model.	No hay datos de cohortes en este modelo.	لا بيانات أفواج في هذا النموذج.
+No-load cost	Costo en vacío	تكلفة اللاحمل
+None	Ninguno	لا شيء
+None (no driver)	Ninguno (sin impulsor)	لا شيء (بلا محرّك)
+None chosen	Ninguno elegido	لم يُختر شيء
+None in this model.	Ninguno en este modelo.	لا شيء في هذا النموذج.
+Not a font file:	No es un archivo de fuente:	ليس ملف خط:
+Not a model file:	No es un archivo de modelo:	ليس ملف نموذج:
+Not above	No por encima	ليس أعلى من
+Not available with Vega-Lite.	No disponible con Vega-Lite.	غير متاح مع Vega-Lite.
+Not below	No por debajo	ليس أدنى من
+Not below / not above	No por debajo / no por encima	ليس أدنى / ليس أعلى
+Not connected	No conectado	غير متصل
+Not connected yet (no input, no output)	Aún no conectado (sin entrada ni salida)	غير متصل بعد (لا مُدخل ولا مُخرج)
+Not exported	No exportado	لم يُصدَّر
+Not in a folder	Sin carpeta	ليس في مجلد
+Not in the library	No está en la biblioteca	ليس في المكتبة
+Not in the reference	No está en la referencia	ليس في المرجع
+Not linked to another system	No vinculado a otro sistema	غير مرتبط بنظام آخر
+Not possible	No es posible	غير ممكن
+Not restored:	No restaurado:	لم يُستعَد:
+Note	Nota	ملاحظة
+Note / source (below the chart)	Nota / fuente (bajo el gráfico)	ملاحظة / مصدر (تحت الرسم)
+Notes	Notas	ملاحظات
+Nothing found	Nada encontrado	لم يُعثر على شيء
+Nothing found.	Nada encontrado.	لم يُعثر على شيء.
+Nothing matches the filter.	Nada coincide con el filtro.	لا شيء يطابق التصفية.
+Nothing matches “	Nada coincide con “	لا شيء يطابق “
+Nothing to draw yet.	Aún nada que dibujar.	لا شيء للرسم بعد.
+Nothing to export	Nada que exportar	لا شيء للتصدير
+Nothing to redo	Nada que rehacer	لا شيء لإعادته
+Nothing to undo	Nada que deshacer	لا شيء للتراجع عنه
+Notification	Notificación	إشعار
+Notify me when a job ends	Avisarme cuando termine un trabajo	نبّهني عند انتهاء مهمة
+Nuclear	Nuclear	النووي
+Numbers below:	Números abajo:	الأرقام أدناه:
+Objective	Objetivo	دالة الهدف
+Objective (GLPK) {0}	Objetivo (GLPK) {0}	دالة الهدف (GLPK) {0}
+Objective (full)	Objetivo (completo)	دالة الهدف (كاملة)
+Objective (full, constant part, as MUIO shows it)	Objetivo (completo, parte constante, como lo muestra MUIO)	دالة الهدف (كاملة، الجزء الثابت، كما يعرضها MUIO)
+Objective of the window	Objetivo de la ventana	دالة الهدف للنافذة
+Oil	Petróleo	النفط
+Oil & gas extraction	Extracción de petróleo y gas	استخراج النفط والغاز
+Oil / oil products	Petróleo / productos petrolíferos	النفط / المنتجات النفطية
+Okabe-Ito (colour-blind safe, 8)	Okabe-Ito (apto para daltonismo, 8)	أوكابي-إيتو (مناسبة لعمى الألوان، 8)
+One colour family (the Studio colour)	Una familia de color (el color del Studio)	عائلة لون واحدة (لون الاستوديو)
+One colour family (the Studio colour, 8)	Una familia de color (el color del Studio, 8)	عائلة لون واحدة (لون الاستوديو، 8)
+One metric alone	Una métrica sola	مقياس واحد منفرد
+One region	Una región	منطقة واحدة
+One result	Un resultado	نتيجة واحدة
+One strategy per scenario	Una estrategia por escenario	استراتيجية لكل سيناريو
+One target alone	Una meta sola	هدف واحد منفرد
+One value	Un valor	قيمة واحدة
+Only	Solo	فقط
+Only the members with values in the data	Solo los miembros con valores en los datos	فقط العناصر ذات القيم في البيانات
+Only the {0} checks (click again: all types)	Solo las comprobaciones {0} (clic de nuevo: todos los tipos)	فحوص {0} فقط (انقر مجددًا: كل الأنواع)
+Only these {0}	Solo estos {0}	هذه {0} فقط
+Only this one	Solo este	هذا فقط
+Opacity	Opacidad	العتامة
+Open	Abrir	فتح
+Open a data file	Abrir un archivo de datos	فتح ملف بيانات
+Open a model first	Abra primero un modelo	افتح نموذجًا أولًا
+Open a model first.	Abra primero un modelo.	افتح نموذجًا أولًا.
+Open all	Abrir todo	فتح الكل
+Open both directions (Trade[r,rr] = −Trade[rr,r]).	Abrir ambas direcciones (Trade[r,rr] = −Trade[rr,r]).	فتح الاتجاهين (Trade[r,rr] = −Trade[rr,r]).
+Open in Monte Carlo	Abrir en Monte Carlo	فتح في مونت كارلو
+Open in a new window	Abrir en una ventana nueva	فتح في نافذة جديدة
+Open in the solver monitor	Abrir en el monitor del solucionador	فتح في مراقب المحلّل
+Open it as	Abrirlo como	فتحه كـ
+Open its editor: every parameter	Abrir su editor: todos los parámetros	فتح محرّره: كل المعلمات
+Open or build a model first	Abra o construya primero un modelo	افتح أو ابنِ نموذجًا أولًا
+Open perfect foresight in Results	Abrir la previsión perfecta en Resultados	فتح الاستشراف التام في النتائج
+Open results	Abrir resultados	فتح النتائج
+Open the case	Abrir el caso	فتح الحالة
+Open the diagram	Abrir el diagrama	فتح المخطط
+Open the folder	Abrir la carpeta	فتح المجلد
+Open the plan in Results	Abrir el plan en Resultados	فتح الخطة في النتائج
+Open the reference example (CLEW_REF)	Abrir el ejemplo de referencia (CLEW_REF)	فتح المثال المرجعي (CLEW_REF)
+Open the reference, p. {0}	Abrir la referencia, p. {0}	فتح المرجع، ص {0}
+Open the solver monitor	Abrir el monitor del solucionador	فتح مراقب المحلّل
+Open window	Abrir ventana	فتح نافذة
+Open {0}	Abrir {0}	فتح {0}
+Open {0} →	Abrir {0} →	فتح {0} ←
+Open{0}	Abrir{0}	فتح{0}
+Operation	Operación	التشغيل
+Operational life	Vida operativa	العمر التشغيلي
+Operational life below 1 year	Vida operativa inferior a 1 año	عمر تشغيلي أقل من سنة
+Operational profile (shape of the activity)	Perfil operativo (forma de la actividad)	الملف التشغيلي (شكل النشاط)
+Optimal	Óptimo	أمثل
+Optional	Opcional	اختياري
+Order	Orden	الترتيب
+Order of the time slices	Orden de los intervalos de tiempo	ترتيب الشرائح الزمنية
+Other	Otros	أخرى
+Other constraints	Otras restricciones	قيود أخرى
+Other model files	Otros archivos de modelo	ملفات نماذج أخرى
+Other settings of {0}: {1}	Otros ajustes de {0}: {1}	إعدادات أخرى لـ {0}: {1}
+Output	Salida	المُخرج
+Output (result)	Salida (resultado)	مُخرج (نتيجة)
+Output / input (mode 1)	Salida / entrada (modo 1)	المُخرج / المُدخل (النمط 1)
+Output ratio by season	Relación de salida por estación	نسبة المُخرج حسب الموسم
+Output ratio by time slice	Relación de salida por intervalo	نسبة المُخرج حسب الشريحة الزمنية
+Outputs (ratio)	Salidas (relación)	المخرجات (نسبة)
+Outputs · {0}	Salidas · {0}	المخرجات · {0}
+Outside them{0}	Fuera de ellos{0}	خارجها{0}
+Over the items{0}	Sobre los elementos{0}	على العناصر{0}
+Over the years	A lo largo de los años	عبر السنوات
+Over the years{0}	A lo largo de los años{0}	عبر السنوات{0}
+Over time	En el tiempo	عبر الزمن
+Overview	Resumen	نظرة عامة
+Overview of all	Resumen de todo	نظرة عامة على الكل
+Own discount rate	Tasa de descuento propia	معدل خصم خاص
+Own settings for some items	Ajustes propios para algunos elementos	إعدادات خاصة لبعض العناصر
+PDLP (first order, very large models)	PDLP (primer orden, modelos muy grandes)	PDLP (رتبة أولى، نماذج كبيرة جدًا)
+PRIM trajectory	Trayectoria PRIM	مسار PRIM
+Package {0} MB	Paquete {0} MB	الحزمة {0} ميغابايت
+Page{0}	Página{0}	الصفحة{0}
+Palette{0}	Paleta{0}	لوحة الألوان{0}
+Panels	Paneles	اللوحات
+Panels per row	Paneles por fila	لوحات لكل صف
+Parallel coordinates (rows as axes)	Coordenadas paralelas (filas como ejes)	إحداثيات متوازية (الصفوف كمحاور)
+Parameter	Parámetro	المعلمة
+Parameter reference (PDF)	Referencia de parámetros (PDF)	مرجع المعلمات (PDF)
+Parameters	Parámetros	المعلمات
+Parameters A to Z	Parámetros de la A a la Z	المعلمات من A إلى Z
+Parameters of this model	Parámetros de este modelo	معلمات هذا النموذج
+Parameters used	Parámetros usados	المعلمات المستخدمة
+Parameters with values	Parámetros con valores	معلمات ذات قيم
+Parameters with values (count)	Parámetros con valores (número)	معلمات ذات قيم (عدد)
+Part of	Parte de	جزء من
+Part of the system	Parte del sistema	جزء من النظام
+Past kept, fixed (exact)	Pasado conservado, fijo (exacto)	الماضي محفوظ ومثبّت (دقيق)
+Past turned into data (fast)	Pasado convertido en datos (rápido)	الماضي محوّل إلى بيانات (سريع)
+Paste	Pegar	لصق
+Pasted {0} values into {1}	{0} valores pegados en {1}	لُصقت {0} قيم في {1}
+Penalties are normally ≥ 0.	Las penalizaciones son normalmente ≥ 0.	العقوبات عادة ≥ 0.
+Penalty (cost per unit)	Penalización (costo por unidad)	العقوبة (تكلفة لكل وحدة)
+Penalty {0}	Penalización {0}	العقوبة {0}
+Percentiles along {0}	Percentiles a lo largo de {0}	المئينات على امتداد {0}
+Perfect foresight	Previsión perfecta	الاستشراف التام
+Performance	Rendimiento	الأداء
+Phase in over (years, 0 = at once)	Introducción gradual en (años, 0 = de una vez)	إدخال تدريجي على (سنوات، 0 = دفعة واحدة)
+Pie	Circular	دائري
+Pipeline	Gasoducto / oleoducto	خط أنابيب
+Points	Puntos	نقاط
+Position{0}	Posición{0}	الموضع{0}
+Pre-processing and building the problem (GLPK)	Preprocesado y construcción del problema (GLPK)	المعالجة المسبقة وبناء المسألة (GLPK)
+Preparing the backup…	Preparando la copia…	جارٍ تحضير النسخة…
+Preparing the package…	Preparando el paquete…	جارٍ تحضير الحزمة…
+Presolve{0}	Preprocesado{0}	المعالجة المسبقة{0}
+Preview	Vista previa	معاينة
+Preview the linked values	Vista previa de los valores vinculados	معاينة القيم المرتبطة
+Price and limits	Precio y límites	السعر والحدود
+Primal inf.	Inf. primal	عدم جدوى أولي
+Primal objective	Objetivo primal	الهدف الأولي
+Probabilities	Probabilidades	الاحتمالات
+Probability map	Mapa de probabilidad	خريطة الاحتمال
+Probability of being above	Probabilidad de estar por encima	احتمال التجاوز
+Probability that the value is above	Probabilidad de que el valor esté por encima	احتمال أن تكون القيمة أعلى
+Problem	Problema	المسألة
+Process	Proceso	العملية
+Process (generic)	Proceso (genérico)	عملية (عامة)
+Produced by	Producido por	يُنتَج بواسطة
+Produced by · {0}	Producido por · {0}	يُنتَج بواسطة · {0}
+Production = use (BalanceEquality)	Producción = uso (BalanceEquality)	الإنتاج = الاستخدام (BalanceEquality)
+Production and use	Producción y uso	الإنتاج والاستخدام
+Profiles and seasonal ratios	Perfiles y relaciones estacionales	الملفات والنسب الموسمية
+Progress and log	Progreso y registro	التقدم والسجل
+Pumping	Bombeo	الضخ
+Put back everything the last delete removed	Restaurar todo lo que quitó el último borrado	استعادة كل ما أزاله الحذف الأخير
+Question	Pregunta	سؤال
+Queued	En cola	في الانتظار
+Radar (rows around)	Radar (filas alrededor)	رادار (الصفوف حوله)
+Rain / precipitation	Lluvia / precipitación	المطر / الهطول
+Rain driver (WaterDriverFuel)	Impulsor de lluvia (WaterDriverFuel)	محرّك المطر (WaterDriverFuel)
+Raise capacity or lower the limit.	Aumente la capacidad o baje el límite.	ارفع القدرة أو خفّض الحد.

@@ -1,0 +1,380 @@
+(AGE is computed by the model)	(AGE est calculé par le modèle)
+(EmissionActivityRatio, per unit of activity)	(EmissionActivityRatio, par unité d'activité)
+(Max series = {0})	(Séries max. = {0})
+(activity limited to	(activité limitée à
+(also the technologies in them)	(aussi les technologies qu'elles contiennent)
+(blank = all {0})	(vide = tous les {0})
+(change it here: the message says what changed)	(modifiez-le ici : le message indique ce qui a changé)
+(first year shown)	(première année affichée)
+(from the model)	(du modèle)
+(incl. constant {0}; MUIO shows {1})	(constante {0} incluse ; MUIO affiche {1})
+(no folder)	(aucun dossier)
+(none)	(aucun)
+(not valid: all targets used)	(non valide : toutes les cibles utilisées)
+(optional)	(facultatif)
+(or a range: 2025-2050)	(ou une plage : 2025-2050)
+(or type a new code)	(ou saisissez un nouveau code)
+(perfect foresight {0}, +{1} %)	(prévision parfaite {0}, +{1} %)
+(regional: set in every region)	(régional : défini dans chaque région)
+(share of the spread)	(part de l'écart)
+(the {0} days are scaled to the year)	(les {0} jours sont ramenés à l'année)
+(the {0} largest of {1})	(les {0} plus grands sur {1})
+(year chosen above)	(année choisie ci-dessus)
+({0} + the new scenario)	({0} + le nouveau scénario)
+({0} of {1} values)	({0} sur {1} valeurs)
+({0} reported by the solver)	({0} signalé par le solveur)
+), then "Run".	), puis « Exécuter ».
+), then open this view again.	), puis rouvrez cette vue.
++ Emissions (total)	+ Émissions (total)
++ Filter on a variable	+ Filtre sur une variable
++ Formula metric	+ Indicateur par formule
++ Investment (total)	+ Investissement (total)
++ Linked value	+ Valeur liée
++ Metric	+ Indicateur
++ New folder	+ Nouveau dossier
++ Strategy	+ Stratégie
++ Term	+ Terme
++ Window	+ Fenêtre
++ a cell of the driver	+ une cellule du moteur
++ add rows	+ ajouter des lignes
++ new scenario	+ nouveau scénario
++{0} zero	+{0} zéro
+, base data	, données de base
+, each year	, chaque année
+, every {0}th drawn	, un tirage sur {0}
+, filtered (	, filtré (
+, objective	, objectif
+, own use	, autoconsommation
+, reference run dashed	, exécution de référence en tirets
+, sample {0} in red	, échantillon {0} en rouge
+, summed over the regions	, sommé sur les régions
+, then open this window again.	, puis rouvrez cette fenêtre.
+0 (default) in every year.	0 (par défaut) chaque année.
+0 or empty = all cores	0 ou vide = tous les cœurs
+1 = satisfied	1 = satisfait
+1 = sinking fund, 2 = straight line.	1 = fonds d'amortissement, 2 = linéaire.
+1 season (the year)	1 saison (l'année)
+1 unit equals (optional)	1 unité vaut (facultatif)
+12 months, January first	12 mois, janvier en premier
+12 months, September first (hydrological year)	12 mois, septembre en premier (année hydrologique)
+1e-7 (default)	1e-7 (par défaut)
+3-D surface (rows x columns)	Surface 3D (lignes x colonnes)
+300 dpi (print)	300 dpi (impression)
+300 draws	300 tirages
+4 seasons	4 saisons
+5 % and 95 %	5 % et 95 %
+5 % · median · 95 %	5 % · médiane · 95 %
+90 % of futures below	90 % des futurs en dessous
+95 % interval of the mean	Intervalle à 95 % de la moyenne
+96 dpi (screen)	96 dpi (écran)
+: keep about 2 free for the system	 : en laisser environ 2 libres pour le système
+: planned, not built yet	 : prévu, pas encore construit
+: {0} change(s) so far.	 : {0} modification(s) jusqu'ici.
+; N = the years kept	 ; N = les années retenues
+; light backup: solved futures not included	 ; sauvegarde légère : futurs résolus non inclus
+; the results are under the run "	 ; les résultats sont sous l'exécution «
+; too many slices in	 ; trop de tranches dans
+= national (UDC2)	= national (UDC2)
+= regional, all regions summed (RUDC2)	= régional, toutes régions sommées (RUDC2)
+A MUIO case has	Un cas MUIO a
+A future is bad when the strategy	Un futur est mauvais quand la stratégie
+A future is satisfied when	Un futur est satisfait quand
+A knot every (years)	Un nœud tous les (ans)
+A new case	Un nouveau cas
+A number	Un nombre
+A part of the diagram	Une partie du diagramme
+A regional fund nobody pays into	Un fonds régional que personne n'alimente
+A value given in both	Une valeur donnée dans les deux
+A {0} has no time slice ({1})	Un {0} n'a pas de tranche horaire ({1})
+AR(1): each year leans on the previous one	AR(1) : chaque année s'appuie sur la précédente
+About	À propos
+About this version	À propos de cette version
+About {0}	À propos de {0}
+Acceptable; more samples would narrow it.	Acceptable ; plus d'échantillons le réduiraient.
+Across years	Entre les années
+Activity	Activité
+Activity limits	Limites d'activité
+Activity lower limit above activity upper limit	Limite basse d'activité au-dessus de la limite haute
+Activity of a technology over the whole horizon.	Activité d'une technologie sur tout l'horizon.
+Activity unit	Unité d'activité
+Activity ×	Activité ×
+Acts in	Agit dans
+Add	Ajouter
+Add (the same to every cell)	Ajouter (la même chose à chaque cellule)
+Add a model file	Ajouter un fichier modèle
+Add a model to the open case	Ajouter un modèle au cas ouvert
+Add again	Ajouter de nouveau
+Add another model file…	Ajouter un autre fichier modèle…
+Add at least two uncertain parameters.	Ajoutez au moins deux paramètres incertains.
+Add it to the library	L'ajouter à la bibliothèque
+Add parameters from the list on the left.	Ajoutez des paramètres depuis la liste de gauche.
+Add rows:	Ajouter des lignes :
+Add scenario	Ajouter un scénario
+Add system	Ajouter un système
+Add the model file {0}	Ajouter le fichier modèle {0}
+Add the unit	Ajouter l'unité
+Add the usual systems	Ajouter les systèmes habituels
+Add to Model files	Ajouter aux fichiers modèles
+Add to the library	Ajouter à la bibliothèque
+Add to the open case	Ajouter au cas ouvert
+Add uncertain parameters first (Monte Carlo page).	Ajoutez d'abord des paramètres incertains (page Monte Carlo).
+Add uncertain parameters first.	Ajoutez d'abord des paramètres incertains.
+Add uncertainties	Ajouter des incertitudes
+Add {0} rows?	Ajouter {0} lignes ?
+Add {0} to {1}	Ajouter {0} à {1}
+Added to the open case	Ajouté au cas ouvert
+After presolve	Après la prérésolution
+Aggregation	Agrégation
+Aggregation{0}	Agrégation{0}
+Algorithm	Algorithme
+All	Tout
+All (sum)	Tout (somme)
+All default.	Tout par défaut.
+All its values	Toutes ses valeurs
+All its values ({0})	Toutes ses valeurs ({0})
+All listed	Tous ceux listés
+All metrics, scaled	Tous les indicateurs, normalisés
+All models ({0} cases)	Tous les modèles ({0} cas)
+All of them (AND)	Tous (ET)
+All parameters	Tous les paramètres
+All regions	Toutes les régions
+All regions together	Toutes les régions ensemble
+All rows	Toutes les lignes
+All targets are met (AND)	Toutes les cibles sont atteintes (ET)
+All units ·	Toutes les unités ·
+All values of the model	Toutes les valeurs du modèle
+All years	Toutes les années
+All zero in this run: nothing to show.	Tout à zéro dans cette exécution : rien à afficher.
+All zero in {0}	Tout à zéro dans {0}
+All {0} samples pass the checks.	Les {0} échantillons passent les contrôles.
+All {0} years (untick for every 5th year)	Les {0} années (décochez pour une année sur 5)
+Alone	Seule
+Alone · {0} window{1}	Seule · {0} fenêtre{1}
+Along	Le long de
+Along (X axis){0}	Le long de (axe X){0}
+Also kept in the run's folder (exports).	Aussi conservé dans le dossier de l'exécution (exports).
+Alt + wheel on a panel	Alt + molette sur un panneau
+Always	Toujours
+An expression (M1 and (M2 or M3))	Une expression (M1 and (M2 or M3))
+Annual demand (any time)	Demande annuelle (à tout moment)
+Annual limit	Limite annuelle
+Annual limit (all regions together)	Limite annuelle (toutes régions ensemble)
+Annual limit (each region)	Limite annuelle (chaque région)
+Annual limit {0}	Limite annuelle {0}
+AnnualActivityByVintage · activity of each cohort	AnnualActivityByVintage · activité de chaque cohorte
+AnnualEmissionLimit of {0} is 0	AnnualEmissionLimit de {0} vaut 0
+AnnualEmissions (computed in the model)	AnnualEmissions (calculé dans le modèle)
+Any colour…	Toute couleur…
+Any colour…{0}	Toute couleur…{0}
+Any of them (OR)	L'un d'eux (OU)
+Any target is met (OR)	Une cible est atteinte (OU)
+Applied	Appliqué
+Apply	Appliquer
+Apply filter	Appliquer le filtre
+Apply sets	Appliquer les ensembles
+Apply the years	Appliquer les années
+Apply to all charts	Appliquer à tous les graphiques
+Aquifer (groundwater store)	Aquifère (réserve souterraine)
+Area	Aire
+Areas (each series)	Aires (chaque série)
+Areas (stacked)	Aires (empilées)
+As MUIO shows it	Comme MUIO l'affiche
+As another app window (trial)	Comme une autre fenêtre d'application (essai)
+As drawn	Comme dessiné
+As shown	Comme affiché
+As the theme	Comme le thème
+Assign items…	Affecter des éléments…
+Assign {0} items?	Affecter {0} éléments ?
+At least k of them	Au moins k d'entre eux
+At least k targets are met	Au moins k cibles sont atteintes
+At most 40 at once	Au plus 40 à la fois
+Author	Auteur
+Auto	Auto
+Automatic	Automatique
+Automatic ({0})	Automatique ({0})
+Availability	Disponibilité
+Availability factor outside 0–1	Facteur de disponibilité hors de 0–1
+Availability factors are shares.	Les facteurs de disponibilité sont des parts.
+Average	Moyenne
+Average per year	Moyenne par an
+Average yearly growth (%)	Croissance annuelle moyenne (%)
+Axes and layout	Axes et mise en page
+Axis titles	Titres des axes
+Back to Robust decisions	Retour aux décisions robustes
+Back to base	Retour à la base
+Back to the default colours of the topics	Revenir aux couleurs par défaut des thèmes
+Back to the diagram	Retour au diagramme
+Back up (zip)	Sauvegarder (zip)
+Back up this case as one zip	Sauvegarder ce cas en un seul zip
+Background (transparent for slides): in Axes and layout.	Fond (transparent pour les diapositives) : dans Axes et mise en page.
+Background{0}	Fond{0}
+Backstop	Secours
+Backup cancelled	Sauvegarde annulée
+Backup failed:	La sauvegarde a échoué :
+Backup saved: {0} ({1} MB)	Sauvegarde enregistrée : {0} ({1} Mo)
+Backup {0}: {1} MB	Sauvegarde {0} : {1} Mo
+Bad	Mauvais
+Balance (1 slice, 0 year, 2 season)	Bilan (1 tranche, 0 année, 2 saison)
+Balance as equality	Bilan en égalité
+Balance levels	Niveaux de bilan
+Balanced by year (CommodityTimeSliced 0): {0}	Équilibré par année (CommodityTimeSliced 0) : {0}
+Bar at the top	Barre en haut
+Bars	Barres
+Bars, positive / negative stacked	Barres, positives / négatives empilées
+Base	Base
+Base (mean)	Base (moyenne)
+Base + one strategy per scenario	Base + une stratégie par scénario
+Base field{0}	Champ de base{0}
+Base member{0}	Membre de base{0}
+Base of the samples	Base des échantillons
+Base only	Base seule
+Battery / storage	Batterie / stockage
+Before you export	Avant d'exporter
+Best match	Meilleure correspondance
+Best strategy in	Meilleure stratégie dans
+Beta	Bêta
+Better when{0}	Meilleur quand{0}
+Biomass	Biomasse
+Both	Les deux
+Bottom	Bas
+Box plot (spread over rows)	Boîte à moustaches (dispersion sur les lignes)
+Bubbles (size = value)	Bulles (taille = valeur)
+Budget and finance	Budget et financement
+Budget of each region	Budget de chaque région
+Budget pays imports (share)	Le budget paie les importations (part)
+Budget pays operation (share)	Le budget paie l'exploitation (part)
+Budget savings allowed	Épargne budgétaire autorisée
+Building	Construction
+Built-in (SVG)	Intégré (SVG)
+By family	Par famille
+By more than (%)	De plus de (%)
+By system	Par système
+By technology	Par technologie
+Cancel	Annuler
+Cancelled	Annulé
+Capacity	Capacité
+Capacity adequacy	Adéquation de la capacité
+Capacity factor outside 0–1	Facteur de capacité hors de 0–1
+Capacity factors are shares.	Les facteurs de capacité sont des parts.
+Capacity fade	Perte de capacité
+Capacity is free and unlimited	La capacité est gratuite et illimitée
+Capacity limits	Limites de capacité
+Capacity online (committed) in a time slice [6].	Capacité en ligne (engagée) dans une tranche horaire [6].
+Capacity refurbished in the year (life extension) [2].	Capacité rénovée dans l'année (prolongation de vie) [2].
+Capacity to activity	Capacité vers activité
+Capacity under construction: limit without construction time	Capacité en construction : limite sans durée de construction
+Capacity under construction: negative limit	Capacité en construction : limite négative
+Capacity unit	Unité de capacité
+Capital cost	Coût d'investissement
+Capital cost {0}	Coût d'investissement {0}
+Capital must be financed (1)	Le capital doit être financé (1)
+Capital paid by construction year	Capital payé par année de construction
+Capital spending on new storage capacity.	Dépense d'investissement en nouvelle capacité de stockage.
+Capital {0}	Capital {0}
+Cascade rule	Règle de cascade
+Cascade share	Part de cascade
+Case	Cas
+Case {0} opened in another window	Cas {0} ouvert dans une autre fenêtre
+Cases	Cas
+Cases folder not reachable:	Dossier des cas inaccessible :
+Cell of the driver (season, region…)	Cellule du moteur (saison, région…)
+Cells	Cellules
+Change the code everywhere in the model	Changer le code partout dans le modèle
+Changes applied	Modifications appliquées
+Changes cleared	Modifications effacées
+Changes undone	Modifications annulées
+Charged and discharged by	Chargé et déchargé par
+Charged by	Chargé par
+Charging link to a storage, by mode.	Lien de charge vers un stockage, par mode.
+Chart	Graphique
+Chart builder	Constructeur de graphiques
+Chart saved with this model	Graphique enregistré avec ce modèle
+Chart style	Style du graphique
+Charts	Graphiques
+Check	Vérification
+Check (failed)	Vérification (échouée)
+Check correlations	Vérifier les corrélations
+Check feasibility (exact)	Vérifier la faisabilité (exacte)
+Check it on	Le vérifier sur
+Checking…	Vérification…
+Checkpoint {0}	Point de contrôle {0}
+Checkpoint {0} saved{1}. You keep working on {2}.	Point de contrôle {0} enregistré{1}. Vous continuez sur {2}.
+Checkpoints	Points de contrôle
+Checkpoints of deleted cases	Points de contrôle des cas supprimés
+Choose	Choisir
+Choose a unit to apply	Choisissez une unité à appliquer
+Choose the items	Choisir les éléments
+Choose the items first.	Choisissez d'abord les éléments.
+Choose the model to start with	Choisir le modèle de départ
+Choose…	Choisir…
+Chronological	Chronologique
+Clear	Effacer
+Clear (back to default)	Effacer (retour au défaut)
+Clear changes	Effacer les modifications
+Clear filters	Effacer les filtres
+Clear for these items	Effacer pour ces éléments
+Clear {0} row{1}	Effacer {0} ligne{1}
+Click	Clic
+Click to search and choose	Cliquez pour chercher et choisir
+Climate and emissions	Climat et émissions
+Climate drivers (by region and season)	Moteurs climatiques (par région et saison)
+Close	Fermer
+Close all	Tout fermer
+Coal	Charbon
+Code	Code
+Code of the copy of {0}:	Code de la copie de {0} :
+Code of {0}	Code de {0}
+Code · description	Code · description
+Coefficient of variation over the years (%)	Coefficient de variation sur les années (%)
+Coefficient on new capacity in a user-defined constraint.	Coefficient sur la nouvelle capacité dans une contrainte utilisateur.
+Coefficient on the activity in a user-defined constraint.	Coefficient sur l'activité dans une contrainte utilisateur.
+Coefficient on total capacity in a user-defined constraint.	Coefficient sur la capacité totale dans une contrainte utilisateur.
+Coherence inside this parameter: {0}	Cohérence dans ce paramètre : {0}
+Collapse all	Tout replier
+Colour	Couleur
+Colour of the Studio	Couleur du Studio
+Colour of the page	Couleur de la page
+Colour of the topic {0} (for you only)	Couleur du thème {0} (pour vous seulement)
+Colour of this page	Couleur de cette page
+Colour of this parameter (for you only)	Couleur de ce paramètre (pour vous seulement)
+Colour ▾	Couleur ▾
+Colours everywhere	Couleurs partout
+Colours, names and marks	Couleurs, noms et marqueurs
+Colours{0}	Couleurs{0}
+Columns	Colonnes
+Combined	Combiné
+Combined targets: % of futures (bars)	Cibles combinées : % des futurs (barres)
+Combined:	Combiné :
+Committed	Engagé
+Committed investment above the budget and external finance	Investissement engagé au-dessus du budget et du financement externe
+Committed investment with no eligible finance source	Investissement engagé sans source de financement éligible
+Committed money above the envelope of the source	Montant engagé au-dessus de l'enveloppe de la source
+Committed money above what the source has	Montant engagé au-dessus de ce que la source possède
+Committed {0} above its ceiling	{0} engagé au-dessus de son plafond
+Committed {0}-{1}	Engagé {0}-{1}
+Commodities	Produits
+Commodities (technologies)	Produits (technologies)
+Commodity	Produit
+Commodity balances	Bilans des produits
+Commodity used per unit of installed capacity (InputToTotalCapacityRatio).	Produit utilisé par unité de capacité installée (InputToTotalCapacityRatio).
+Commodity used to build new capacity (InputToNewCapacityRatio).	Produit utilisé pour construire la nouvelle capacité (InputToNewCapacityRatio).
+Compare the runs	Comparer les exécutions
+Compute	Calculer
+Compute first	Calculer d'abord
+Computed ({0})	Calculé ({0})
+Computed on	Calculé sur
+Computing 200 samples…	Calcul de 200 échantillons…
+Computing the metrics of every strategy and future…	Calcul des indicateurs de chaque stratégie et futur…
+Concessional	Concessionnel
+Constant	Constante
+Constant {0}	Constante {0}
+Constraint	Contrainte
+Constraints	Contraintes
+Constraints and objective	Contraintes et objectif
+Construction time	Durée de construction
+Construction time: negative spending share	Durée de construction : part de dépense négative
+Construction time: spending weights normalised to shares	Durée de construction : poids de dépense normalisés en parts
+Construction time: whole number of years (1-20)	Durée de construction : nombre entier d'années (1-20)
+Construction years before online	Années de construction avant la mise en service
+Continue	Continuer
+Continue from it	Continuer à partir de celui-ci

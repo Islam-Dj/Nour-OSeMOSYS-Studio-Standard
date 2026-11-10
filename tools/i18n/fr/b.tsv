@@ -1,0 +1,380 @@
+Convergence	Convergence
+Convergence: is the number of samples enough?	Convergence : le nombre d'échantillons suffit-il ?
+Conversion	Conversion
+Converting…	Conversion…
+Cooling	Refroidissement
+Copied	Copié
+Copied as they are	Copiés tels quels
+Copy (Excel)	Copier (Excel)
+Copy CSV	Copier CSV
+Copy not allowed here	Copie non autorisée ici
+Copy to all regions	Copier dans toutes les régions
+Correlation between them	Corrélation entre eux
+Correlations and sampling	Corrélations et échantillonnage
+Correlations between uncertain parameters	Corrélations entre paramètres incertains
+Cost of myopia	Coût de la myopie
+Cost of the rolling plan	Coût du plan glissant
+Costs	Coûts
+Could not add	Impossible d'ajouter
+Could not draw with {0}: {1}	Impossible de dessiner avec {0} : {1}
+Could not import	Impossible d'importer
+Could not open the folder	Impossible d'ouvrir le dossier
+Could not read	Impossible de lire
+Could not read the model: {0}	Impossible de lire le modèle : {0}
+Could not save in the browser library:	Impossible d'enregistrer dans la bibliothèque du navigateur :
+Could not save the case:	Impossible d'enregistrer le cas :
+Could not save:	Impossible d'enregistrer :
+Could not start the run:	Impossible de lancer l'exécution :
+Could not start:	Impossible de démarrer :
+Could not write the description:	Impossible d'écrire la description :
+Count of values	Nombre de valeurs
+Counts	Effectifs
+Create	Créer
+Create and edit in the diagram	Créer et modifier dans le diagramme
+Create model	Créer le modèle
+Credit line	Ligne de crédit
+Crop yield and calendar	Rendement et calendrier des cultures
+Crops	Cultures
+Cross-border link	Lien transfrontalier
+Cross-border links	Liens transfrontaliers
+Crossover	Crossover
+Crossover{0}	Crossover{0}
+Cumulative distribution of {0}{1}	Distribution cumulée de {0}{1}
+Cumulative over rows	Cumul sur les lignes
+Currency	Devise
+Currency set	Devise définie
+Custom (px)	Personnalisé (px)
+Daily time bracket	Plage horaire journalière
+Dark presentation	Présentation sombre
+Data	Données
+Data and solver	Données et solveur
+Day part	Partie du jour
+Day parts (daily time brackets, e.g. Day, Night)	Parties du jour (plages horaires, p. ex. Jour, Nuit)
+Day type	Type de jour
+Day types (e.g. Weekday, Weekend)	Types de jour (p. ex. Semaine, Week-end)
+Days of each season	Jours de chaque saison
+Decimals	Décimales
+Decision tree	Arbre de décision
+Decisions: rolling plan vs perfect foresight	Décisions : plan glissant vs prévision parfaite
+Default	Par défaut
+Default colours	Couleurs par défaut
+Default of the source model file	Défaut du fichier modèle source
+Default unit set	Unité par défaut définie
+Defaults: discount rate 0.05, depreciation by sinking fund.	Défauts : taux d'actualisation 0,05, amortissement par fonds d'amortissement.
+Delete a view…	Supprimer une vue…
+Delete checkpoint {0} of {1}?	Supprimer le point de contrôle {0} de {1} ?
+Delete it and all its data	Le supprimer avec toutes ses données
+Delete the folder	Supprimer le dossier
+Delete the scenario {0}?	Supprimer le scénario {0} ?
+Delete this Monte Carlo run and its samples?	Supprimer cette exécution Monte Carlo et ses échantillons ?
+Delete this run and all its solved futures?	Supprimer cette exécution et tous ses futurs résolus ?
+Delete this run and its results?	Supprimer cette exécution et ses résultats ?
+Delete which view?	Quelle vue supprimer ?
+Delete with its cases…	Supprimer avec ses cas…
+Delete {0} and all its data?	Supprimer {0} et toutes ses données ?
+Delete {0} row{1}	Supprimer {0} ligne{1}
+Delete {0} {1}	Supprimer {0} {1}
+Delete {0}…	Supprimer {0}…
+Delete…	Supprimer…
+Demand	Demande
+Demand above what the supply chain can deliver	Demande au-dessus de ce que la chaîne d'approvisionnement peut livrer
+Demand and balances	Demande et bilans
+Demand and trade	Demande et commerce
+Demand by time slice (annual)	Demande par tranche horaire (annuelle)
+Demand in a time slice of zero length	Demande dans une tranche horaire de durée nulle
+Demand profile	Profil de demande
+Demand profile does not sum to 1	Le profil de demande ne somme pas à 1
+Demand type	Type de demande
+Demand with no producer	Demande sans producteur
+Demand {0}	Demande {0}
+Depreciation (1 sinking fund, 2 straight line)	Amortissement (1 fonds d'amortissement, 2 linéaire)
+DepreciationMethod must be 1 or 2	DepreciationMethod doit valoir 1 ou 2
+Derived	Dérivé
+Derived (as MUIO)	Dérivé (comme MUIO)
+Derived (computed as MUIO does)	Dérivé (calculé comme MUIO)
+Derived from the run	Dérivé de l'exécution
+Desalination	Dessalement
+Describe the model file	Décrire le fichier modèle
+Description	Description
+Description (optional):	Description (facultative) :
+Details	Détails
+Diagram	Diagramme
+Diagram and data	Diagramme et données
+Difference	Différence
+Difference from a base member	Différence par rapport à un membre de base
+Discharged by	Déchargé par
+Discharging link from a storage, by mode.	Lien de décharge depuis un stockage, par mode.
+Discount rate	Taux d'actualisation
+Discount rate (%)	Taux d'actualisation (%)
+Discount rate outside (-1, 1]	Taux d'actualisation hors de (-1, 1]
+Discounted cost of a storage in the year.	Coût actualisé d'un stockage dans l'année.
+Discounted cost of the region over the horizon.	Coût actualisé de la région sur l'horizon.
+Discounted, whole horizon	Actualisé, tout l'horizon
+Discounting by region	Actualisation par région
+Dismiss	Ignorer
+Distribution	Distribution
+Distribution of the growth rate (% per year)	Distribution du taux de croissance (% par an)
+Distribution of {0}{1}	Distribution de {0}{1}
+Distribution, risk and sensitivity of{0}	Distribution, risque et sensibilité de{0}
+Divide by	Diviser par
+Divide values by	Diviser les valeurs par
+Divided by	Divisé par
+Done	Terminé
+Done selecting	Sélection terminée
+Donut	Anneau
+Double-click	Double-clic
+Download	Télécharger
+Download CSV (all metrics)	Télécharger CSV (tous les indicateurs)
+Download as SVG (vector)	Télécharger en SVG (vectoriel)
+Download the reference	Télécharger la référence
+Download{0}	Télécharger{0}
+Drag to change the width	Glissez pour changer la largeur
+Drag to change the width (double-click: default)	Glissez pour changer la largeur (double-clic : défaut)
+Draw over the years · {0}	Tirage sur les années · {0}
+Drawing 400 samples…	Tirage de 400 échantillons…
+Drawing…	Tirage…
+Draws{0}	Tirages{0}
+Driver	Moteur
+Driver depth by season	Hauteur du moteur par saison
+Driver · matched on	Moteur · apparié sur
+Drop fields here	Déposez les champs ici
+Dual inf.	Inf. duale
+Dual objective	Objectif dual
+Duplicate	Dupliquer
+Duplicate the folder	Dupliquer le dossier
+ET0 of the land (zone)	ET0 du terrain (zone)
+Each chart its own	Chaque graphique le sien
+Each item over the years	Chaque élément au fil des années
+Each strategy needs its own code	Chaque stratégie doit avoir son propre code
+Each target: % of futures (grouped bars)	Chaque cible : % des futurs (barres groupées)
+Economy	Économie
+Edit	Modifier
+Edit it in the diagram	Le modifier dans le diagramme
+Edit settings	Modifier les réglages
+Edit the base	Modifier la base
+Edit the uncertainties	Modifier les incertitudes
+Edit the unit	Modifier l'unité
+Edit this scenario	Modifier ce scénario
+Edit values	Modifier les valeurs
+Editing	Modification
+Editing scenario	Scénario en cours de modification
+Editing the base case	Modification du cas de base
+Editorial (Studio)	Éditorial (Studio)
+Efficiency factors of the cohorts have no effect	Les facteurs d'efficacité des cohortes n'ont aucun effet
+Electricity	Électricité
+Eligible storage (0 = not)	Stockage éligible (0 = non)
+Eligible technologies (0 = not)	Technologies éligibles (0 = non)
+Emission	Émission
+Emission decoupled from activity	Émission découplée de l'activité
+Emission from a change of activity	Émission due à un changement d'activité
+Emission limit on {0} cannot be met	La limite d'émission sur {0} ne peut être respectée
+Emissions	Émissions
+Emissions (comma separated, may be empty)	Émissions (séparées par des virgules, peut être vide)
+Emissions (ratio)	Émissions (ratio)
+Emissions (total)	Émissions (total)
+Emissions / CO2	Émissions / CO2
+Emissions of a technology over the year.	Émissions d'une technologie sur l'année.
+Emissions of {0}:	Émissions de {0} :
+Emitted by (ratio)	Émis par (ratio)
+Empty usable band of the storage	Bande utile du stockage vide
+End use	Usage final
+End value	Valeur finale
+Energy	Énergie
+Energy flows (Sankey from production and use)	Flux d'énergie (Sankey de la production et de l'usage)
+Energy put into a storage over the year.	Énergie stockée sur l'année.
+Enhance a strategy	Améliorer une stratégie
+Enhanced strategies of this run	Stratégies améliorées de cette exécution
+Enhancement	Amélioration
+Enough samples for the mean.	Assez d'échantillons pour la moyenne.
+Environment	Environnement
+Equation	Équation
+Error	Erreur
+Every case is in a folder.	Chaque cas est dans un dossier.
+Every future, bad ones marked	Chaque futur, les mauvais marqués
+Every item has a system.	Chaque élément a un système.
+Every metric: each future (one panel per metric)	Chaque indicateur : chaque futur (un panneau par indicateur)
+Every pair of metrics (matrix)	Chaque paire d'indicateurs (matrice)
+Everything	Tout
+Everything deleted is back.	Tout ce qui a été supprimé est revenu.
+Everything, nothing to solve again	Tout, rien à résoudre à nouveau
+Example models	Modèles d'exemple
+Excel	Excel
+Excel (this view)	Excel (cette vue)
+Existing capacity (no capital cost).	Capacité existante (sans coût d'investissement).
+Existing capacity above the maximum capacity	Capacité existante au-dessus de la capacité maximale
+Existing {0}	{0} existant
+Exogenous emission per year	Émission exogène par an
+Exogenous emission, whole horizon	Émission exogène, tout l'horizon
+Expand all	Tout déplier
+Export	Exporter
+Export CSV	Exporter CSV
+Export all (CSV)	Tout exporter (CSV)
+Export everything	Tout exporter
+Export everything (zip)…	Tout exporter (zip)…
+Export failed:	L'export a échoué :
+Export supply chain	Chaîne d'approvisionnement à l'export
+Export the diagram	Exporter le diagramme
+Export to MUIO	Exporter vers MUIO
+Export unit cost	Coût unitaire d'export
+Exported	Exporté
+Exporting with MUIO's code…	Export avec le code de MUIO…
+Expression	Expression
+Expression…	Expression…
+Factor	Facteur
+Factors by vintage / age	Facteurs par cohorte / âge
+Failed	Échoué
+Feasibility tolerance	Tolérance de faisabilité
+Feasible: the model has a solution	Faisable : le modèle a une solution
+Fertiliser	Engrais
+Fields	Champs
+Fill	Remplir
+Fill row (year:value)	Remplir la ligne (année:valeur)
+Filter by code or name{0}	Filtrer par code ou nom{0}
+Filter the list	Filtrer la liste
+Filter {0}	Filtrer {0}
+Filters	Filtres
+Final demand	Demande finale
+Finance	Financement
+Find	Chercher
+Find a technology, commodity, storage, emission or parameter…	Chercher une technologie, un produit, un stockage, une émission ou un paramètre…
+Find…	Chercher…
+First	Premier
+First 2,000 of {0}	Les 2 000 premiers sur {0}
+First the units of {0}, then all units.	D'abord les unités de {0}, puis toutes les unités.
+First year	Première année
+Fixed (decided before)	Fixé (décidé avant)
+Fixed cost	Coût fixe
+Fixed cost: FixedCost x total capacity.	Coût fixe : FixedCost x capacité totale.
+Fixed from the committed years	Fixé à partir des années engagées
+Fixed past (kept in the window)	Passé fixé (gardé dans la fenêtre)
+Flat activity and a must-run user constraint	Activité constante et contrainte utilisateur de fonctionnement obligatoire
+Flat activity: not a switch	Activité constante : pas un interrupteur
+Folder	Dossier
+Folder "{0}" and {1} case{2} deleted	Dossier « {0} » et {1} cas{2} supprimés
+Folder "{0}" created	Dossier « {0} » créé
+Folder "{0}" deleted; its cases kept	Dossier « {0} » supprimé ; ses cas conservés
+Folder "{0}" saved	Dossier « {0} » enregistré
+Folder name	Nom du dossier
+Folder:	Dossier :
+Folders not saved in this browser	Dossiers non enregistrés dans ce navigateur
+Folders not saved:	Dossiers non enregistrés :
+Fonts	Polices
+Font{0}	Police{0}
+Food	Alimentation
+Food and agriculture	Alimentation et agriculture
+For {0}	Pour {0}
+Forced activity but an input is never produced	Activité forcée mais une entrée n'est jamais produite
+Forest / wood	Forêt / bois
+Format{0}	Format{0}
+Formula	Formule
+Formula file (.py)	Fichier de formules (.py)
+Formula file not loaded:	Fichier de formules non chargé :
+Formula metric	Indicateur par formule
+Formula of inputs and outputs	Formule d'entrées et de sorties
+Freight	Fret
+From	De
+From (commodity of)	De (produit de)
+Full backup	Sauvegarde complète
+Full extraction	Extraction complète
+Full model	Modèle complet
+Full system	Système complet
+Funnel (columns)	Entonnoir (colonnes)
+Future	Futur
+Futures	Futurs
+Futures (empty = all {0})	Futurs (vide = les {0})
+Futures met or missed (strategies × futures)	Futurs atteints ou manqués (stratégies × futurs)
+Futures solved for every strategy	Futurs résolus pour chaque stratégie
+Gap	Écart
+Gas	Gaz
+General	Général
+Geothermal	Géothermie
+Give a minimum, a maximum or both	Donnez un minimum, un maximum ou les deux
+Give a number	Donnez un nombre
+Give a share between 0 and 1.	Donnez une part entre 0 et 1.
+Give a type from 1 to 5.	Donnez un type de 1 à 5.
+Give the code, then fill its parameters.	Donnez le code, puis remplissez ses paramètres.
+Give the end value	Donnez la valeur finale
+Give the life in whole years (≥ 1).	Donnez la durée de vie en années entières (≥ 1).
+Give the rate as a share, e.g. 0.05.	Donnez le taux en part, p. ex. 0,05.
+Give the seasonal Ky (FAO-33).	Donnez le Ky saisonnier (FAO-33).
+Go to Run	Aller à Exécuter
+Grey	Gris
+Grey = not used in this model	Gris = non utilisé dans ce modèle
+Greys (print)	Gris (impression)
+Grid as drawn	Grille telle que dessinée
+Grid lines	Lignes de grille
+Grids	Grilles
+Grids the Excel way	Grilles à la manière d'Excel
+Groundwater	Eaux souterraines
+Group	Groupe
+Group (TimesliceGroup)	Groupe (TimesliceGroup)
+Group by	Grouper par
+Group the list by family or by system	Grouper la liste par famille ou par système
+Grouped bars	Barres groupées
+Grouped columns	Colonnes groupées
+Groups of futures that are mostly bad	Groupes de futurs surtout mauvais
+Growth first to last year (%)	Croissance de la première à la dernière année (%)
+Growth from the previous row (%)	Croissance depuis la ligne précédente (%)
+Growth rate{0}	Taux de croissance{0}
+HTML (interactive)	HTML (interactif)
+Halton (quasi-random)	Halton (quasi-aléatoire)
+Harmless for feasibility; check whether it is intended.	Sans effet sur la faisabilité ; vérifiez si c'est voulu.
+Has a metric worse than a value	A un indicateur pire qu'une valeur
+Heat	Chaleur
+Heat map (rows x columns)	Carte de chaleur (lignes x colonnes)
+Heat map: strategies × futures	Carte de chaleur : stratégies × futurs
+Height (px)	Hauteur (px)
+Hidden	Masqué
+Hide flows below (% of the largest)	Masquer les flux sous (% du plus grand)
+Hide the model browser	Masquer l'explorateur du modèle
+Hide “Other”	Masquer « Autres »
+Highest 10 %	Les 10 % les plus élevés
+Highest allowed level: the capacity.	Niveau maximal autorisé : la capacité.
+Highest year	Année la plus élevée
+Histogram of the values	Histogramme des valeurs
+Horizontal axis	Axe horizontal
+Horizontal stacked bars	Barres empilées horizontales
+Hours	Heures
+How many targets are met (stacked bars)	Nombre de cibles atteintes (barres empilées)
+How the draw is applied	Comment le tirage est appliqué
+How to read	Comment lire
+How you judge a strategy in a future	Comment vous jugez une stratégie dans un futur
+Hydro / dam	Hydro / barrage
+Hydrogen	Hydrogène
+Icon	Icône
+Icon style{0}	Style d'icône{0}
+Icons and background	Icônes et fond
+Icons{0}	Icônes{0}
+Import	Importer
+Import a MUIO case	Importer un cas MUIO
+Importance in the tree: {0}	Importance dans l'arbre : {0}
+In user constraints	Dans les contraintes utilisateur
+Inactive here (no capacity possible)	Inactif ici (aucune capacité possible)
+Index	Indice
+Index (first row = 100)	Indice (première ligne = 100)
+Index sets	Ensembles d'indices
+Industry	Industrie
+Infeasible	Infaisable
+Infeasible data - see Check	Données infaisables - voir Vérification
+Infeasible on purpose	Infaisable volontairement
+Infeasible: proved from the data	Infaisable : prouvé à partir des données
+Info	Infos
+Info ▾	Infos ▾
+Initial savings	Épargne initiale
+Input	Entrée
+Input (parameter)	Entrée (paramètre)
+Input against result, sample by sample	Entrée contre résultat, échantillon par échantillon
+Input needed per unit of new capacity.	Entrée requise par unité de nouvelle capacité.
+Input needed per unit of total capacity.	Entrée requise par unité de capacité totale.
+Input ratio by season	Ratio d'entrée par saison
+Input ratio by time slice	Ratio d'entrée par tranche horaire
+Input vs result	Entrée vs résultat
+Input:	Entrée :
+Inputs (ratio)	Entrées (ratio)
+Inputs of the run (its data)	Entrées de l'exécution (ses données)
+Inputs · {0}	Entrées · {0}
+Inside the plot	Dans le graphique
+Integer unit commitment without a unit size	Engagement d'unités entier sans taille d'unité
+Integer units	Unités entières
+Interest / return rate	Taux d'intérêt / de rendement
+Interlinkages	Liens

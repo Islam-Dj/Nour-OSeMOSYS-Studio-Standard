@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+desktop/.venv/
+desktop/stage/
+desktop/build/
+desktop/dist/
+desktop/installer/
+/cases/
+/runs/
+/mc/
+/models/
+/solvers/
+/studio_settings.json
+node_modules/

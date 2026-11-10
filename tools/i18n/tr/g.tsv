@@ -1,0 +1,293 @@
+Sun / solar heat	Sol / calor solar	الشمس / الحرارة الشمسية
+Sunburst (rows > columns)	Rayos de sol (filas > columnas)	مخطط شمسي (صفوف > أعمدة)
+Supply	Suministro	الإمداد
+Suspect values	Valores sospechosos	قيم مشكوك فيها
+System	Sistema	النظام
+System {0} created	Sistema {0} creado	أُنشئ النظام {0}
+System {0} deleted	Sistema {0} eliminado	حُذف النظام {0}
+System {0} is now {1}	El sistema {0} ahora es {1}	النظام {0} أصبح الآن {1}
+System {0} renamed	Sistema {0} renombrado	أُعيدت تسمية النظام {0}
+System {0}: colour	Sistema {0}: color	النظام {0}: اللون
+System {0}: {1} items	Sistema {0}: {1} elementos	النظام {0}: {1} عنصر
+Systems	Sistemas	الأنظمة
+Systems (inner edge)	Sistemas (borde interior)	الأنظمة (الحافة الداخلية)
+Systems · inner edge	Sistemas · borde interior	الأنظمة · الحافة الداخلية
+Systems…	Sistemas…	الأنظمة…
+System{0}	Sistema{0}	النظام{0}
+Table	Tabla	جدول
+Table copied: paste in Excel	Tabla copiada: péguela en Excel	نُسخ الجدول: الصقه في Excel
+Tag	Etiqueta	الوسم
+Target	Meta	الهدف
+Target (optional)	Meta (opcional)	الهدف (اختياري)
+Target of {0}	Meta de {0}	هدف {0}
+Target parameter	Parámetro objetivo	المعلمة المستهدفة
+Target {0}	Meta {0}	الهدف {0}
+Targets	Metas	الأهداف
+Targets combined	Metas combinadas	الأهداف المجمّعة
+Targets:	Metas:	الأهداف:
+Technologies	Tecnologías	التقنيات
+Technologies with their own discount rate	Tecnologías con tasa de descuento propia	تقنيات بمعدل خصم خاص
+Technology	Tecnología	التقنية
+Technology / storage	Tecnología / almacenamiento	التقنية / المخزن
+Technology discount rate (capital recovery).	Tasa de descuento de la tecnología (recuperación de capital).	معدل خصم التقنية (استرداد رأس المال).
+Technology that no finance source may pay for	Tecnología que ninguna fuente de financiación puede pagar	تقنية لا يمكن لأي مصدر تمويل دفعها
+Tenor (years)	Plazo (años)	الأجل (سنوات)
+Term	Término	الحدّ
+Terms	Términos	الحدود
+Text	Texto	النص
+Text font{0}	Fuente del texto{0}	خط النص{0}
+Text size	Tamaño del texto	حجم النص
+Text size (title, legend) %	Tamaño del texto (título, leyenda) %	حجم النص (العنوان، وسيلة الإيضاح) %
+That would leave nothing: use "Full system".	Eso no dejaría nada: use "Sistema completo".	لن يبقى شيء: استخدم "النظام الكامل".
+The MUIO case import: open its panel	La importación del caso MUIO: abra su panel	استيراد حالة MUIO: افتح لوحتها
+The MUIO import failed: see the jobs bar	La importación de MUIO falló: vea la barra de trabajos	فشل استيراد MUIO: انظر شريط المهام
+The Model	El modelo	النموذج
+The Studio server is not running	El servidor del Studio no está en marcha	خادم الاستوديو لا يعمل
+The base data (inputs only)	Los datos base (solo entradas)	البيانات الأساسية (المدخلات فقط)
+The browser library is not available here	La biblioteca del navegador no está disponible aquí	مكتبة المتصفح غير متاحة هنا
+The checkpoint could not be saved.	No se pudo guardar el punto de control.	تعذّر حفظ نقطة الحفظ.
+The chosen box	La caja elegida	الصندوق المختار
+The constraint is not used	La restricción no se usa	القيد غير مستخدم
+The constraint is off in the regions shown.	La restricción está desactivada en las regiones mostradas.	القيد معطّل في المناطق المعروضة.
+The eligible sources cannot cover a whole project	Las fuentes elegibles no pueden cubrir un proyecto entero	لا يمكن للمصادر المؤهلة تغطية مشروع كامل
+The factor values of the futures are missing.	Faltan los valores de los factores de los futuros.	قيم عوامل المستقبلات مفقودة.
+The folder and every case in it	La carpeta y todos sus casos	المجلد وكل الحالات فيه
+The list of units	La lista de unidades	قائمة الوحدات
+The metric whose target decides alone	La métrica cuya meta decide sola	المقياس الذي يقرر هدفه وحده
+The objective	El objetivo	دالة الهدف
+The objective (total cost)	El objetivo (costo total)	دالة الهدف (التكلفة الكلية)
+The other series{0}	Las otras series{0}	السلاسل الأخرى{0}
+The package could not be made:	No se pudo crear el paquete:	تعذّر إنشاء الحزمة:
+The result falls when the input rises.	El resultado baja cuando la entrada sube.	تنخفض النتيجة عندما يرتفع المُدخل.
+The result rises with the input.	El resultado sube con la entrada.	ترتفع النتيجة مع المُدخل.
+The result shown ({0})	El resultado mostrado ({0})	النتيجة المعروضة ({0})
+The same for all	Lo mismo para todos	نفسه للجميع
+The solver server does not answer.	El servidor del solucionador no responde.	خادم المحلّل لا يستجيب.
+The solver server is not running	El servidor del solucionador no está en marcha	خادم المحلّل لا يعمل
+The start value must be a number	El valor inicial debe ser un número	يجب أن تكون القيمة الأولية رقمًا
+The terms by year · {0}	Los términos por año · {0}	الحدود حسب السنة · {0}
+The usual systems added	Sistemas habituales añadidos	أُضيفت الأنظمة المعتادة
+The whole horizon at once	Todo el horizonte de una vez	كامل الأفق دفعة واحدة
+The {0} largest of {1}.	Los {0} mayores de {1}.	الأكبر {0} من {1}.
+Their values after a run are in Results.	Sus valores tras una ejecución están en Resultados.	قيمها بعد التشغيل في النتائج.
+Theme{0}	Tema{0}	السمة{0}
+They are kept and written.	Se conservan y se escriben.	يُحتفظ بها وتُكتب.
+This cannot be undone. Delete them?	Esto no se puede deshacer. ¿Eliminarlos?	لا يمكن التراجع عن هذا. حذفها؟
+This case now uses the model file {0}	Este caso usa ahora el archivo de modelo {0}	تستخدم هذه الحالة الآن ملف النموذج {0}
+This chart is back as drawn	Este gráfico ha vuelto a como estaba	عاد هذا الرسم كما رُسم
+This model, as it is now (no results)	Este modelo, tal como está (sin resultados)	هذا النموذج كما هو الآن (بلا نتائج)
+This result has no years.	Este resultado no tiene años.	هذه النتيجة بلا سنوات.
+This view	Esta vista	هذا العرض
+Threads	Hilos	الخيوط
+Threads per solve	Hilos por resolución	الخيوط لكل حل
+Threshold	Umbral	العتبة
+Tick all shown	Marcar todos los mostrados	تحديد كل المعروض
+Tick at least one region	Marque al menos una región	حدّد منطقة واحدة على الأقل
+Tick at least one run	Marque al menos una ejecución	حدّد تشغيلًا واحدًا على الأقل
+Tick at least one variable	Marque al menos una variable	حدّد متغيرًا واحدًا على الأقل
+Tick items to see them.	Marque elementos para verlos.	حدّد عناصر لرؤيتها.
+Tick labels	Etiquetas de marcas	تسميات العلامات
+Tick the cases to move first	Marque primero los casos a mover	حدّد الحالات المراد نقلها أولًا
+Tick the items that get their own settings	Marque los elementos con ajustes propios	حدّد العناصر التي لها إعدادات خاصة
+Tick the rows first	Marque primero las filas	حدّد الصفوف أولًا
+Tick {0}	Marcar {0}	تحديد {0}
+Ticked cases:	Casos marcados:	الحالات المحددة:
+Time	Tiempo	الزمن
+Time (s)	Tiempo (s)	الزمن (ث)
+Time and discounting	Tiempo y descuento	الزمن والخصم
+Time left	Tiempo restante	الوقت المتبقي
+Time limit (s)	Límite de tiempo (s)	حد الزمن (ث)
+Time limit per sample (s)	Límite de tiempo por muestra (s)	حد الزمن لكل عيّنة (ث)
+Time limit per solve (s)	Límite de tiempo por resolución (s)	حد الزمن لكل حل (ث)
+Time slice	Intervalo de tiempo	الشريحة الزمنية
+Time slice in more than one season	Intervalo de tiempo en más de una estación	شريحة زمنية في أكثر من موسم
+Time slice in no season	Intervalo de tiempo sin estación	شريحة زمنية دون موسم
+Time slices	Intervalos de tiempo	الشرائح الزمنية
+Title	Título	العنوان
+Title font{0}	Fuente del título{0}	خط العنوان{0}
+Title size	Tamaño del título	حجم العنوان
+To (used / made by a technology of)	Hacia (usado / hecho por una tecnología de)	إلى (مستخدم / مُنتَج بتقنية من)
+To columns	A columnas	إلى الأعمدة
+To panels	A paneles	إلى اللوحات
+To rows	A filas	إلى الصفوف
+To the year	Hasta el año	حتى السنة
+Tolerance	Tolerancia	التسامح
+Too wide: run more samples.	Demasiado amplio: ejecute más muestras.	واسع جدًا: شغّل مزيدًا من العيّنات.
+Top	Arriba	أعلى
+Topics in colour	Temas en color	مواضيع ملونة
+Total	Total	المجموع
+Total capacity	Capacidad total	القدرة الكلية
+Total system cost	Costo total del sistema	التكلفة الكلية للنظام
+Total time	Tiempo total	الزمن الكلي
+Trade and prices	Comercio y precios	التجارة والأسعار
+Trade and valuation	Comercio y valoración	التجارة والتقييم
+Trade link	Enlace comercial	رابط تجاري
+Trade route (from · to)	Ruta comercial (desde · hasta)	مسار تجاري (من · إلى)
+Trade route open in one direction only	Ruta comercial abierta en un solo sentido	مسار تجاري مفتوح في اتجاه واحد فقط
+Trade-offs	Compensaciones	المفاضلات
+Transmission / grid	Transmisión / red	النقل / الشبكة
+Transparent	Transparente	شفاف
+Transport	Transporte	النقل
+Treemap (rows > columns)	Mapa de árbol (filas > columnas)	خريطة شجرية (صفوف > أعمدة)
+Truncate above	Truncar por encima	اقتطاع من الأعلى
+Truncate below	Truncar por debajo	اقتطاع من الأسفل
+Try again	Intentar de nuevo	إعادة المحاولة
+Two metrics at once, every future, every strategy.	Dos métricas a la vez, cada futuro, cada estrategia.	مقياسان معًا، كل مستقبل، كل استراتيجية.
+Two metrics, every future (points)	Dos métricas, cada futuro (puntos)	مقياسان، كل مستقبل (نقاط)
+Two metrics: where the futures gather (contours)	Dos métricas: dónde se concentran los futuros (contornos)	مقياسان: حيث تتجمع المستقبلات (خطوط كنتورية)
+Two uncertainties	Dos incertidumbres	عاملا عدم يقين
+Type	Tipo	النوع
+Type of check	Tipo de comprobación	نوع الفحص
+Type of {0} in {1}	Tipo de {0} en {1}	نوع {0} في {1}
+Type{0}	Tipo{0}	النوع{0}
+Typing · double-click · F2	Escribir · doble clic · F2	الكتابة · نقر مزدوج · F2
+Uncertain from the year	Incierto desde el año	غير مؤكد من السنة
+Uncertain parameter	Parámetro incierto	معلمة غير مؤكدة
+Uncertain parameters	Parámetros inciertos	معلمات غير مؤكدة
+Uncertainty	Incertidumbre	عدم اليقين
+Under construction: results and options may change	En construcción: los resultados y opciones pueden cambiar	قيد الإنشاء: قد تتغير النتائج والخيارات
+Undo	Deshacer	تراجع
+Undo (Ctrl+Z)	Deshacer (Ctrl+Z)	تراجع (Ctrl+Z)
+Undo changes	Deshacer cambios	التراجع عن التغييرات
+Undo delete	Deshacer eliminación	التراجع عن الحذف
+Undone	Deshecho	تم التراجع
+Unit	Unidad	الوحدة
+Unit commitment	Compromiso de unidades	التزام الوحدات
+Unit commitment on	Compromiso de unidades activo	التزام الوحدات مفعّل
+Unit of activity{0}	Unidad de actividad{0}	وحدة النشاط{0}
+Unit of capacity{0}	Unidad de capacidad{0}	وحدة القدرة{0}
+Unit size (integer builds)	Tamaño de unidad (construcciones enteras)	حجم الوحدة (بناء بأعداد صحيحة)
+Unit {0} removed	Unidad {0} eliminada	أُزيلت الوحدة {0}
+Units	Unidades	الوحدات
+Units set for {0} item(s)	Unidades fijadas para {0} elemento(s)	حُدّدت الوحدات لـ {0} عنصر
+Unit{0}	Unidad{0}	الوحدة{0}
+Unknown type of finance source	Tipo de fuente de financiación desconocido	نوع مصدر تمويل غير معروف
+Unselect everything (Esc)	Deseleccionar todo (Esc)	إلغاء تحديد الكل (Esc)
+Untick all shown	Desmarcar todos los mostrados	إلغاء تحديد كل المعروض
+Upload	Subir	رفع
+Use for this case	Usar para este caso	استخدام لهذه الحالة
+Use it for the open case{0}	Usarlo para el caso abierto{0}	استخدمه للحالة المفتوحة{0}
+Use one of the two for a commodity.	Use uno de los dos para un producto.	استخدم أحد الاثنين لسلعة.
+Use the Set up metrics	Usar las métricas de Configurar	استخدام مقاييس الإعداد
+Use this folder	Usar esta carpeta	استخدام هذا المجلد
+Used by	Usado por	يُستخدم بواسطة
+Used by this case	Usado por este caso	مستخدم من هذه الحالة
+Used by · {0}	Usado por · {0}	يُستخدم بواسطة · {0}
+Used in (constraints)	Usado en (restricciones)	مستخدم في (القيود)
+User constraint forces everything in it to zero	La restricción del usuario fuerza a cero todo lo que contiene	قيد المستخدم يفرض الصفر على كل ما فيه
+User constraints	Restricciones del usuario	قيود المستخدم
+User-defined constraint {0} cannot be met	La restricción del usuario {0} no se puede cumplir	لا يمكن احترام قيد المستخدم {0}
+User-defined constraints	Restricciones definidas por el usuario	القيود المحددة من المستخدم
+Usually a missing cost.	Suele ser un costo que falta.	عادة تكلفة مفقودة.
+Value	Valor	القيمة
+Value in a chosen year	Valor en un año elegido	القيمة في سنة مختارة
+Value in the first year	Valor en el primer año	القيمة في السنة الأولى
+Value in the last year	Valor en el último año	القيمة في السنة الأخيرة
+Value is{0}	El valor es{0}	القيمة هي{0}
+Value not exceeded with probability…	Valor no superado con probabilidad…	قيمة لا تُتجاوز باحتمال…
+Value of the metric	Valor de la métrica	قيمة المقياس
+Values	Valores	القيم
+Values (≠ 1)	Valores (≠ 1)	القيم (≠ 1)
+Values in the data	Valores en los datos	القيم في البيانات
+Values that are not numbers in {0}	Valores que no son números en {0}	قيم ليست أرقامًا في {0}
+Value{0}	Valor{0}	القيمة{0}
+Variable	Variable	المتغير
+Variable cost	Costo variable	التكلفة المتغيرة
+Variable cost {0}	Costo variable {0}	التكلفة المتغيرة {0}
+Variable cost: VariableCost x activity.	Costo variable: VariableCost x actividad.	التكلفة المتغيرة: VariableCost × النشاط.
+Variables	Variables	المتغيرات
+Variables of the model	Variables del modelo	متغيرات النموذج
+Variable{0}	Variable{0}	المتغير{0}
+Version	Versión	الإصدار
+Version / scenario	Versión / escenario	الإصدار / السيناريو
+Version / scenario (optional)	Versión / escenario (opcional)	الإصدار / السيناريو (اختياري)
+Vertical axis	Eje vertical	المحور العمودي
+View	Vista	العرض
+View "{0}" saved with the case ({1} technologies).	Vista "{0}" guardada con el caso ({1} tecnologías).	حُفظ العرض "{0}" مع الحالة ({1} تقنية).
+Views ({0})…	Vistas ({0})…	العروض ({0})…
+Vintage	Cohorte	الفوج
+Vintages from ResidualCapacity	Cohortes desde ResidualCapacity	الأفواج من ResidualCapacity
+Vintaging	Cohortes	تتبع الأفواج
+Violin (spread over rows)	Violín (dispersión por filas)	كمان (التشتت عبر الصفوف)
+Volume	Volumen	الحجم
+Vulnerabilities	Vulnerabilidades	مواطن الضعف
+Warning	Advertencia	تحذير
+Warnings	Advertencias	التحذيرات
+Waste	Residuos	النفايات
+Water	Agua	الماء
+Water and land	Agua y tierra	الماء والأرض
+Water cascade	Cascada del agua	تتابع المياه
+Water cascade: more than one remainder output	Cascada del agua: más de una salida residual	تتابع المياه: أكثر من مُخرج متبقٍ
+Water cascade: outputs above the precipitation	Cascada del agua: salidas por encima de la precipitación	تتابع المياه: مخرجات تفوق الهطول
+Water cascade: share outside 0-1	Cascada del agua: proporción fuera de 0-1	تتابع المياه: حصة خارج 0-1
+Water cascade: unknown rule	Cascada del agua: regla desconocida	تتابع المياه: قاعدة غير معروفة
+Water driver (cascade)	Impulsor del agua (cascada)	محرّك المياه (التتابع)
+Water input (1 ETm, 2 ETa)	Entrada de agua (1 ETm, 2 ETa)	مُدخل الماء (1 ETm، 2 ETa)
+Waterfall (columns)	Cascada (columnas)	شلالي (أعمدة)
+Weight and emissions	Peso y emisiones	الوزن والانبعاثات
+What MUIO can hold	Lo que MUIO puede contener	ما يمكن أن يحتويه MUIO
+What carries from one window to the next	Lo que pasa de una ventana a la siguiente	ما ينتقل من نافذة إلى التالية
+What emits {0}	Qué emite {0}	ما الذي يبعث {0}
+What is checked	Qué se comprueba	ما الذي يُفحص
+What is it?	¿Qué es?	ما هذا؟
+What is this? (click)	¿Qué es esto? (clic)	ما هذا؟ (انقر)
+What is {0}?	¿Qué es {0}?	ما هو {0}؟
+What the merge does	Qué hace la fusión	ما الذي يفعله الدمج
+What the planner sees at each step	Lo que ve el planificador en cada paso	ما يراه المخطِّط في كل خطوة
+What this model is, its source, its scenario	Qué es este modelo, su fuente, su escenario	ما هذا النموذج، مصدره، سيناريوه
+What this strategy does	Qué hace esta estrategia	ما تفعله هذه الاستراتيجية
+What to check	Qué comprobar	ما الذي يجب فحصه
+What to export	Qué exportar	ما الذي يُصدَّر
+What was read	Qué se leyó	ما الذي قُرئ
+What you can decide	Lo que usted puede decidir	ما يمكنك تقريره
+What you cannot control	Lo que usted no puede controlar	ما لا يمكنك التحكم فيه
+Where	Dónde	أين
+Which uncertainty drives {0}: rank correlation	Qué incertidumbre impulsa {0}: correlación de rango	أي عامل عدم يقين يحرّك {0}: ارتباط الرتب
+Which values	Qué valores	أي القيم
+White	Blanco	أبيض
+Wide: years as columns	Ancho: años como columnas	عريض: السنوات كأعمدة
+Width (px)	Ancho (px)	العرض (بكسل)
+Width (px, 0 = full)	Ancho (px, 0 = completo)	العرض (بكسل، 0 = كامل)
+Width (years)	Ancho (años)	العرض (سنوات)
+Wind	Viento	الرياح
+Window	Ventana	النافذة
+Window starts in	La ventana empieza en	تبدأ النافذة في
+Window {0}	Ventana {0}	النافذة {0}
+Windows	Ventanas	النوافذ
+Windows of the rolling horizon	Ventanas del horizonte rodante	نوافذ الأفق المتدحرج
+Winter, Spring, Summer, Autumn	Invierno, Primavera, Verano, Otoño	الشتاء، الربيع، الصيف، الخريف
+With Plotly: the first panel only.	Con Plotly: solo el primer panel.	مع Plotly: اللوحة الأولى فقط.
+With data	Con datos	مع البيانات
+Worst	Peor	الأسوأ
+Worst regret	Peor arrepentimiento	أسوأ ندم
+Worst regret (all metrics, scaled)	Peor arrepentimiento (todas las métricas, escaladas)	أسوأ ندم (كل المقاييس، مُقيّسة)
+Written	Escrito	مكتوب
+X axis{0}	Eje X{0}	المحور X{0}
+X-axis title	Título del eje X	عنوان المحور X
+Y axis (left){0}	Eje Y (izquierdo){0}	المحور Y (أيسر){0}
+Y axis (right, optional){0}	Eje Y (derecho, opcional){0}	المحور Y (أيمن، اختياري){0}
+Y max	Y máx.	Y الأقصى
+Y min	Y mín.	Y الأدنى
+Y-axis title	Título del eje Y	عنوان المحور Y
+Year	Año	السنة
+Year of the equation	Año de la ecuación	سنة المعادلة
+Year of the flows shown	Año de los flujos mostrados	سنة التدفقات المعروضة
+Year of the input	Año de la entrada	سنة المُدخل
+Year shown	Año mostrado	السنة المعروضة
+Year-to-year correlation	Correlación interanual	الارتباط من سنة لأخرى
+Year-to-year correlation of the rate	Correlación interanual de la tasa	الارتباط من سنة لأخرى للمعدل
+YearSplit adds up to 1	YearSplit suma 1	مجموع YearSplit يساوي 1
+YearSplit does not sum to 1	YearSplit no suma 1	مجموع YearSplit لا يساوي 1
+Years	Años	السنوات
+Years (advanced: several ranges, e.g. 2030-2050, 2060)	Años (avanzado: varios rangos, p. ej. 2030-2050, 2060)	السنوات (متقدم: عدة مدى، مثل 2030-2050، 2060)
+Years committed per step	Años comprometidos por paso	السنوات الملتزم بها في كل خطوة
+Years from	Años desde	السنوات من
+Years on (Studio)	Años activos (Studio)	سنوات التشغيل (الاستوديو)
+Years seen	Años vistos	السنوات المرئية
+Years this technology is on {0}	Años en que esta tecnología está activa {0}	سنوات تشغيل هذه التقنية {0}
+Year{0}	Año{0}	السنة{0}
+Yield response (1 season, 2 stages)	Respuesta del rendimiento (1 temporada, 2 etapas)	استجابة المردود (1 موسم، 2 مراحل)
+Yield response without Ky	Respuesta del rendimiento sin Ky	استجابة المردود دون Ky
+You can change any of them afterwards.	Puede cambiar cualquiera de ellos después.	يمكنك تغيير أي منها لاحقًا.
+Your models	Sus modelos	نماذجك
+Zoom	Zoom	تكبير

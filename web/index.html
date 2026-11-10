@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nour OSeMOSYS Studio</title>
+<meta name="description" content="Reference energy system, model builder, solvers, results, scenarios and Monte Carlo for OSeMOSYS / CLEWs models">
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/tokens.css">
+<link rel="stylesheet" href="css/studio.css">
+<link rel="stylesheet" href="css/editorial.css">
+<link rel="stylesheet" href="css/layout.css">
+<link rel="stylesheet" href="css/theme.css">
+</head>
+<body>
+<header class="bar">
+  <div class="brand"><span class="logo" role="img" aria-label="Nour OSeMOSYS Studio" title="Nour OSeMOSYS Studio"></span></div>
+  <button type="button" class="casebtn" id="caseb" title="The open case; click to see all cases"><span id="src">loading…</span></button><span id="savest" class="savest" title="Save state of the open case: each change adds one to the edit count"></span>
+  <div class="seg" id="regions" role="group" aria-label="Region"></div>
+  <div class="find"><input type="search" id="q" placeholder="Find a technology" aria-label="Find a technology" list="techlist"><datalist id="techlist"></datalist></div>
+  <div class="spacer"></div>
+  <button type="button" class="linkchip" id="linkchip" hidden></button>
+  <div class="lngsel" id="lngsel"></div>
+  <div class="thcol" id="thcol"></div>
+  <button class="btn pri" id="neww" type="button" title="Open a workflow in a new window (for a second screen)">New window</button>
+  <div class="menuw"><button class="btn" id="menub" type="button" aria-haspopup="true" aria-expanded="false" aria-label="More" title="Open a data file, descriptions, view options, theme">More ▾</button>
+    <div class="menu" id="menu" hidden>
+      <label class="mi" for="file" title="Open any OSeMOSYS / MUIO data file (MathProg format), or drop it on the page">Open data file…</label>
+      <input type="file" id="file" hidden>
+      <label class="mi" for="mzip" title="A MUIO case backup (zip of WebAPP/DataStorage/<case>): its data, scenarios, units, descriptions and runs with their results">Import a MUIO case (zip)…</label>
+      <input type="file" id="mzip" accept=".zip" hidden>
+      <label class="mi" for="bzip" title="A backup made with Cases > Back up (zip): the case comes back as a new case, with its runs, Monte Carlo, robust-decision and rolling-horizon runs">Restore a Studio backup (zip)…</label>
+      <input type="file" id="bzip" accept=".zip" hidden>
+      <label class="mi" for="dfile" title="Optional: CSV with code,description (technologies and commodities)">Load descriptions (CSV)…</label>
+      <input type="file" id="dfile" accept=".csv,.txt" hidden>
+      <button class="mi" id="descx" type="button" title="One Excel workbook describing the model: technologies (inputs, outputs, units, systems), commodities, storages, emissions, user constraints, parameters, sets, time slices">Export the model description (Excel)…</button>
+      <div class="msep"></div>
+      <label class="mi"><input type="checkbox" id="showoff"> Show inactive technologies</label>
+      <label class="mi"><input type="checkbox" id="showbs"> Show backstops</label>
+      <label class="mi"><input type="checkbox" id="showbr"> Show the model browser</label>
+      <div class="msep"></div>
+      <button class="mi" id="theme" type="button" title="Switch light / dark">Light / dark theme</button>
+    </div>
+  </div>
+</header>
+<div id="shell">
+  <nav id="viewseg" class="rail" aria-label="Workflow">
+    <div class="rg"><div class="rt">Model</div>
+      <div class="ri"><button type="button" data-v="res-off" aria-pressed="true">Diagram and data</button><button type="button" class="nw" data-win="dia" aria-label="Open Diagram and data in a new window" title="Open in a new window"><svg class="ic" viewBox="0 0 13 13" aria-hidden="true"><path d="M7.5 2h3.5v3.5M11 2L6 7M9.5 8v2.5a.5.5 0 01-.5.5H2.5a.5.5 0 01-.5-.5V4a.5.5 0 01.5-.5H5"/></svg></button></div>
+      <div class="ri"><button type="button" data-v="ovw" aria-pressed="false" title="Every emission, constraint (UDC), storage and vintaged technology with its whole configuration, one page each">Model setup</button></div>
+      <div class="ri"><button type="button" id="modb" title="The model files you work with, with their descriptions; choose the one this case uses">Model files</button></div><div class="ri"><button type="button" id="bld" aria-pressed="false" title="Build or edit the model, then save data.txt">Build and edit</button></div>
+      <div class="ri"><button type="button" id="unitb" title="Units of the technologies, commodities, emissions and storage, the currency, and your own units">Units</button></div>
+      <div class="ri"><button type="button" id="scnb" title="Scenarios as in MUIO: the base and the values each scenario changes">Scenarios</button><span id="scnchip" hidden></span></div>
+      <div class="ri"><button type="button" id="chk" title="Check the data for infeasibilities before solving">Check</button></div>
+      <div class="ri"><button type="button" data-soon="Calculations (residual capacity from vintages, then more)" title="Planned: residual capacity from the years and sizes of the plants, then other calculators">Calculations<em>planned</em></button></div>
+    </div>
+    <div class="rg"><div class="rt">Run</div>
+      <div class="ri"><button type="button" id="runb" title="Solve with HiGHS, CBC, GLPK or Gurobi on this computer">Solve</button></div>
+      <div class="ri"><button type="button" data-v="mon" aria-pressed="false">Jobs and monitor</button><button type="button" class="nw" data-win="mon" aria-label="Open Jobs and monitor in a new window" title="Open in a new window"><svg class="ic" viewBox="0 0 13 13" aria-hidden="true"><path d="M7.5 2h3.5v3.5M11 2L6 7M9.5 8v2.5a.5.5 0 01-.5.5H2.5a.5.5 0 01-.5-.5V4a.5.5 0 01.5-.5H5"/></svg></button></div>
+    </div>
+    <div class="rg"><div class="rt">Analyse</div>
+      <div class="ri"><button type="button" data-v="res" aria-pressed="false">Results</button><button type="button" class="nw" data-win="res" aria-label="Open Results in a new window" title="Open in a new window"><svg class="ic" viewBox="0 0 13 13" aria-hidden="true"><path d="M7.5 2h3.5v3.5M11 2L6 7M9.5 8v2.5a.5.5 0 01-.5.5H2.5a.5.5 0 01-.5-.5V4a.5.5 0 01.5-.5H5"/></svg></button></div>
+      <div class="ri"><button type="button" id="askb" title="Ask a question about the results in your own words (no AI: the Studio reads it with the names of your model, on this computer)">Ask the results</button></div>
+    </div>
+    <div class="rg"><div class="rt">Uncertainty</div>
+      <div class="ri"><button type="button" data-v="mc" aria-pressed="false">Monte Carlo</button><button type="button" class="nw" data-win="mc" aria-label="Open Monte Carlo in a new window" title="Open in a new window"><svg class="ic" viewBox="0 0 13 13" aria-hidden="true"><path d="M7.5 2h3.5v3.5M11 2L6 7M9.5 8v2.5a.5.5 0 01-.5.5H2.5a.5.5 0 01-.5-.5V4a.5.5 0 01.5-.5H5"/></svg></button></div>
+      <div class="ri"><button type="button" data-v="rdm" aria-pressed="false" title="Strategies x futures: regret, targets, scenario discovery (Beta: under construction)">Robust decisions<em class="beta">Beta</em></button></div>
+      <div class="ri"><button type="button" data-v="rh" aria-pressed="false" title="Myopic planning: windows of years, decisions kept step by step, compared with perfect foresight (Beta: under construction)">Rolling horizon<em class="beta">Beta</em></button></div>
+    </div>
+    <div class="rg"><div class="rt">Share</div>
+      <div class="ri"><button type="button" id="muiob" title="Create a MUIO case from this model and/or a run (MUIO installed on this computer)">Export to MUIO</button></div>
+      <div class="ri"><button type="button" id="libb" title="Your cases: one folder per model">Cases</button></div>
+      <div class="ri"><button type="button" id="cpb" title="Save a checkpoint: a copy of the model as it is now, kept unchanged; you go on working, and can go back to it from Cases">Checkpoint</button></div>
+    </div>
+  </nav>
+  <section id="mbrowser" aria-label="Model browser"></section>
+<main>
+  <div id="stage">
+    <svg id="svg" aria-label="Reference energy system"></svg>
+    <div class="status" id="status"></div>
+    <div class="buildbar" id="buildbar" hidden><b>Build</b><button class="btn" id="b-new" type="button">New model</button><button class="btn" id="b-set" type="button">Settings</button><button class="btn" id="b-all" type="button">All parameters</button><button class="btn" id="b-sys" type="button" title="Energy, water, land use, climate…: create them first, then each item belongs to one">Systems</button><button class="btn" id="b-tech" type="button">+ Technology</button><button class="btn" id="b-comm" type="button">+ Commodity</button><button class="btn" id="b-sto" type="button">+ Storage</button><button class="btn" id="b-emi" type="button">+ Emission</button><button class="btn" id="b-udc" type="button">+ Constraint (UDC)</button><span id="b-extra"></span><button class="btn" id="b-mod" type="button">Model file</button><button class="btn pri" id="b-save" type="button">Save data.txt</button><span class="hint">click a box to edit it</span><button class="btn bexit" id="b-exit" type="button" title="Leave the build mode (the model stays as it is)">✕ Exit build</button></div>
+    <div class="zoom"><button class="btn" id="zin" aria-label="Zoom in">+</button><button class="btn" id="zout" aria-label="Zoom out">−</button><button class="btn" id="zfit" aria-label="Fit">Fit</button></div>
+    <div class="dtools"><select id="zicons" aria-label="Icons" title="Icons in the diagram"><option value="auto|line">Icons</option><option value="auto|badge">Icons: badges</option><option value="chosen|line">Icons: chosen only</option><option value="off|line">No icons</option></select>
+      <button class="btn" id="zexp" title="Export the diagram: title, author, legend, size, font, resolution, PNG / SVG / PDF">Export image…</button></div>
+    <div class="legend" id="legend"></div>
+  </div>
+  <section id="setup" hidden></section>
+  <section id="results" hidden></section>
+  <section id="mcview" hidden></section>
+  <section id="rdmview" hidden></section>
+  <section id="rhview" hidden></section>
+  <section id="monitor" hidden></section>
+  <aside id="drawer" hidden></aside>
+</main>
+</div>
+<footer id="jobs" aria-label="Jobs"></footer>
+<!-- the Studio, one file per part, loaded in this order (they share one scope, like a single script) -->
+<script src="js/core.js"></script>
+<script src="js/dialog.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/i18n_fr.js"></script>
+<script src="js/i18n_es.js"></script>
+<script src="js/i18n_ar.js"></script>
+<script>I18N.menu(); I18N.start();</script>
+<script src="js/keepplace.js"></script>
+<script src="js/theme.js"></script>
+<script src="js/descriptions.js"></script>
+<script src="js/topics.js"></script>
+<script src="js/util.js"></script>
+<script src="js/msel.js"></script>
+<script src="js/systems.js"></script>
+<script src="js/setup.js"></script>
+<script src="js/gmpl.js"></script>
+<script src="js/model.js"></script>
+<script src="js/diagram.js"></script>
+<script src="js/diagview.js"></script>
+<script src="js/panels.js"></script>
+<script src="js/checks.js"></script>
+<script src="js/schema.js"></script>
+<script src="js/vintage.js"></script>
+<script src="js/units.js"></script>
+<script src="js/onoff.js"></script>
+<script src="js/editing.js"></script>
+<script src="js/grids.js"></script>
+<script src="js/entities.js"></script>
+<script src="js/library.js"></script>
+<script src="js/run.js"></script>
+<script src="js/muio.js"></script>
+<script src="js/icons.js"></script>
+<script src="js/diagram_export.js"></script>
+<script src="js/scenarios.js"></script>
+<script src="js/xlsx.js"></script>
+<script src="js/describe.js"></script>
+<script src="js/batch.js"></script>
+<script src="js/chartstyle.js"></script>
+<script src="js/resultdesc.js"></script>
+<script src="js/results.js"></script>
+<script src="js/montecarlo.js"></script>
+<script src="js/rdm.js"></script>
+<script src="js/rdm_more.js"></script>
+<script src="js/ask.js"></script>
+<script src="js/models.js"></script>
+<script src="js/browser.js"></script>
+<script src="js/monitor.js"></script>
+<script src="js/windows.js"></script>
+<script src="js/info.js"></script>
+<script src="js/merge.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

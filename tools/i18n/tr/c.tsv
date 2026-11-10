@@ -1,0 +1,243 @@
+Custom (px)	Personalizado (px)	مخصّص (بكسل)
+Daily time bracket	Franja horaria diaria	فترة زمنية يومية
+Dark presentation	Presentación oscura	عرض داكن
+Data	Datos	البيانات
+Data and solver	Datos y solucionador	البيانات والمحلّل
+Day part	Parte del día	جزء من اليوم
+Day parts (daily time brackets, e.g. Day, Night)	Partes del día (franjas diarias, p. ej. Día, Noche)	أجزاء اليوم (فترات يومية، مثل نهار، ليل)
+Day type	Tipo de día	نوع اليوم
+Day types (e.g. Weekday, Weekend)	Tipos de día (p. ej. Laborable, Fin de semana)	أنواع الأيام (مثل يوم عمل، عطلة)
+Days of each season	Días de cada estación	أيام كل موسم
+Decimals	Decimales	المنازل العشرية
+Decision tree	Árbol de decisión	شجرة القرار
+Decisions: rolling plan vs perfect foresight	Decisiones: plan rodante vs previsión perfecta	القرارات: الخطة المتدحرجة مقابل الاستشراف التام
+Default	Por defecto	افتراضي
+Default colours	Colores por defecto	الألوان الافتراضية
+Default of the source model file	Valor por defecto del archivo de modelo de origen	القيمة الافتراضية لملف النموذج المصدر
+Default unit set	Unidad por defecto fijada	حُدّدت الوحدة الافتراضية
+Defaults: discount rate 0.05, depreciation by sinking fund.	Por defecto: tasa de descuento 0,05, amortización por fondo de amortización.	الافتراضي: معدل الخصم 0.05، الإهلاك بصندوق الاستهلاك.
+Delete a view…	Eliminar una vista…	حذف عرض…
+Delete checkpoint {0} of {1}?	¿Eliminar el punto de control {0} de {1}?	حذف نقطة الحفظ {0} من {1}؟
+Delete it and all its data	Eliminarlo con todos sus datos	احذفه مع كل بياناته
+Delete the folder	Eliminar la carpeta	حذف المجلد
+Delete the scenario {0}?	¿Eliminar el escenario {0}?	حذف السيناريو {0}؟
+Delete this Monte Carlo run and its samples?	¿Eliminar esta ejecución Monte Carlo y sus muestras?	حذف تشغيل مونت كارلو هذا وعيّناته؟
+Delete this run and all its solved futures?	¿Eliminar esta ejecución y todos sus futuros resueltos?	حذف هذا التشغيل وكل مستقبلاته المحلولة؟
+Delete this run and its results?	¿Eliminar esta ejecución y sus resultados?	حذف هذا التشغيل ونتائجه؟
+Delete which view?	¿Qué vista eliminar?	أي عرض تريد حذفه؟
+Delete with its cases…	Eliminar con sus casos…	حذف مع حالاته…
+Delete {0} and all its data?	¿Eliminar {0} y todos sus datos?	حذف {0} وكل بياناته؟
+Delete {0} row{1}	Eliminar {0} fila{1}	حذف {0} صف{1}
+Delete {0} {1}	Eliminar {0} {1}	حذف {0} {1}
+Delete {0}…	Eliminar {0}…	حذف {0}…
+Delete…	Eliminar…	حذف…
+Demand	Demanda	الطلب
+Demand above what the supply chain can deliver	Demanda superior a lo que puede entregar la cadena de suministro	طلب يفوق ما تستطيع سلسلة الإمداد توفيره
+Demand and balances	Demanda y balances	الطلب والموازين
+Demand and trade	Demanda y comercio	الطلب والتجارة
+Demand by time slice (annual)	Demanda por intervalo (anual)	الطلب حسب الشريحة الزمنية (سنوي)
+Demand in a time slice of zero length	Demanda en un intervalo de duración cero	طلب في شريحة زمنية طولها صفر
+Demand profile	Perfil de demanda	ملف الطلب
+Demand profile does not sum to 1	El perfil de demanda no suma 1	ملف الطلب لا يساوي مجموعه 1
+Demand type	Tipo de demanda	نوع الطلب
+Demand with no producer	Demanda sin productor	طلب دون منتِج
+Demand {0}	Demanda {0}	الطلب {0}
+Depreciation (1 sinking fund, 2 straight line)	Amortización (1 fondo de amortización, 2 lineal)	الإهلاك (1 صندوق استهلاك، 2 خطّي)
+DepreciationMethod must be 1 or 2	DepreciationMethod debe ser 1 o 2	يجب أن يكون DepreciationMethod مساويًا 1 أو 2
+Derived	Derivado	مشتق
+Derived (as MUIO)	Derivado (como MUIO)	مشتق (مثل MUIO)
+Derived (computed as MUIO does)	Derivado (calculado como lo hace MUIO)	مشتق (محسوب كما يفعل MUIO)
+Derived from the run	Derivado de la ejecución	مشتق من التشغيل
+Desalination	Desalinización	تحلية المياه
+Describe the model file	Describir el archivo de modelo	وصف ملف النموذج
+Description	Descripción	الوصف
+Description (optional):	Descripción (opcional):	الوصف (اختياري):
+Details	Detalles	التفاصيل
+Diagram	Diagrama	المخطط
+Diagram and data	Diagrama y datos	المخطط والبيانات
+Difference	Diferencia	الفرق
+Difference from a base member	Diferencia respecto a un miembro base	الفرق عن عنصر أساسي
+Discharged by	Descargado por	يُفرّغ بواسطة
+Discharging link from a storage, by mode.	Enlace de descarga desde un almacenamiento, por modo.	رابط التفريغ من مخزن، حسب النمط.
+Discount rate	Tasa de descuento	معدل الخصم
+Discount rate (%)	Tasa de descuento (%)	معدل الخصم (%)
+Discount rate outside (-1, 1]	Tasa de descuento fuera de (-1, 1]	معدل الخصم خارج (-1، 1]
+Discounted cost of a storage in the year.	Costo descontado de un almacenamiento en el año.	التكلفة المخصومة لمخزن في السنة.
+Discounted cost of the region over the horizon.	Costo descontado de la región en el horizonte.	التكلفة المخصومة للمنطقة على الأفق.
+Discounted, whole horizon	Descontado, todo el horizonte	مخصوم، كامل الأفق
+Discounting by region	Descuento por región	الخصم حسب المنطقة
+Dismiss	Descartar	تجاهل
+Distribution	Distribución	التوزيع
+Distribution of the growth rate (% per year)	Distribución de la tasa de crecimiento (% anual)	توزيع معدل النمو (% سنويًا)
+Distribution of {0}{1}	Distribución de {0}{1}	توزيع {0}{1}
+Distribution, risk and sensitivity of{0}	Distribución, riesgo y sensibilidad de{0}	التوزيع والمخاطر والحساسية لـ{0}
+Divide by	Dividir entre	القسمة على
+Divide values by	Dividir los valores entre	قسمة القيم على
+Divided by	Dividido entre	مقسوم على
+Done	Hecho	تمّ
+Done selecting	Selección terminada	انتهى الاختيار
+Donut	Anillo	حلقي
+Double-click	Doble clic	نقر مزدوج
+Download	Descargar	تنزيل
+Download CSV (all metrics)	Descargar CSV (todas las métricas)	تنزيل CSV (كل المقاييس)
+Download as SVG (vector)	Descargar como SVG (vectorial)	تنزيل بصيغة SVG (متجهي)
+Download the reference	Descargar la referencia	تنزيل المرجع
+Download{0}	Descargar{0}	تنزيل{0}
+Drag to change the width	Arrastre para cambiar el ancho	اسحب لتغيير العرض
+Drag to change the width (double-click: default)	Arrastre para cambiar el ancho (doble clic: por defecto)	اسحب لتغيير العرض (نقر مزدوج: افتراضي)
+Draw over the years · {0}	Sorteo a lo largo de los años · {0}	السحب عبر السنوات · {0}
+Drawing 400 samples…	Sorteando 400 muestras…	جارٍ سحب 400 عيّنة…
+Drawing…	Dibujando…	جارٍ الرسم…
+Draws{0}	Sorteos{0}	السحبات{0}
+Driver	Impulsor	المحرّك
+Driver depth by season	Profundidad del impulsor por estación	عمق المحرّك حسب الموسم
+Driver · matched on	Impulsor · emparejado en	المحرّك · مطابق على
+Drop fields here	Suelte campos aquí	أفلت الحقول هنا
+Dual inf.	Inf. dual	عدم جدوى ثنائي
+Dual objective	Objetivo dual	الهدف الثنائي
+Duplicate	Duplicar	تكرار
+Duplicate the folder	Duplicar la carpeta	تكرار المجلد
+ET0 of the land (zone)	ET0 del suelo (zona)	ET0 للأرض (المنطقة)
+Each chart its own	Cada gráfico el suyo	لكل رسم خاصته
+Each item over the years	Cada elemento a lo largo de los años	كل عنصر عبر السنوات
+Each strategy needs its own code	Cada estrategia necesita su propio código	كل استراتيجية تحتاج رمزها الخاص
+Each target: % of futures (grouped bars)	Cada meta: % de futuros (barras agrupadas)	كل هدف: % من المستقبلات (أعمدة مجمّعة)
+Economy	Economía	الاقتصاد
+Edit	Editar	تحرير
+Edit it in the diagram	Editarlo en el diagrama	حرّره في المخطط
+Edit settings	Editar ajustes	تحرير الإعدادات
+Edit the base	Editar la base	تحرير الأساس
+Edit the uncertainties	Editar las incertidumbres	تحرير عوامل عدم اليقين
+Edit the unit	Editar la unidad	تحرير الوحدة
+Edit this scenario	Editar este escenario	تحرير هذا السيناريو
+Edit values	Editar valores	تحرير القيم
+Editing	Editando	تحرير
+Editing scenario	Editando escenario	تحرير السيناريو
+Editing the base case	Editando el caso base	تحرير الحالة الأساسية
+Editorial (Studio)	Editorial (Studio)	تحريري (الاستوديو)
+Efficiency factors of the cohorts have no effect	Los factores de eficiencia de las cohortes no tienen efecto	عوامل كفاءة الأفواج بلا تأثير
+Electricity	Electricidad	الكهرباء
+Eligible storage (0 = not)	Almacenamiento elegible (0 = no)	تخزين مؤهل (0 = لا)
+Eligible technologies (0 = not)	Tecnologías elegibles (0 = no)	تقنيات مؤهلة (0 = لا)
+Emission	Emisión	الانبعاث
+Emission decoupled from activity	Emisión desacoplada de la actividad	انبعاث منفصل عن النشاط
+Emission from a change of activity	Emisión por un cambio de actividad	انبعاث من تغيّر النشاط
+Emission limit on {0} cannot be met	El límite de emisión sobre {0} no se puede cumplir	لا يمكن احترام حد الانبعاث على {0}
+Emissions	Emisiones	الانبعاثات
+Emissions (comma separated, may be empty)	Emisiones (separadas por comas, puede estar vacío)	الانبعاثات (مفصولة بفواصل، يمكن تركها فارغة)
+Emissions (ratio)	Emisiones (relación)	الانبعاثات (نسبة)
+Emissions (total)	Emisiones (total)	الانبعاثات (المجموع)
+Emissions / CO2	Emisiones / CO2	الانبعاثات / CO2
+Emissions of a technology over the year.	Emisiones de una tecnología en el año.	انبعاثات تقنية خلال السنة.
+Emissions of {0}:	Emisiones de {0}:	انبعاثات {0}:
+Emitted by (ratio)	Emitido por (relación)	منبعث من (نسبة)
+Empty usable band of the storage	Banda útil vacía del almacenamiento	نطاق قابل للاستخدام فارغ في المخزن
+End use	Uso final	الاستخدام النهائي
+End value	Valor final	القيمة النهائية
+Energy	Energía	الطاقة
+Energy flows (Sankey from production and use)	Flujos de energía (Sankey de producción y uso)	تدفقات الطاقة (سانكي من الإنتاج والاستخدام)
+Energy put into a storage over the year.	Energía puesta en un almacenamiento durante el año.	الطاقة المُدخلة إلى مخزن خلال السنة.
+Enhance a strategy	Mejorar una estrategia	تحسين استراتيجية
+Enhanced strategies of this run	Estrategias mejoradas de esta ejecución	الاستراتيجيات المحسّنة لهذا التشغيل
+Enhancement	Mejora	التحسين
+Enough samples for the mean.	Suficientes muestras para la media.	عيّنات كافية للمتوسط.
+Environment	Medio ambiente	البيئة
+Equation	Ecuación	المعادلة
+Error	Error	خطأ
+Every case is in a folder.	Cada caso está en una carpeta.	كل حالة في مجلد.
+Every future, bad ones marked	Cada futuro, los malos marcados	كل مستقبل، مع تمييز السيئة
+Every item has a system.	Cada elemento tiene un sistema.	لكل عنصر نظام.
+Every metric: each future (one panel per metric)	Cada métrica: cada futuro (un panel por métrica)	كل مقياس: كل مستقبل (لوحة لكل مقياس)
+Every pair of metrics (matrix)	Cada par de métricas (matriz)	كل زوج من المقاييس (مصفوفة)
+Everything	Todo	كل شيء
+Everything deleted is back.	Todo lo eliminado ha vuelto.	عاد كل ما حُذف.
+Everything, nothing to solve again	Todo, nada que resolver de nuevo	كل شيء، لا شيء لإعادة حله
+Example models	Modelos de ejemplo	نماذج أمثلة
+Excel	Excel	Excel
+Excel (this view)	Excel (esta vista)	Excel (هذا العرض)
+Existing capacity (no capital cost).	Capacidad existente (sin costo de capital).	القدرة القائمة (دون تكلفة رأسمالية).
+Existing capacity above the maximum capacity	Capacidad existente por encima de la capacidad máxima	القدرة القائمة تفوق القدرة القصوى
+Existing {0}	Existente {0}	القائم {0}
+Exogenous emission per year	Emisión exógena por año	انبعاث خارجي في السنة
+Exogenous emission, whole horizon	Emisión exógena, todo el horizonte	انبعاث خارجي، كامل الأفق
+Expand all	Expandir todo	توسيع الكل
+Export	Exportar	تصدير
+Export CSV	Exportar CSV	تصدير CSV
+Export all (CSV)	Exportar todo (CSV)	تصدير الكل (CSV)
+Export everything	Exportar todo	تصدير كل شيء
+Export everything (zip)…	Exportar todo (zip)…	تصدير كل شيء (zip)…
+Export failed:	La exportación falló:	فشل التصدير:
+Export supply chain	Cadena de suministro de exportación	سلسلة إمداد التصدير
+Export the diagram	Exportar el diagrama	تصدير المخطط
+Export to MUIO	Exportar a MUIO	التصدير إلى MUIO
+Export unit cost	Costo unitario de exportación	تكلفة التصدير للوحدة
+Exported	Exportado	صُدّر
+Exporting with MUIO's code…	Exportando con el código de MUIO…	جارٍ التصدير بشيفرة MUIO…
+Expression	Expresión	تعبير
+Expression…	Expresión…	تعبير…
+Factor	Factor	العامل
+Factors by vintage / age	Factores por cohorte / edad	العوامل حسب الفوج / العمر
+Failed	Falló	فشل
+Feasibility tolerance	Tolerancia de factibilidad	تسامح قابلية الحل
+Feasible: the model has a solution	Factible: el modelo tiene solución	قابل للحل: للنموذج حل
+Fertiliser	Fertilizante	الأسمدة
+Fields	Campos	الحقول
+Fill	Rellenar	تعبئة
+Fill row (year:value)	Rellenar fila (año:valor)	تعبئة صف (سنة:قيمة)
+Filter by code or name{0}	Filtrar por código o nombre{0}	تصفية حسب الرمز أو الاسم{0}
+Filter the list	Filtrar la lista	تصفية القائمة
+Filter {0}	Filtrar {0}	تصفية {0}
+Filters	Filtros	عوامل التصفية
+Final demand	Demanda final	الطلب النهائي
+Finance	Finanzas	التمويل
+Find	Buscar	بحث
+Find a technology, commodity, storage, emission or parameter…	Buscar una tecnología, producto, almacenamiento, emisión o parámetro…	ابحث عن تقنية أو سلعة أو مخزن أو انبعاث أو معلمة…
+Find…	Buscar…	بحث…
+First	Primero	الأول
+First 2,000 of {0}	Primeros 2.000 de {0}	أول 2000 من {0}
+First the units of {0}, then all units.	Primero las unidades de {0}, luego todas las unidades.	أولًا وحدات {0}، ثم كل الوحدات.
+First year	Primer año	السنة الأولى
+Fixed (decided before)	Fijado (decidido antes)	مثبّت (قُرّر سابقًا)
+Fixed cost	Costo fijo	التكلفة الثابتة
+Fixed cost: FixedCost x total capacity.	Costo fijo: FixedCost x capacidad total.	التكلفة الثابتة: FixedCost × القدرة الكلية.
+Fixed from the committed years	Fijado desde los años comprometidos	مثبّت من السنوات الملتزم بها
+Fixed past (kept in the window)	Pasado fijo (conservado en la ventana)	ماضٍ مثبّت (محفوظ في النافذة)
+Flat activity and a must-run user constraint	Actividad plana y una restricción de usuario de funcionamiento obligatorio	نشاط ثابت وقيد مستخدم للتشغيل الإلزامي
+Flat activity: not a switch	Actividad plana: no es un interruptor	نشاط ثابت: ليس مفتاحًا
+Folder	Carpeta	المجلد
+Folder "{0}" and {1} case{2} deleted	Carpeta "{0}" y {1} caso{2} eliminados	حُذف المجلد "{0}" و{1} حالة{2}
+Folder "{0}" created	Carpeta "{0}" creada	أُنشئ المجلد "{0}"
+Folder "{0}" deleted; its cases kept	Carpeta "{0}" eliminada; sus casos se conservan	حُذف المجلد "{0}"؛ احتُفظ بحالاته
+Folder "{0}" saved	Carpeta "{0}" guardada	حُفظ المجلد "{0}"
+Folder name	Nombre de la carpeta	اسم المجلد
+Folder:	Carpeta:	المجلد:
+Folders not saved in this browser	Carpetas no guardadas en este navegador	مجلدات غير محفوظة في هذا المتصفح
+Folders not saved:	Carpetas no guardadas:	مجلدات غير محفوظة:
+Fonts	Fuentes	الخطوط
+Font{0}	Fuente{0}	الخط{0}
+Food	Alimentos	الغذاء
+Food and agriculture	Alimentación y agricultura	الغذاء والزراعة
+For {0}	Para {0}	لـ {0}
+Forced activity but an input is never produced	Actividad forzada pero un insumo nunca se produce	نشاط مفروض لكن أحد المدخلات لا يُنتَج أبدًا
+Forest / wood	Bosque / madera	الغابات / الخشب
+Format{0}	Formato{0}	الصيغة{0}
+Formula	Fórmula	الصيغة
+Formula file (.py)	Archivo de fórmulas (.py)	ملف الصيغ (.py)
+Formula file not loaded:	Archivo de fórmulas no cargado:	ملف الصيغ غير محمّل:
+Formula metric	Métrica con fórmula	مقياس بصيغة
+Formula of inputs and outputs	Fórmula de entradas y salidas	صيغة المدخلات والمخرجات
+Freight	Carga	الشحن
+From	Desde	من
+From (commodity of)	Desde (producto de)	من (سلعة)
+Full backup	Copia completa	نسخة كاملة
+Full extraction	Extracción completa	استخراج كامل
+Full model	Modelo completo	النموذج الكامل
+Full system	Sistema completo	النظام الكامل
+Funnel (columns)	Embudo (columnas)	قمع (أعمدة)
+Future	Futuro	المستقبل
+Futures	Futuros	المستقبلات
+Futures (empty = all {0})	Futuros (vacío = todos los {0})	المستقبلات (فارغ = كل {0})
+Futures met or missed (strategies × futures)	Futuros cumplidos o fallidos (estrategias × futuros)	مستقبلات محققة أو فائتة (استراتيجيات × مستقبلات)
+Futures solved for every strategy	Futuros resueltos para cada estrategia	مستقبلات محلولة لكل استراتيجية
+Gap	Brecha	الفجوة
+Gas	Gas	الغاز

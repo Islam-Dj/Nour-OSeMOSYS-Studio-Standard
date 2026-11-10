@@ -1,0 +1,15 @@
+[
+ {
+  "id": "GAS_SOLAR",
+  "file": "gas_solar.txt",
+  "name": "Gas and solar (example)",
+  "description": "One region, 2025-2050, 4 seasons x day / night: domestic gas, a gas power plant, solar PV and electricity imports for a growing electricity demand. Scenarios: SC_1 solar 20 %, SC_2 solar programme.",
+  "check": [
+   "electricity produced in each slice = demand",
+   "solar runs only in the day slices (CapacityFactor 0 at night)",
+   "SC_2: new solar capacity at least 1 GW in 2025, 1.1 GW in 2026 ...",
+   "SC_1: solar output = 1/4 of the gas plant output"
+  ],
+  "backup": "gas_solar_mc_rdm.zip"
+ }
+]

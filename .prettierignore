@@ -1,0 +1,5 @@
+# data blocks read as JSON by the tests and the reference builders: keep them as they are
+web/js/resultdesc.js
+web/lib/
+engine/muio_api/
+Nour_OSeMOSYS_Studio.html

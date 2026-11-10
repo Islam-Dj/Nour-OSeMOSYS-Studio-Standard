@@ -1,0 +1,152 @@
+/* ============================== the design of the Studio ==============================
+   - One colour for the whole Studio (--th), chosen in the top bar (Colour ▾) or on Model setup; every tint is made from it.
+   - Two fonts: Newsreader for the titles, Geist for everything else (codes and numbers use its tabular figures).
+   - Box edges 2 px in the colour, rounded corners; separators inside a box 1 px in a light tint.
+   - The item you click (lists, menus, cards, tabs) takes the colour.
+   This file is loaded last: it holds the design rules, the other files hold the layout. */
+:root{
+  --th:#6f8fb3;                                                          /* set by theme.js from your choice */
+  --bw:2px;                                                              /* width of box edges */
+  --line:color-mix(in srgb,var(--th) 82%,var(--ink) 18%);                /* box edges */
+  --line-soft:color-mix(in srgb,var(--th) 32%,var(--paper));             /* separators inside a box */
+  --th-soft:color-mix(in srgb,var(--th) 15%,var(--paper));               /* selected / hovered rows */
+  --th-mid:color-mix(in srgb,var(--th) 32%,var(--paper));
+  --th-on:#ffffff;                                                       /* text on the colour (set by theme.js) */
+  --spc:var(--th);                                                       /* Model setup reads --spc */
+  --accent:var(--line); --focus:var(--th);
+}
+body{font-variant-numeric:tabular-nums}
+
+/* text as written: no capitals-only labels, no wide letter spacing */
+.btn,.seg button,summary,th,.col-h,.flows h4,.sev,.tag{letter-spacing:0}
+/* the first letter of a label, a heading line, a hint or a column title is a capital */
+.dh .code::first-letter,legend::first-letter,.hint::first-letter,.ck-d::first-letter,.ck-w::first-letter,.pdesc::first-letter,
+th::first-letter,.frm label::first-letter,.muted.cap::first-letter,.empty::first-letter,.vgrp::first-letter{text-transform:uppercase}
+
+/* buttons and fields: square, bold edge in the colour */
+.btn{border:var(--bw) solid var(--line);font-weight:500}
+.btn.pri,.btn.on,.seg button.on,.seg button[aria-pressed="true"]{background:var(--line);color:var(--th-on);border-color:var(--line)}
+.btn:hover{background:var(--th-soft)}
+.btn.pri:hover{background:color-mix(in srgb,var(--line) 85%,var(--ink))}
+input:focus,select:focus,textarea:focus{outline:2px solid var(--th);outline-offset:0}
+.seg{border:var(--bw) solid var(--line)}
+
+/* the clicked item takes the colour: model browser, lists, menus, cards, tabs, pages of the left menu */
+.bri.on,.qi.on,.msel-l [aria-selected="true"],[role="option"][aria-selected="true"],.ck.cur,.tech.sel>rect:first-of-type,
+.nav .on,.side .on,.spnav .on,.tabs .on,.rtab.on,li.on{background:var(--th-soft)!important;box-shadow:inset 4px 0 0 var(--th);font-weight:600}
+.bri:active,.qi:active,.ck:active,[role="option"]:active,.nav a:active{background:var(--th-mid)}
+.ck.cur{border-color:var(--th)}
+
+/* side panel header: the title has the full width; the buttons wrap under it on a narrow panel */
+.dh{flex-wrap:wrap;row-gap:8px}
+.dh>div:first-child{flex:1 1 300px;min-width:0}
+.dh .acts{flex-wrap:wrap;gap:6px}
+
+/* section headers of the parameter editor: easier to read */
+details.tgrp>summary{font-size:14px;font-weight:600}
+details.pblk>summary b{font-size:13.5px;font-weight:600}
+
+/* the colour menu of the top bar */
+.thcol{position:relative}
+.thcol .thm{position:absolute;right:0;top:calc(100% + 4px);z-index:60;background:var(--paper);border:var(--bw) solid var(--line);padding:6px;display:flex;flex-direction:column;gap:2px;min-width:180px}
+.thcol .thm button{display:flex;align-items:center;gap:8px;border:0;background:none;padding:6px 8px;text-align:left;font:inherit;color:var(--ink);cursor:pointer}
+.thcol .thm button:hover,.thcol .thm button[aria-selected="true"]{background:var(--th-soft)}
+.thcol i{display:inline-block;width:14px;height:14px;border:1px solid var(--line)}
+.thcol label{display:flex;align-items:center;gap:8px;padding:6px 8px;cursor:pointer}
+/* the year chosen in the panel of a technology or a commodity */
+.flows h4 select.pyear{font:inherit;font-style:normal;padding:1px 4px;border:1px solid var(--line);margin-left:2px}
+.thcol .thm[hidden]{display:none}
+/* the left menu: the page you are on, in the colour */
+.rail .ri>button[aria-pressed="true"],.rail #bld[aria-pressed="true"]{background:var(--th-soft)!important;box-shadow:inset 4px 0 0 var(--th)!important;color:var(--ink)!important}
+.rail .ri>button:active{background:var(--th-mid)}
+/* segmented controls (regions...): the chosen one filled with the colour */
+.seg button[aria-pressed="true"]{background:var(--line)!important;color:var(--th-on)!important}
+.btn.pri,#bld[aria-pressed="true"]{background:var(--line);color:var(--th-on);border-color:var(--line)}
+.rdnav button[aria-pressed="true"]{background:var(--th-soft);border-color:var(--line);box-shadow:inset 4px 0 0 var(--th)}
+.rdnav button[aria-pressed="true"] b{color:var(--ink)}
+/* the technology chips of the model browser and the tabs (Technologies 21 ...) */
+.brtabs button[aria-selected="true"],.brtabs .on{background:var(--line);color:var(--th-on);border-color:var(--line)}
+.mfbar label{display:flex;align-items:center;gap:8px;font-weight:600}.mfbar select{min-width:280px}
+/* the Chart style editor of a chart (Monte Carlo, robust decisions, rolling horizon) */
+.chst-pop{width:380px!important;max-height:calc(100vh - 16px);overflow:auto}
+.chst-pop .chst-h{display:flex;align-items:center;gap:8px;margin-bottom:6px}.chst-pop .chst-h b{font:600 16px var(--display)}.chst-pop .chst-h .btn{margin-left:auto}
+.chst-pop fieldset{border:1px solid var(--line-soft);padding:6px 8px;margin:6px 0}
+.chst-pop .row2{display:grid;grid-template-columns:1fr 1fr;gap:8px;align-items:end}
+.chst-pop label{display:flex;flex-direction:column;gap:2px;font-size:12px}.chst-pop label.chk{flex-direction:row;align-items:center}
+.chst-pop label{align-items:stretch!important;text-align:left!important}.chst-pop label input,.chst-pop label select{width:100%;box-sizing:border-box}
+.chst-pop label.chk{align-items:center!important}.chst-pop label.chk input{width:auto}
+/* robust decisions: the charts of each view */
+.rdxbar{margin-top:14px;border-top:1px solid var(--line-soft);padding-top:10px}
+.rdxgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:14px}
+.rdxpkg{margin:10px 0;border:var(--bw) solid var(--line);padding:6px 10px}.rdxpkg summary{font-weight:600}
+.rdxpkg .row2{display:grid;grid-template-columns:1fr 1fr;gap:10px}.rdxpkg select[multiple]{min-height:80px}
+
+/* questions in the Studio's own dialog (js/dialog.js) instead of the browser's boxes */
+.uidlg-w{position:fixed;inset:0;z-index:200;background:rgba(20,22,24,.32);display:flex;align-items:flex-start;justify-content:center;padding-top:14vh}
+.uidlg{width:min(520px,calc(100vw - 32px));background:var(--paper);border:var(--bw) solid var(--line);border-radius:10px;box-shadow:0 18px 50px rgba(0,0,0,.22);padding:18px 20px 16px}
+.uidlg-t p{margin:0 0 10px;line-height:1.5;color:var(--ink)}.uidlg-t p:first-child{font:500 17px/1.35 var(--display)}
+.uidlg-i{width:100%;box-sizing:border-box;margin:4px 0 12px;font:14px var(--body);padding:8px 10px;border:var(--bw) solid var(--line);border-radius:6px}
+.uidlg .acts{display:flex;justify-content:flex-end;gap:8px;margin-top:6px}
+.btn.danger.pri,.uidlg .btn.danger{background:var(--bad);border-color:var(--bad);color:#fff}
+.fbox .crow{display:flex;align-items:center;gap:6px;margin:2px 0}.fbox .crow .snm{flex:1;min-width:0;font:12.5px var(--body);padding:3px 6px;border:1px solid var(--line-soft);border-radius:4px}
+
+/* the logo in the top bar (img/nour_logo.png; a light version for the dark theme) */
+.brand .logo{display:block;width:142px;height:44px;background:url(../img/nour_logo.png) left center/contain no-repeat}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .brand .logo{background-image:url(../img/nour_logo_dark.png)}}
+:root[data-theme="dark"] .brand .logo{background-image:url(../img/nour_logo_dark.png)}
+
+/* the two ways to open a data file as two clear cards, the radio with room around it */
+.howset{border:0;padding:0;margin:10px 0}.howset legend{font-weight:600;margin-bottom:6px}
+.howopts{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.howopt{display:flex!important;flex-direction:row!important;align-items:flex-start;gap:12px;padding:12px 14px;border:var(--bw) solid var(--line-soft);border-radius:8px;cursor:pointer;background:var(--paper)}
+.howopt input{margin:3px 0 0;width:18px;height:18px;flex:0 0 18px;accent-color:var(--th)}
+.howopt>span{display:flex;flex-direction:column;gap:4px;line-height:1.45}.howopt b{font-size:14px}.howopt .muted{font-size:12.5px}
+.howopt:has(input:checked){border-color:var(--line);background:var(--th-soft)}
+.pmode{gap:12px!important;padding:10px 12px!important}.pmode input{margin:3px 0 0;width:18px;height:18px;flex:0 0 18px;accent-color:var(--th)}
+.pmode:has(input:checked){border-color:var(--line)!important;box-shadow:none!important;background:var(--th-soft)}
+@media (max-width:640px){.howopts{grid-template-columns:1fr}}
+.rdxgo{width:100%;margin:8px 0}
+.frm label.pmode,.pmode{display:flex!important;flex-direction:row!important;align-items:flex-start}
+.pmode>span{flex:1;min-width:0}
+textarea{font:13px/1.45 var(--body)}
+
+/* the language menu of the top bar, and Arabic written right to left (js/i18n.js). The diagram, the charts, the data
+   grids, codes and numbers stay left to right. */
+.lngsel .lngl{display:flex;align-items:center;gap:4px}
+.lngsel select{font:inherit;padding:5px 6px;border:var(--bw) solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink)}
+[dir="rtl"] body{text-align:right}
+[dir="rtl"] svg,[dir="rtl"] .js-plotly-plot,[dir="rtl"] table.grid,[dir="rtl"] code,[dir="rtl"] pre,[dir="rtl"] textarea,
+[dir="rtl"] input[type="number"],[dir="rtl"] .dh .code,[dir="rtl"] #regions{direction:ltr}
+[dir="rtl"] th,[dir="rtl"] td{text-align:right}
+[dir="rtl"] table.grid th,[dir="rtl"] table.grid td{text-align:left}
+[dir="rtl"] .bri.on,[dir="rtl"] .qi.on,[dir="rtl"] .ck.cur,[dir="rtl"] li.on,[dir="rtl"] .nav .on,[dir="rtl"] .side .on,[dir="rtl"] .tabs .on,[dir="rtl"] .rtab.on,
+[dir="rtl"] .rail .ri>button[aria-pressed="true"],[dir="rtl"] .rdnav button[aria-pressed="true"]{box-shadow:inset -4px 0 0 var(--th)!important}
+[dir="rtl"] .thcol .thm{right:auto;left:0}[dir="rtl"] .thcol .thm button,[dir="rtl"] .chst-pop label{text-align:right!important}
+.lang-ar body{line-height:1.55}
+[dir="rtl"] select,[dir="rtl"] input,[dir="rtl"] option,[dir="rtl"] .bri,[dir="rtl"] td{unicode-bidi:plaintext}
+#zfit{width:auto;min-width:32px;padding-inline:6px}
+/* the Arabic logo نور in the Arabic interface */
+.lang-ar .brand .logo{width:112px;height:56px;background-image:url(../img/nour_logo_ar.png)}
+@media (prefers-color-scheme: dark){:root.lang-ar:not([data-theme="light"]) .brand .logo{background-image:url(../img/nour_logo_ar_dark.png)}}
+:root.lang-ar[data-theme="dark"] .brand .logo{background-image:url(../img/nour_logo_ar_dark.png)}
+/* French, Spanish and Arabic labels are longer: a narrower case button keeps the top bar on one line */
+.lang-fr .casebtn,.lang-es .casebtn,.lang-ar .casebtn{max-width:14vw}
+.lang-fr .lngl>span,.lang-es .lngl>span,.lang-ar .lngl>span{display:none}
+/* Ask the results (js/ask.js) */
+.askbar{display:flex;gap:8px}.askbar input{flex:1;min-width:0;font:15px var(--body);padding:9px 12px;border:var(--bw) solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink)}
+.askrun{display:flex;align-items:center;gap:8px;font-size:13px}.askrun select{max-width:100%;min-width:0}
+.askex,.askchips{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.askex .chip,.askchips .chip{border:1px solid var(--line-soft);border-radius:999px;background:var(--paper);padding:4px 10px;font:12.5px var(--body);color:var(--ink);cursor:pointer}
+.askex .chip:hover,.askchips .chip:hover{background:var(--th-soft);border-color:var(--line)}
+.aska{border:var(--bw) solid var(--line);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:10px;background:var(--paper)}
+.askbig{display:flex;flex-direction:column;gap:2px}.askv{font:600 30px/1.15 var(--display);color:var(--ink)}.asku{font-size:15px;color:var(--muted)}
+.asktab{border-collapse:collapse;width:100%;font-size:13px}.asktab th,.asktab td{padding:4px 8px;border-bottom:1px solid var(--line-soft);text-align:left}
+.asktab .n{text-align:right;font-variant-numeric:tabular-nums}.asktot td{font-weight:600;border-top:var(--bw) solid var(--line)}
+[dir="rtl"] .asktab th,[dir="rtl"] .asktab td{text-align:right}[dir="rtl"] .asktab .n{text-align:left}
+.askhow ul{margin:6px 0 0;padding-inline-start:18px;display:flex;flex-direction:column;gap:3px;font-size:13px}.askhow li>span:first-child{color:var(--muted)}
+.aska .acts{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+/* New model, hours of the day parts by season */
+.nmh input{width:72px;text-align:right;padding:3px 6px;border:1px solid var(--line-soft);border-radius:4px;font:13px var(--body)}
+.nmh td.bad{color:var(--bad);font-weight:600}
+.nmlat{margin-top:8px}.nmds{display:block;margin-top:6px}
+.frm input:disabled{opacity:.45}.nmprev{font-size:12.5px;margin-top:8px}.nmprev .tw{margin-top:4px}

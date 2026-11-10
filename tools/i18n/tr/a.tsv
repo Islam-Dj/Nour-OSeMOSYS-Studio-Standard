@@ -1,0 +1,191 @@
+(AGE is computed by the model)	(AGE la calcula el modelo)	(يحسب النموذج AGE)
+(EmissionActivityRatio, per unit of activity)	(EmissionActivityRatio, por unidad de actividad)	(EmissionActivityRatio، لكل وحدة نشاط)
+(Max series = {0})	(Series máx. = {0})	(أقصى عدد سلاسل = {0})
+(activity limited to	(actividad limitada a	(النشاط محدود بـ
+(also the technologies in them)	(también las tecnologías que contienen)	(وكذلك التقنيات التي تحتويها)
+(blank = all {0})	(vacío = todos los {0})	(فارغ = كل {0})
+(change it here: the message says what changed)	(cámbielo aquí: el mensaje indica qué cambió)	(غيّره هنا: تبيّن الرسالة ما الذي تغيّر)
+(first year shown)	(primer año mostrado)	(أول سنة معروضة)
+(from the model)	(del modelo)	(من النموذج)
+(incl. constant {0}; MUIO shows {1})	(incl. constante {0}; MUIO muestra {1})	(يشمل الثابت {0}؛ يعرض MUIO {1})
+(no folder)	(sin carpeta)	(بدون مجلد)
+(none)	(ninguno)	(لا شيء)
+(not valid: all targets used)	(no válida: se usan todas las metas)	(غير صالح: تُستخدم كل الأهداف)
+(optional)	(opcional)	(اختياري)
+(or a range: 2025-2050)	(o un rango: 2025-2050)	(أو مدى: 2025-2050)
+(or type a new code)	(o escriba un código nuevo)	(أو اكتب رمزًا جديدًا)
+(perfect foresight {0}, +{1} %)	(previsión perfecta {0}, +{1} %)	(استشراف تام {0}، +{1} %)
+(regional: set in every region)	(regional: se fija en cada región)	(إقليمي: يُحدَّد في كل منطقة)
+(share of the spread)	(parte de la dispersión)	(حصة من التشتت)
+(the {0} days are scaled to the year)	(los {0} días se escalan al año)	(تُقاس الأيام {0} على السنة)
+(the {0} largest of {1})	(los {0} mayores de {1})	(الأكبر {0} من {1})
+(year chosen above)	(año elegido arriba)	(السنة المختارة أعلاه)
+({0} + the new scenario)	({0} + el nuevo escenario)	({0} + السيناريو الجديد)
+({0} of {1} values)	({0} de {1} valores)	({0} من {1} قيمة)
+({0} reported by the solver)	({0} según el solucionador)	({0} حسب المحلّل)
+), then "Run".	), luego "Ejecutar".	)، ثم "تشغيل".
+), then open this view again.	), luego abra de nuevo esta vista.	)، ثم افتح هذا العرض مجددًا.
++ Emissions (total)	+ Emisiones (total)	+ الانبعاثات (المجموع)
++ Filter on a variable	+ Filtro sobre una variable	+ تصفية حسب متغيّر
++ Formula metric	+ Métrica con fórmula	+ مقياس بصيغة
++ Investment (total)	+ Inversión (total)	+ الاستثمار (المجموع)
++ Linked value	+ Valor vinculado	+ قيمة مرتبطة
++ Metric	+ Métrica	+ مقياس
++ New folder	+ Nueva carpeta	+ مجلد جديد
++ Strategy	+ Estrategia	+ استراتيجية
++ Term	+ Término	+ حدّ
++ Window	+ Ventana	+ نافذة
++ a cell of the driver	+ una celda del impulsor	+ خلية من المحرّك
++ add rows	+ añadir filas	+ إضافة صفوف
++ new scenario	+ nuevo escenario	+ سيناريو جديد
++{0} zero	+{0} cero	+{0} صفر
+, base data	, datos base	، البيانات الأساسية
+, each year	, cada año	، كل سنة
+, every {0}th drawn	, uno de cada {0} trazado	، يُرسم واحد كل {0}
+, filtered (	, filtrado (	، مُصفّى (
+, objective	, objetivo	، الهدف
+, own use	, uso propio	، استهلاك ذاتي
+, reference run dashed	, ejecución de referencia discontinua	، التشغيل المرجعي متقطّع
+, sample {0} in red	, muestra {0} en rojo	، العيّنة {0} بالأحمر
+, summed over the regions	, sumado sobre las regiones	، مجموع على المناطق
+, then open this window again.	, luego abra de nuevo esta ventana.	، ثم افتح هذه النافذة مجددًا.
+0 (default) in every year.	0 (por defecto) en cada año.	0 (افتراضي) في كل سنة.
+0 or empty = all cores	0 o vacío = todos los núcleos	0 أو فارغ = كل الأنوية
+1 = satisfied	1 = satisfecho	1 = محقَّق
+1 = sinking fund, 2 = straight line.	1 = fondo de amortización, 2 = lineal.	1 = صندوق الاستهلاك، 2 = خطّي.
+1 season (the year)	1 estación (el año)	موسم واحد (السنة)
+1 unit equals (optional)	1 unidad equivale a (opcional)	وحدة واحدة تساوي (اختياري)
+12 months, January first	12 meses, enero primero	12 شهرًا، يناير أولًا
+12 months, September first (hydrological year)	12 meses, septiembre primero (año hidrológico)	12 شهرًا، سبتمبر أولًا (السنة المائية)
+1e-7 (default)	1e-7 (por defecto)	1e-7 (افتراضي)
+3-D surface (rows x columns)	Superficie 3D (filas x columnas)	سطح ثلاثي الأبعاد (صفوف × أعمدة)
+300 dpi (print)	300 ppp (impresión)	300 نقطة/بوصة (طباعة)
+300 draws	300 sorteos	300 سحبة
+4 seasons	4 estaciones	4 مواسم
+5 % and 95 %	5 % y 95 %	5 % و 95 %
+5 % · median · 95 %	5 % · mediana · 95 %	5 % · الوسيط · 95 %
+90 % of futures below	90 % de los futuros por debajo	90 % من المستقبلات أدناه
+95 % interval of the mean	intervalo del 95 % de la media	مجال 95 % للمتوسط
+96 dpi (screen)	96 ppp (pantalla)	96 نقطة/بوصة (شاشة)
+: keep about 2 free for the system	: deje unos 2 libres para el sistema	: اترك نحو 2 للنظام
+: planned, not built yet	: previsto, aún no construido	: مخطط، لم يُبنَ بعد
+: {0} change(s) so far.	: {0} cambio(s) hasta ahora.	: {0} تغيير(ات) حتى الآن.
+; N = the years kept	; N = los años conservados	؛ N = السنوات المحتفظ بها
+; light backup: solved futures not included	; copia ligera: sin los futuros resueltos	؛ نسخة خفيفة: دون المستقبلات المحلولة
+; the results are under the run "	; los resultados están en la ejecución "	؛ النتائج تحت التشغيل "
+; too many slices in	; demasiados intervalos en	؛ عدد كبير من الشرائح في
+= national (UDC2)	= nacional (UDC2)	= وطني (UDC2)
+= regional, all regions summed (RUDC2)	= regional, todas las regiones sumadas (RUDC2)	= إقليمي، مجموع كل المناطق (RUDC2)
+A MUIO case has	Un caso de MUIO tiene	حالة MUIO تحتوي على
+A future is bad when the strategy	Un futuro es malo cuando la estrategia	يكون المستقبل سيئًا عندما الاستراتيجية
+A future is satisfied when	Un futuro se cumple cuando	يُعدّ المستقبل محققًا عندما
+A knot every (years)	Un nodo cada (años)	عقدة كل (سنوات)
+A new case	Un caso nuevo	حالة جديدة
+A number	Un número	رقم
+A part of the diagram	Una parte del diagrama	جزء من المخطط
+A regional fund nobody pays into	Un fondo regional al que nadie aporta	صندوق إقليمي لا يموّله أحد
+A value given in both	Un valor dado en ambos	قيمة معطاة في الاثنين
+A {0} has no time slice ({1})	Un {0} no tiene intervalo de tiempo ({1})	{0} ليس له شريحة زمنية ({1})
+AR(1): each year leans on the previous one	AR(1): cada año se apoya en el anterior	AR(1): كل سنة تعتمد على السابقة
+About	Acerca de	حول
+About this version	Acerca de esta versión	حول هذا الإصدار
+About {0}	Acerca de {0}	حول {0}
+Acceptable; more samples would narrow it.	Aceptable; más muestras lo estrecharían.	مقبول؛ مزيد من العيّنات يضيّقه.
+Across years	A través de los años	عبر السنوات
+Activity	Actividad	النشاط
+Activity limits	Límites de actividad	حدود النشاط
+Activity lower limit above activity upper limit	Límite inferior de actividad por encima del superior	الحد الأدنى للنشاط أعلى من الحد الأقصى
+Activity of a technology over the whole horizon.	Actividad de una tecnología en todo el horizonte.	نشاط تقنية على كامل الأفق.
+Activity unit	Unidad de actividad	وحدة النشاط
+Activity ×	Actividad ×	النشاط ×
+Acts in	Actúa en	يعمل في
+Add	Añadir	إضافة
+Add (the same to every cell)	Sumar (lo mismo a cada celda)	إضافة (القيمة نفسها لكل خلية)
+Add a model file	Añadir un archivo de modelo	إضافة ملف نموذج
+Add a model to the open case	Añadir un modelo al caso abierto	إضافة نموذج إلى الحالة المفتوحة
+Add again	Añadir de nuevo	إضافة مجددًا
+Add another model file…	Añadir otro archivo de modelo…	إضافة ملف نموذج آخر…
+Add at least two uncertain parameters.	Añada al menos dos parámetros inciertos.	أضف معلمتين غير مؤكدتين على الأقل.
+Add it to the library	Añadirlo a la biblioteca	أضفه إلى المكتبة
+Add parameters from the list on the left.	Añada parámetros de la lista de la izquierda.	أضف معلمات من القائمة على اليسار.
+Add rows:	Añadir filas:	إضافة صفوف:
+Add scenario	Añadir escenario	إضافة سيناريو
+Add system	Añadir sistema	إضافة نظام
+Add the model file {0}	Añadir el archivo de modelo {0}	إضافة ملف النموذج {0}
+Add the unit	Añadir la unidad	إضافة الوحدة
+Add the usual systems	Añadir los sistemas habituales	إضافة الأنظمة المعتادة
+Add to Model files	Añadir a Archivos de modelo	إضافة إلى ملفات النماذج
+Add to the library	Añadir a la biblioteca	إضافة إلى المكتبة
+Add to the open case	Añadir al caso abierto	إضافة إلى الحالة المفتوحة
+Add uncertain parameters first (Monte Carlo page).	Añada primero parámetros inciertos (página Monte Carlo).	أضف أولًا معلمات غير مؤكدة (صفحة مونت كارلو).
+Add uncertain parameters first.	Añada primero parámetros inciertos.	أضف أولًا معلمات غير مؤكدة.
+Add uncertainties	Añadir incertidumbres	إضافة عوامل عدم اليقين
+Add {0} rows?	¿Añadir {0} filas?	إضافة {0} صفوف؟
+Add {0} to {1}	Añadir {0} a {1}	إضافة {0} إلى {1}
+Added to the open case	Añadido al caso abierto	مضاف إلى الحالة المفتوحة
+After presolve	Tras el preprocesado	بعد المعالجة المسبقة
+Aggregation	Agregación	التجميع
+Aggregation{0}	Agregación{0}	التجميع{0}
+Algorithm	Algoritmo	الخوارزمية
+All	Todo	الكل
+All (sum)	Todo (suma)	الكل (مجموع)
+All default.	Todo por defecto.	كلها افتراضية.
+All its values	Todos sus valores	كل قيمه
+All its values ({0})	Todos sus valores ({0})	كل قيمه ({0})
+All listed	Todos los listados	كل المدرجة
+All metrics, scaled	Todas las métricas, escaladas	كل المقاييس، مُقيّسة
+All models ({0} cases)	Todos los modelos ({0} casos)	كل النماذج ({0} حالة)
+All of them (AND)	Todas (Y)	جميعها (و)
+All parameters	Todos los parámetros	كل المعلمات
+All regions	Todas las regiones	كل المناطق
+All regions together	Todas las regiones juntas	كل المناطق معًا
+All rows	Todas las filas	كل الصفوف
+All targets are met (AND)	Se cumplen todas las metas (Y)	تحققت كل الأهداف (و)
+All units ·	Todas las unidades ·	كل الوحدات ·
+All values of the model	Todos los valores del modelo	كل قيم النموذج
+All years	Todos los años	كل السنوات
+All zero in this run: nothing to show.	Todo cero en esta ejecución: nada que mostrar.	كلها صفر في هذا التشغيل: لا شيء لعرضه.
+All zero in {0}	Todo cero en {0}	كلها صفر في {0}
+All {0} samples pass the checks.	Las {0} muestras pasan las comprobaciones.	كل العيّنات {0} تجتاز الفحوص.
+All {0} years (untick for every 5th year)	Los {0} años (desmarque para uno de cada 5)	كل السنوات {0} (أزل التحديد لعرض سنة كل 5)
+Alone	Solo	منفرد
+Alone · {0} window{1}	Solo · {0} ventana{1}	منفرد · {0} نافذة{1}
+Along	A lo largo de	على امتداد
+Along (X axis){0}	A lo largo (eje X){0}	على امتداد (المحور X){0}
+Also kept in the run's folder (exports).	También se guarda en la carpeta de la ejecución (exportaciones).	محفوظ أيضًا في مجلد التشغيل (التصدير).
+Alt + wheel on a panel	Alt + rueda sobre un panel	Alt + العجلة على لوحة
+Always	Siempre	دائمًا
+An expression (M1 and (M2 or M3))	Una expresión (M1 y (M2 o M3))	تعبير (M1 و (M2 أو M3))
+Annual demand (any time)	Demanda anual (en cualquier momento)	الطلب السنوي (في أي وقت)
+Annual limit	Límite anual	الحد السنوي
+Annual limit (all regions together)	Límite anual (todas las regiones juntas)	الحد السنوي (كل المناطق معًا)
+Annual limit (each region)	Límite anual (cada región)	الحد السنوي (كل منطقة)
+Annual limit {0}	Límite anual {0}	الحد السنوي {0}
+AnnualActivityByVintage · activity of each cohort	AnnualActivityByVintage · actividad de cada cohorte	AnnualActivityByVintage · نشاط كل فوج
+AnnualEmissionLimit of {0} is 0	AnnualEmissionLimit de {0} es 0	AnnualEmissionLimit لـ {0} يساوي 0
+AnnualEmissions (computed in the model)	AnnualEmissions (calculado en el modelo)	AnnualEmissions (محسوب في النموذج)
+Any colour…	Cualquier color…	أي لون…
+Any colour…{0}	Cualquier color…{0}	أي لون…{0}
+Any of them (OR)	Cualquiera (O)	أيٌّ منها (أو)
+Any target is met (OR)	Se cumple alguna meta (O)	تحقق أي هدف (أو)
+Applied	Aplicado	طُبِّق
+Apply	Aplicar	تطبيق
+Apply filter	Aplicar filtro	تطبيق التصفية
+Apply sets	Aplicar conjuntos	تطبيق المجموعات
+Apply the years	Aplicar los años	تطبيق السنوات
+Apply to all charts	Aplicar a todos los gráficos	تطبيق على كل الرسوم
+Aquifer (groundwater store)	Acuífero (almacén de agua subterránea)	طبقة مياه جوفية (مخزون جوفي)
+Area	Área	المساحة
+Areas (each series)	Áreas (cada serie)	مساحات (كل سلسلة)
+Areas (stacked)	Áreas (apiladas)	مساحات (مكدّسة)
+As MUIO shows it	Como lo muestra MUIO	كما يعرضه MUIO
+As another app window (trial)	Como otra ventana de la aplicación (prueba)	كنافذة أخرى للتطبيق (تجريبي)
+As drawn	Como está dibujado	كما رُسم
+As shown	Como se muestra	كما هو معروض
+As the theme	Según el tema	حسب السمة
+Assign items…	Asignar elementos…	تعيين العناصر…
+Assign {0} items?	¿Asignar {0} elementos?	تعيين {0} عناصر؟
+At least k of them	Al menos k de ellas	على الأقل k منها
+At least k targets are met	Se cumplen al menos k metas	تحقق k أهداف على الأقل
+At most 40 at once	Como máximo 40 a la vez	40 كحد أقصى في المرة الواحدة
+Author	Autor	المؤلف

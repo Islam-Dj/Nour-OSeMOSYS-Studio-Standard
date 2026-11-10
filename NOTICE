@@ -1,0 +1,25 @@
+Nour OSeMOSYS Studio
+Copyright 2026 Nour Elislam DJEDAA, CREAD (Algiers, Algeria)
+
+Licensed under the Apache License, Version 2.0 (see LICENSE), except the third-party components below, which keep
+their own licences. The two documents (docs/USER_GUIDE.pdf and docs/OSEMOSYS_PARAMETERS.pdf, also in web/data/docs/)
+are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/).
+
+Model files shipped with the Studio
+  web/data/builtin_model.txt    the standard OSeMOSYS model file model.v.5.7.txt, as shipped with MUIO 5.7, unchanged (Apache-2.0, OSeMOSYS community / UN DESA / KTH)
+  web/data/muio54_model.txt     the MUIO 5.4 model file, kept to read older MUIO cases (Apache-2.0)
+  engine/muio_api/              MUIO's own code, kept as MUIO ships it (Apache-2.0)
+
+Libraries in the page (web/lib, web/fonts)
+  plotly.js 2.35.2              MIT License, (c) Plotly, Inc.
+  Apache ECharts 5.5.1          Apache License 2.0
+  Vega 5.30, Vega-Lite 5.21, Vega-Embed 6.26   BSD 3-Clause, (c) University of Washington Interactive Data Lab
+  Geist, Newsreader, Noto Sans Arabic, Noto Naskh Arabic   SIL Open Font Licence 1.1
+
+Solvers (not part of the Studio's code; installed with pip or found on the computer)
+  HiGHS (highspy)               MIT License
+  GLPK (swiglpk, glpsol)        GNU General Public License v3. The desktop application bundles swiglpk; that
+                                bundle is therefore distributed under the GPL v3 as a whole, while the Studio's own
+                                source code stays under the Apache License 2.0.
+  CBC                           Eclipse Public License 2.0
+  Gurobi                        commercial; used only when the user has it installed with a licence. Not bundled.

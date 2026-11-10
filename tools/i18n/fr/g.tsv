@@ -1,0 +1,82 @@
+Ask the results	Interroger les résultats
+Ask a question about the results in your own words (no AI: the Studio reads it with the names of your model, on this computer)	Posez une question sur les résultats avec vos mots (sans IA : le Studio la lit avec les noms de votre modèle, sur cet ordinateur)
+Write a question in your own words. The Studio reads it with the names of your model (no AI, nothing leaves this computer) and shows how it read it.	Écrivez une question avec vos mots. Le Studio la lit avec les noms de votre modèle (sans IA, rien ne quitte cet ordinateur) et montre comment il l'a lue.
+Ask	Demander
+Examples	Exemples
+Could not answer: {0}	Impossible de répondre : {0}
+What should I measure?	Que dois-je mesurer ?
+Name a result (emissions, capacity, production, use, cost…) and, if you want, a technology, a commodity, a year.	Nommez un résultat (émissions, capacité, production, usage, coût…) et, si vous voulez, une technologie, un produit, une année.
+Investment	Investissement
+Production	Production
+Use	Usage
+Net exports	Exportations nettes
+Crop yield	Rendement des cultures
+Sales revenue	Recettes des ventes
+Total discounted cost	Coût total actualisé
+Timeslice	Tranche horaire
+The first 60 of {0} rows: open it in Results to see them all.	Les 60 premières sur {0} lignes : ouvrez-le dans Résultats pour toutes les voir.
+(several match: choose below)	(plusieurs correspondent : choisissez ci-dessous)
+summed over the years	sommé sur les années
+Summed over	Sommé sur
+Capacity and storage levels are not added over the years: each year is shown.	Capacités et niveaux de stockage ne s'additionnent pas d'une année à l'autre : chaque année est affichée.
+All of them	Tous
+How I read the question	Comment j'ai lu la question
+Open in Results	Ouvrir dans Résultats
+Copy	Copier
+Compare with	Comparer avec
+To compare, name two runs in the question, or choose them below.	Pour comparer, nommez deux exécutions dans la question, ou choisissez-les ci-dessous.
+The years of this run are {0}-{1}.	Les années de cette exécution sont {0}-{1}.
+Each emission on its own line (different gases are not added).	Chaque émission sur sa ligne (les gaz différents ne s'additionnent pas).
+Items with different units are on their own lines (they are not added).	Les éléments d'unités différentes sont sur leurs propres lignes (ils ne s'additionnent pas).
+This run has no result for this question.	Cette exécution n'a pas de résultat pour cette question.
+All except	Tous sauf
+Left out	Exclu
+This result is yearly only: it has no time slices.	Ce résultat est seulement annuel : il n'a pas de tranches horaires.
+The seasons of the time slices are not in the data (Conversionls): shown by time slice.	Les saisons des tranches ne sont pas dans les données (Conversionls) : affiché par tranche.
+No values	Aucune valeur
+{0}: this run has no value for these items and years (zero, or not written by the model).	{0} : cette exécution n'a pas de valeur pour ces éléments et années (zéro, ou non écrite par le modèle).
+Input values are shown as they are (not added).	Les valeurs d'entrée sont affichées telles quelles (non additionnées).
+Rates are shown by time slice as they are (not added).	Les taux sont affichés par tranche horaire tels quels (non additionnés).
+Share of {0} in the total of all {1} items, line by line.	Part de {0} dans le total de tous les éléments {1}, ligne par ligne.
+Days per week of each, in the same order (Weekday, Weekend: 5, 2)	Jours par semaine de chacun, dans le même ordre (Semaine, Week-end : 5, 2)
+A day type is a kind of day that repeats every week: its days per week say how much of each season it covers (5 / 7 of the days are weekdays). One day type "All days" with 7 is the usual choice.	Un type de jour est une sorte de jour qui revient chaque semaine : ses jours par semaine disent quelle part de chaque saison il couvre (5 / 7 des jours sont des jours de semaine). Un seul type « Tous les jours » avec 7 est le choix habituel.
+The hours of the day parts change with the season (a summer day is longer than a winter day)	Les heures des parties du jour changent avec la saison (un jour d'été est plus long qu'un jour d'hiver)
+{0} (h)	{0} (h)
+Latitude (°, north positive)	Latitude (°, nord positif)
+The first season starts in	La première saison commence en
+{0} and {1} hours from the latitude	Heures de {0} et de {1} d'après la latitude
+The length of the day in the middle of each season (sunrise to sunset), for the first day part; the second gets the rest of the 24 hours. You can change any value afterwards.	La durée du jour au milieu de chaque saison (du lever au coucher du soleil), pour la première partie du jour ; la seconde reçoit le reste des 24 heures. Vous pouvez changer chaque valeur ensuite.
+January	Janvier
+February	Février
+March	Mars
+April	Avril
+May	Mai
+June	Juin
+July	Juillet
+August	Août
+September	Septembre
+October	Octobre
+November	Novembre
+December	Décembre
+{0} time slices	{0} tranches horaires
+Days	Jours
+Hours a day	Heures par jour
+DaySplit (one value for each day part in OSeMOSYS, used by storage within the day) = the hours averaged over the year: {0}.	DaySplit (une valeur par partie du jour dans OSeMOSYS, utilisée par le stockage dans la journée) = les heures moyennées sur l'année : {0}.
+TimesliceHours keeps the hours of each slice.	TimesliceHours garde les heures de chaque tranche.
+{0}: give the hours of every day part	{0} : donnez les heures de chaque partie du jour
+{0}: the hours add up to {1}, not 24	{0} : les heures font {1}, pas 24
+Open the example	Ouvrir l'exemple
+Name of the new folder (e.g. a country, a paper, Tests):	Nom du nouveau dossier (p. ex. un pays, un article, Tests) :
+Latitude of your region (°, north positive)	Latitude de votre région (°, nord positif)
+Give the latitude of your region (from -90 to 90)	Donnez la latitude de votre région (de -90 à 90)
+Operational profile	Profil opérationnel
+User Guide (PDF)	Guide de l'utilisateur (PDF)
+How to cite	Comment citer
+If you use the Studio in your work, please cite it, and the documents you used. Choose a format, then copy one reference or all three.	Si vous utilisez le Studio dans vos travaux, merci de le citer, ainsi que les documents utilisés. Choisissez un format, puis copiez une référence ou les trois.
+The Studio	Le Studio
+The User Guide	Le guide de l'utilisateur
+The Parameter Reference	La référence des paramètres
+Copy all three	Copier les trois
+Download all three	Télécharger les trois
+The file CITATION.cff of the source code holds the same references.	Le fichier CITATION.cff du code source contient les mêmes références.
+To cite the Studio and its documents: Info › How to cite.	Pour citer le Studio et ses documents : Infos › Comment citer.

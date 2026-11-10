@@ -1,0 +1,82 @@
+Ask the results	Preguntar a los resultados	اسأل النتائج
+Ask a question about the results in your own words (no AI: the Studio reads it with the names of your model, on this computer)	Haga una pregunta sobre los resultados con sus palabras (sin IA: el Studio la lee con los nombres de su modelo, en este equipo)	اطرح سؤالًا عن النتائج بكلماتك (دون ذكاء اصطناعي: يقرؤه الاستوديو بأسماء نموذجك، على هذا الحاسوب)
+Write a question in your own words. The Studio reads it with the names of your model (no AI, nothing leaves this computer) and shows how it read it.	Escriba una pregunta con sus palabras. El Studio la lee con los nombres de su modelo (sin IA, nada sale de este equipo) y muestra cómo la leyó.	اكتب سؤالًا بكلماتك. يقرؤه الاستوديو بأسماء نموذجك (دون ذكاء اصطناعي، لا يغادر شيء هذا الحاسوب) ويبيّن كيف فهمه.
+Ask	Preguntar	اسأل
+Examples	Ejemplos	أمثلة
+Could not answer: {0}	No se pudo responder: {0}	تعذّرت الإجابة: {0}
+What should I measure?	¿Qué debo medir?	ماذا أقيس؟
+Name a result (emissions, capacity, production, use, cost…) and, if you want, a technology, a commodity, a year.	Nombre un resultado (emisiones, capacidad, producción, uso, costo…) y, si quiere, una tecnología, un producto, un año.	سمِّ نتيجة (الانبعاثات، القدرة، الإنتاج، الاستهلاك، التكلفة…) وإن شئت تقنية أو سلعة أو سنة.
+Investment	Inversión	الاستثمار
+Production	Producción	الإنتاج
+Use	Uso	الاستهلاك
+Net exports	Exportaciones netas	صافي الصادرات
+Crop yield	Rendimiento del cultivo	مردود المحصول
+Sales revenue	Ingresos por ventas	إيرادات المبيعات
+Total discounted cost	Costo total descontado	التكلفة الكلية المخصومة
+Timeslice	Intervalo de tiempo	الشريحة الزمنية
+The first 60 of {0} rows: open it in Results to see them all.	Las primeras 60 de {0} filas: ábralo en Resultados para verlas todas.	أول 60 من {0} صفًا: افتحه في النتائج لرؤيتها كلها.
+(several match: choose below)	(varios coinciden: elija abajo)	(عدة تطابقات: اختر أدناه)
+summed over the years	sumado sobre los años	مجموع على السنوات
+Summed over	Sumado sobre	مجموع على
+Capacity and storage levels are not added over the years: each year is shown.	La capacidad y los niveles de almacenamiento no se suman entre años: se muestra cada año.	لا تُجمع القدرة ومستويات التخزين عبر السنوات: تُعرض كل سنة.
+All of them	Todos	كلها
+How I read the question	Cómo leí la pregunta	كيف فهمت السؤال
+Open in Results	Abrir en Resultados	فتح في النتائج
+Copy	Copiar	نسخ
+Compare with	Comparar con	قارن مع
+To compare, name two runs in the question, or choose them below.	Para comparar, nombre dos ejecuciones en la pregunta o elíjalas abajo.	للمقارنة، سمِّ تشغيلين في السؤال أو اخترهما أدناه.
+The years of this run are {0}-{1}.	Los años de esta ejecución son {0}-{1}.	سنوات هذا التشغيل هي {0}-{1}.
+Each emission on its own line (different gases are not added).	Cada emisión en su propia línea (los distintos gases no se suman).	كل انبعاث في سطره (لا تُجمع الغازات المختلفة).
+Items with different units are on their own lines (they are not added).	Los elementos con unidades distintas van en líneas propias (no se suman).	العناصر ذات الوحدات المختلفة في أسطرها (لا تُجمع).
+This run has no result for this question.	Esta ejecución no tiene resultado para esta pregunta.	لا نتيجة لهذا السؤال في هذا التشغيل.
+All except	Todos excepto	الكل باستثناء
+Left out	Excluido	مستبعد
+This result is yearly only: it has no time slices.	Este resultado es solo anual: no tiene intervalos de tiempo.	هذه النتيجة سنوية فقط: بلا شرائح زمنية.
+The seasons of the time slices are not in the data (Conversionls): shown by time slice.	Las estaciones de los intervalos no están en los datos (Conversionls): se muestra por intervalo.	مواسم الشرائح غير موجودة في البيانات (Conversionls): العرض حسب الشريحة.
+No values	Sin valores	لا قيم
+{0}: this run has no value for these items and years (zero, or not written by the model).	{0}: esta ejecución no tiene valor para estos elementos y años (cero, o no escrito por el modelo).	{0}: لا قيمة في هذا التشغيل لهذه العناصر والسنوات (صفر، أو لم يكتبها النموذج).
+Input values are shown as they are (not added).	Los valores de entrada se muestran tal cual (sin sumar).	تُعرض قيم المدخلات كما هي (دون جمع).
+Rates are shown by time slice as they are (not added).	Las tasas se muestran por intervalo tal cual (sin sumar).	تُعرض المعدلات حسب الشريحة كما هي (دون جمع).
+Share of {0} in the total of all {1} items, line by line.	Cuota de {0} en el total de todos los elementos de {1}, línea por línea.	حصة {0} من مجموع كل عناصر {1}، سطرًا بسطر.
+Days per week of each, in the same order (Weekday, Weekend: 5, 2)	Días por semana de cada uno, en el mismo orden (Laborable, Fin de semana: 5, 2)	أيام الأسبوع لكل منها، بالترتيب نفسه (يوم عمل، عطلة: 5، 2)
+A day type is a kind of day that repeats every week: its days per week say how much of each season it covers (5 / 7 of the days are weekdays). One day type "All days" with 7 is the usual choice.	Un tipo de día es una clase de día que se repite cada semana: sus días por semana indican qué parte de cada estación cubre (5 / 7 de los días son laborables). Un solo tipo "Todos los días" con 7 es lo habitual.	نوع اليوم صنف من الأيام يتكرر كل أسبوع: أيامه في الأسبوع تحدد ما يغطيه من كل موسم (5 / 7 من الأيام أيام عمل). نوع واحد "كل الأيام" بـ 7 هو الاختيار المعتاد.
+The hours of the day parts change with the season (a summer day is longer than a winter day)	Las horas de las partes del día cambian con la estación (un día de verano es más largo que uno de invierno)	تتغير ساعات أجزاء اليوم مع الموسم (نهار الصيف أطول من نهار الشتاء)
+{0} (h)	{0} (h)	{0} (سا)
+Latitude (°, north positive)	Latitud (°, norte positivo)	خط العرض (°، الشمال موجب)
+The first season starts in	La primera estación empieza en	يبدأ الموسم الأول في
+{0} and {1} hours from the latitude	Horas de {0} y {1} según la latitud	ساعات {0} و{1} من خط العرض
+The length of the day in the middle of each season (sunrise to sunset), for the first day part; the second gets the rest of the 24 hours. You can change any value afterwards.	La duración del día a mitad de cada estación (de la salida a la puesta del sol), para la primera parte del día; la segunda recibe el resto de las 24 horas. Puede cambiar cualquier valor después.	طول النهار في منتصف كل موسم (من الشروق إلى الغروب) للجزء الأول من اليوم؛ ويأخذ الثاني بقية الساعات الأربع والعشرين. يمكنك تغيير أي قيمة لاحقًا.
+January	Enero	يناير
+February	Febrero	فبراير
+March	Marzo	مارس
+April	Abril	أبريل
+May	Mayo	مايو
+June	Junio	يونيو
+July	Julio	يوليو
+August	Agosto	أغسطس
+September	Septiembre	سبتمبر
+October	Octubre	أكتوبر
+November	Noviembre	نوفمبر
+December	Diciembre	ديسمبر
+{0} time slices	{0} intervalos de tiempo	{0} شرائح زمنية
+Days	Días	الأيام
+Hours a day	Horas al día	ساعات في اليوم
+DaySplit (one value for each day part in OSeMOSYS, used by storage within the day) = the hours averaged over the year: {0}.	DaySplit (un valor por parte del día en OSeMOSYS, usado por el almacenamiento dentro del día) = las horas promediadas en el año: {0}.	DaySplit (قيمة واحدة لكل جزء من اليوم في OSeMOSYS، يستخدمها التخزين داخل اليوم) = الساعات بمتوسطها على السنة: {0}.
+TimesliceHours keeps the hours of each slice.	TimesliceHours conserva las horas de cada intervalo.	يحتفظ TimesliceHours بساعات كل شريحة.
+{0}: give the hours of every day part	{0}: indique las horas de cada parte del día	{0}: أدخل ساعات كل جزء من اليوم
+{0}: the hours add up to {1}, not 24	{0}: las horas suman {1}, no 24	{0}: مجموع الساعات {1} وليس 24
+Open the example	Abrir el ejemplo	فتح المثال
+Name of the new folder (e.g. a country, a paper, Tests):	Nombre de la carpeta nueva (p. ej. un país, un artículo, Pruebas):	اسم المجلد الجديد (مثل بلد، ورقة بحثية، اختبارات):
+Latitude of your region (°, north positive)	Latitud de su región (°, norte positivo)	خط عرض منطقتك (°، الشمال موجب)
+Give the latitude of your region (from -90 to 90)	Indique la latitud de su región (de -90 a 90)	أدخل خط عرض منطقتك (من -90 إلى 90)
+Operational profile	Perfil operativo	المنحنى التشغيلي
+User Guide (PDF)	Guía del usuario (PDF)	دليل المستخدم (PDF)
+How to cite	Cómo citar	كيفية الاستشهاد
+If you use the Studio in your work, please cite it, and the documents you used. Choose a format, then copy one reference or all three.	Si utiliza el Studio en su trabajo, cítelo, junto con los documentos que haya utilizado. Elija un formato y copie una referencia o las tres.	إذا استخدمت الاستوديو في عملك، يرجى الاستشهاد به وبالوثائق التي استخدمتها. اختر صيغة، ثم انسخ مرجعًا واحدًا أو المراجع الثلاثة.
+The Studio	El Studio	الاستوديو
+The User Guide	La guía del usuario	دليل المستخدم
+The Parameter Reference	La referencia de parámetros	مرجع المعاملات
+Copy all three	Copiar las tres	نسخ الثلاثة
+Download all three	Descargar las tres	تنزيل الثلاثة
+The file CITATION.cff of the source code holds the same references.	El archivo CITATION.cff del código fuente contiene las mismas referencias.	يحتوي الملف CITATION.cff في الشيفرة المصدرية على المراجع نفسها.
+To cite the Studio and its documents: Info › How to cite.	Para citar el Studio y sus documentos: Info › Cómo citar.	للاستشهاد بالاستوديو ووثائقه: معلومات › كيفية الاستشهاد.

@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Nour OSeMOSYS Studio: a desktop studio to build, solve and analyse OSeMOSYS models"
+version: "0.22.1"
+date-released: "2026-11-11"
+doi: "10.5281/zenodo.24117127"
+repository-code: "https://github.com/Islam-Dj/Nour-OSeMOSYS-Studio-Standard"
+license: Apache-2.0
+authors:
+  - family-names: "DJEDAA"
+    given-names: "Nour Elislam"
+    affiliation: "Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algiers, Algeria"
+    orcid: "https://orcid.org/0009-0004-5488-8401"
+abstract: >-
+  Nour OSeMOSYS Studio builds, checks, solves and analyses OSeMOSYS models with the standard OSeMOSYS model. Models
+  are built on the diagram of the system or with forms, or read from OSeMOSYS / MUIO data files; MUIO cases are imported
+  and exported. It solves with HiGHS, GLPK, CBC or Gurobi (when installed and licensed), shows every result with its
+  meaning and unit, answers questions about the results written in English, French, Spanish or Arabic without AI, and
+  offers Monte Carlo and robust decision making.
+keywords:
+  - OSeMOSYS
+  - MUIO
+  - energy planning
+  - CLEWs
+  - Monte Carlo
+  - robust decision making
+  - HiGHS
+references:
+  - type: manual
+    title: "Nour OSeMOSYS Studio: User Guide"
+    version: "0.22.1"
+    year: 2026
+    license: CC-BY-4.0
+    doi: "10.5281/zenodo.24117166"
+    publisher:
+      name: "Zenodo"
+    authors:
+      - family-names: "DJEDAA"
+        given-names: "Nour Elislam"
+        orcid: "https://orcid.org/0009-0004-5488-8401"
+  - type: manual
+    title: "OSeMOSYS Parameter Reference: the standard OSeMOSYS model"
+    version: "0.22.1"
+    year: 2026
+    license: CC-BY-4.0
+    doi: "10.5281/zenodo.24117220"
+    publisher:
+      name: "Zenodo"
+    authors:
+      - family-names: "DJEDAA"
+        given-names: "Nour Elislam"
+        orcid: "https://orcid.org/0009-0004-5488-8401"
+  - type: software
+    title: "MUIO: Model User Interface for OSeMOSYS"
+    version: "5.7"
+    notes: "The model file model.v.5.7.txt is included unchanged under the Apache License 2.0."
+    authors:
+      - name: "OSeMOSYS community (UN DESA / KTH)"

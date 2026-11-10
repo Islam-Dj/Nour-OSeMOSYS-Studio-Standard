@@ -1,0 +1,24 @@
+/* Nour OSeMOSYS Studio: colour, font and status tokens (light, dark) */
+/* Layout: a drafting-table reference energy system. Tool bar on top, the RES drawn as a schematic on a gridded sheet,
+   a data drawer on the right (bottom sheet on phones) holding every parameter of the clicked technology or commodity. */
+:root{
+  --sheet:#f7f6f3; --paper:#ffffff; --ink:#2f3437; --muted:#787774; --rule:#eaeaea; --grid:#e4e2dc;
+  --accent:#2f3437; --accent-ink:#ffffff; --hover:#f1f0ec; --warn:#956400; --bad:#9f2f2d; --focus:#1f6c9f;
+  --tag-red:#9f2f2d; --tag-red-bg:#fdebec; --tag-blue:#1f6c9f; --tag-blue-bg:#e1f3fe; --tag-green:#346538; --tag-green-bg:#edf3ec; --tag-yel:#956400; --tag-yel-bg:#fbf3db;
+  --f-gas:#2a78d6; --f-oil:#8a4b1f; --f-elc:#c98a00; --f-ren:#1f8a4c; --f-h2:#0e8f8f; --f-trade:#7a52b3; --f-other:#6b7680; --f-nuc:#4a3aa7; --f-coal:#3c3c3c; --f-land:#7c8a1e;
+  --display:"Newsreader","Noto Naskh Arabic",Georgia,"Times New Roman",serif;
+  --body:"Geist","Noto Sans Arabic","Segoe UI",system-ui,-apple-system,sans-serif;
+  --mono:var(--body);            /* one font for everything but the titles (Geist); codes and numbers use its tabular figures */
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --sheet:#191919; --paper:#202020; --ink:#e6e5e1; --muted:#9b9a97; --rule:#2f2f2f; --grid:#2a2a2a;
+  --accent:#e6e5e1; --accent-ink:#191919; --hover:#2a2a2a; --warn:#e0a84a; --bad:#ec7a73; --focus:#7fb8e0;
+  --tag-red:#f2a7a2; --tag-red-bg:rgba(236,122,115,.14); --tag-blue:#9cc9ec; --tag-blue-bg:rgba(127,184,224,.13); --tag-green:#a8d3a2; --tag-green-bg:rgba(140,200,130,.12); --tag-yel:#ecc77a; --tag-yel-bg:rgba(224,168,74,.13);
+  --f-gas:#6aa8f0; --f-oil:#d18e5a; --f-elc:#f0bd3c; --f-ren:#5cc98a; --f-h2:#49c7c7; --f-trade:#b292e6; --f-other:#9aa6af; --f-nuc:#9a8ff0; --f-coal:#b9b9b9; --f-land:#bccb52;
+  color-scheme:dark }}
+:root[data-theme="dark"]{
+  --sheet:#191919; --paper:#202020; --ink:#e6e5e1; --muted:#9b9a97; --rule:#2f2f2f; --grid:#2a2a2a;
+  --accent:#e6e5e1; --accent-ink:#191919; --hover:#2a2a2a; --warn:#e0a84a; --bad:#ec7a73; --focus:#7fb8e0;
+  --tag-red:#f2a7a2; --tag-red-bg:rgba(236,122,115,.14); --tag-blue:#9cc9ec; --tag-blue-bg:rgba(127,184,224,.13); --tag-green:#a8d3a2; --tag-green-bg:rgba(140,200,130,.12); --tag-yel:#ecc77a; --tag-yel-bg:rgba(224,168,74,.13);
+  --f-gas:#6aa8f0; --f-oil:#d18e5a; --f-elc:#f0bd3c; --f-ren:#5cc98a; --f-h2:#49c7c7; --f-trade:#b292e6; --f-other:#9aa6af; --f-nuc:#9a8ff0; --f-coal:#b9b9b9; --f-land:#bccb52;
+  color-scheme:dark }

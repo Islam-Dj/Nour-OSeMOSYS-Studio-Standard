@@ -1,0 +1,4 @@
+This folder contains the Classes of the MUIO back end (https://github.com/OSeMOSYS/MUIO),
+Apache License 2.0 (see LICENSE_MUIO_Apache-2.0.txt), used by NOUR OSeMOSYS Studio to write MUIO cases
+and MUIO results with MUIO's own code. Changes: Base/Config.py reads the DataStorage folder from the
+environment variable MUIO_DATA_STORAGE. Source commit: see MUIO_VERSION.txt.

@@ -1,0 +1,309 @@
+Strategies	Stratégies
+Strategies{0}	Stratégies{0}
+Strategy	Stratégie
+Strategy (by worst regret)	Stratégie (par pire regret)
+Strategy to enhance	Stratégie à améliorer
+Stream graph	Graphique en flux
+Strip plot (ticks)	Graphique en bandes (traits)
+Structure	Structure
+Studio	Studio
+Studio (validated, 8)	Studio (validée, 8)
+Studio backup restored as the case "{0}"	Sauvegarde du Studio restaurée comme le cas « {0} »
+Subtitle	Sous-titre
+Suggest from the codes and names…	Suggérer d'après les codes et noms…
+Sum	Somme
+Sum discounted to the first year	Somme actualisée à la première année
+Sum over the years	Somme sur les années
+Sun / solar heat	Soleil / chaleur solaire
+Sunburst (rows > columns)	Rayons de soleil (lignes > colonnes)
+Supply	Approvisionnement
+Suspect values	Valeurs suspectes
+System	Système
+System {0} created	Système {0} créé
+System {0} deleted	Système {0} supprimé
+System {0} is now {1}	Le système {0} est maintenant {1}
+System {0} renamed	Système {0} renommé
+System {0}: colour	Système {0} : couleur
+System {0}: {1} items	Système {0} : {1} éléments
+Systems	Systèmes
+Systems (inner edge)	Systèmes (bord intérieur)
+Systems · inner edge	Systèmes · bord intérieur
+Systems…	Systèmes…
+System{0}	Système{0}
+Table	Tableau
+Table copied: paste in Excel	Tableau copié : collez-le dans Excel
+Tag	Étiquette
+Target	Cible
+Target (optional)	Cible (facultative)
+Target of {0}	Cible de {0}
+Target parameter	Paramètre cible
+Target {0}	Cible {0}
+Targets	Cibles
+Targets combined	Cibles combinées
+Targets:	Cibles :
+Technologies	Technologies
+Technologies with their own discount rate	Technologies avec leur propre taux d'actualisation
+Technology	Technologie
+Technology / storage	Technologie / stockage
+Technology discount rate (capital recovery).	Taux d'actualisation de la technologie (récupération du capital).
+Technology that no finance source may pay for	Technologie qu'aucune source de financement ne peut payer
+Tenor (years)	Durée (ans)
+Term	Terme
+Terms	Termes
+Text	Texte
+Text font{0}	Police du texte{0}
+Text size	Taille du texte
+Text size (title, legend) %	Taille du texte (titre, légende) %
+That would leave nothing: use "Full system".	Il ne resterait rien : utilisez « Système complet ».
+The MUIO case import: open its panel	L'import du cas MUIO : ouvrir son panneau
+The MUIO import failed: see the jobs bar	L'import MUIO a échoué : voir la barre des tâches
+The Model	Le modèle
+The Studio server is not running	Le serveur du Studio ne fonctionne pas
+The base data (inputs only)	Les données de base (entrées seulement)
+The browser library is not available here	La bibliothèque du navigateur n'est pas disponible ici
+The checkpoint could not be saved.	Le point de contrôle n'a pas pu être enregistré.
+The chosen box	La boîte choisie
+The constraint is not used	La contrainte n'est pas utilisée
+The constraint is off in the regions shown.	La contrainte est inactive dans les régions affichées.
+The eligible sources cannot cover a whole project	Les sources éligibles ne peuvent couvrir un projet entier
+The factor values of the futures are missing.	Les valeurs des facteurs des futurs manquent.
+The folder and every case in it	Le dossier et tous ses cas
+The list of units	La liste des unités
+The metric whose target decides alone	L'indicateur dont la cible décide seule
+The objective	L'objectif
+The objective (total cost)	L'objectif (coût total)
+The other series{0}	Les autres séries{0}
+The package could not be made:	Le paquet n'a pas pu être créé :
+The result falls when the input rises.	Le résultat baisse quand l'entrée augmente.
+The result rises with the input.	Le résultat augmente avec l'entrée.
+The result shown ({0})	Le résultat affiché ({0})
+The same for all	Le même pour tous
+The solver server does not answer.	Le serveur de solveur ne répond pas.
+The solver server is not running	Le serveur de solveur ne fonctionne pas
+The start value must be a number	La valeur de départ doit être un nombre
+The terms by year · {0}	Les termes par année · {0}
+The usual systems added	Systèmes habituels ajoutés
+The whole horizon at once	Tout l'horizon d'un coup
+The {0} largest of {1}.	Les {0} plus grands sur {1}.
+Their values after a run are in Results.	Leurs valeurs après une exécution sont dans Résultats.
+Theme{0}	Thème{0}
+They are kept and written.	Ils sont conservés et écrits.
+This cannot be undone. Delete them?	C'est irréversible. Les supprimer ?
+This case now uses the model file {0}	Ce cas utilise maintenant le fichier modèle {0}
+This chart is back as drawn	Ce graphique est revenu tel que dessiné
+This model, as it is now (no results)	Ce modèle, tel qu'il est (sans résultats)
+This result has no years.	Ce résultat n'a pas d'années.
+This view	Cette vue
+Threads	Fils
+Threads per solve	Fils par résolution
+Threshold	Seuil
+Tick all shown	Cocher tout l'affiché
+Tick at least one region	Cochez au moins une région
+Tick at least one run	Cochez au moins une exécution
+Tick at least one variable	Cochez au moins une variable
+Tick items to see them.	Cochez des éléments pour les voir.
+Tick labels	Étiquettes des graduations
+Tick the cases to move first	Cochez d'abord les cas à déplacer
+Tick the items that get their own settings	Cochez les éléments qui ont leurs propres réglages
+Tick the rows first	Cochez d'abord les lignes
+Tick {0}	Cocher {0}
+Ticked cases:	Cas cochés :
+Time	Temps
+Time (s)	Temps (s)
+Time and discounting	Temps et actualisation
+Time left	Temps restant
+Time limit (s)	Limite de temps (s)
+Time limit per sample (s)	Limite de temps par échantillon (s)
+Time limit per solve (s)	Limite de temps par résolution (s)
+Time slice	Tranche horaire
+Time slice in more than one season	Tranche horaire dans plus d'une saison
+Time slice in no season	Tranche horaire sans saison
+Time slices	Tranches horaires
+Title	Titre
+Title font{0}	Police du titre{0}
+Title size	Taille du titre
+To (used / made by a technology of)	Vers (utilisé / produit par une technologie de)
+To columns	En colonnes
+To panels	En panneaux
+To rows	En lignes
+To the year	Jusqu'à l'année
+Tolerance	Tolérance
+Too wide: run more samples.	Trop large : exécutez plus d'échantillons.
+Top	Haut
+Topics in colour	Thèmes en couleur
+Total	Total
+Total capacity	Capacité totale
+Total system cost	Coût total du système
+Total time	Temps total
+Trade and prices	Commerce et prix
+Trade and valuation	Commerce et valorisation
+Trade link	Lien commercial
+Trade route (from · to)	Route commerciale (de · vers)
+Trade route open in one direction only	Route commerciale ouverte dans un seul sens
+Trade-offs	Arbitrages
+Transmission / grid	Transport / réseau
+Transparent	Transparent
+Transport	Transport
+Treemap (rows > columns)	Carte arborescente (lignes > colonnes)
+Truncate above	Tronquer au-dessus
+Truncate below	Tronquer en dessous
+Try again	Réessayer
+Two metrics at once, every future, every strategy.	Deux indicateurs à la fois, chaque futur, chaque stratégie.
+Two metrics, every future (points)	Deux indicateurs, chaque futur (points)
+Two metrics: where the futures gather (contours)	Deux indicateurs : où se regroupent les futurs (contours)
+Two uncertainties	Deux incertitudes
+Type	Type
+Type of check	Type de vérification
+Type of {0} in {1}	Type de {0} dans {1}
+Type{0}	Type{0}
+Typing · double-click · F2	Saisie · double-clic · F2
+Uncertain from the year	Incertain à partir de l'année
+Uncertain parameter	Paramètre incertain
+Uncertain parameters	Paramètres incertains
+Uncertainty	Incertitude
+Under construction: results and options may change	En construction : résultats et options peuvent changer
+Undo	Annuler
+Undo (Ctrl+Z)	Annuler (Ctrl+Z)
+Undo changes	Annuler les modifications
+Undo delete	Annuler la suppression
+Undone	Annulé
+Unit	Unité
+Unit commitment	Engagement des unités
+Unit commitment on	Engagement des unités actif
+Unit of activity{0}	Unité d'activité{0}
+Unit of capacity{0}	Unité de capacité{0}
+Unit size (integer builds)	Taille d'unité (constructions entières)
+Unit {0} removed	Unité {0} retirée
+Units	Unités
+Units set for {0} item(s)	Unités définies pour {0} élément(s)
+Unit{0}	Unité{0}
+Unknown type of finance source	Type de source de financement inconnu
+Unselect everything (Esc)	Tout désélectionner (Échap)
+Untick all shown	Décocher tout l'affiché
+Upload	Téléverser
+Use for this case	Utiliser pour ce cas
+Use it for the open case{0}	L'utiliser pour le cas ouvert{0}
+Use one of the two for a commodity.	Utilisez l'un des deux pour un produit.
+Use the Set up metrics	Utiliser les indicateurs de Configurer
+Use this folder	Utiliser ce dossier
+Used by	Utilisé par
+Used by this case	Utilisé par ce cas
+Used by · {0}	Utilisé par · {0}
+Used in (constraints)	Utilisé dans (contraintes)
+User constraint forces everything in it to zero	La contrainte utilisateur force tout son contenu à zéro
+User constraints	Contraintes utilisateur
+User-defined constraint {0} cannot be met	La contrainte utilisateur {0} ne peut être respectée
+User-defined constraints	Contraintes définies par l'utilisateur
+Usually a missing cost.	Généralement un coût manquant.
+Value	Valeur
+Value in a chosen year	Valeur dans une année choisie
+Value in the first year	Valeur la première année
+Value in the last year	Valeur la dernière année
+Value is{0}	La valeur est{0}
+Value not exceeded with probability…	Valeur non dépassée avec la probabilité…
+Value of the metric	Valeur de l'indicateur
+Values	Valeurs
+Values (≠ 1)	Valeurs (≠ 1)
+Values in the data	Valeurs dans les données
+Values that are not numbers in {0}	Valeurs non numériques dans {0}
+Value{0}	Valeur{0}
+Variable	Variable
+Variable cost	Coût variable
+Variable cost {0}	Coût variable {0}
+Variable cost: VariableCost x activity.	Coût variable : VariableCost x activité.
+Variables	Variables
+Variables of the model	Variables du modèle
+Variable{0}	Variable{0}
+Version	Version
+Version / scenario	Version / scénario
+Version / scenario (optional)	Version / scénario (facultatif)
+Vertical axis	Axe vertical
+View	Vue
+View "{0}" saved with the case ({1} technologies).	Vue « {0} » enregistrée avec le cas ({1} technologies).
+Views ({0})…	Vues ({0})…
+Vintage	Cohorte
+Vintages from ResidualCapacity	Cohortes à partir de ResidualCapacity
+Vintaging	Cohortes
+Violin (spread over rows)	Violon (dispersion sur les lignes)
+Volume	Volume
+Vulnerabilities	Vulnérabilités
+Warning	Avertissement
+Warnings	Avertissements
+Waste	Déchets
+Water	Eau
+Water and land	Eau et terre
+Water cascade	Cascade de l'eau
+Water cascade: more than one remainder output	Cascade de l'eau : plus d'une sortie résiduelle
+Water cascade: outputs above the precipitation	Cascade de l'eau : sorties au-dessus des précipitations
+Water cascade: share outside 0-1	Cascade de l'eau : part hors de 0-1
+Water cascade: unknown rule	Cascade de l'eau : règle inconnue
+Water driver (cascade)	Moteur de l'eau (cascade)
+Water input (1 ETm, 2 ETa)	Apport d'eau (1 ETm, 2 ETa)
+Waterfall (columns)	Cascade (colonnes)
+Weight and emissions	Poids et émissions
+What MUIO can hold	Ce que MUIO peut contenir
+What carries from one window to the next	Ce qui passe d'une fenêtre à la suivante
+What emits {0}	Ce qui émet {0}
+What is checked	Ce qui est vérifié
+What is it?	Qu'est-ce que c'est ?
+What is this? (click)	Qu'est-ce que c'est ? (clic)
+What is {0}?	Qu'est-ce que {0} ?
+What the merge does	Ce que fait la fusion
+What the planner sees at each step	Ce que le planificateur voit à chaque étape
+What this model is, its source, its scenario	Ce qu'est ce modèle, sa source, son scénario
+What this strategy does	Ce que fait cette stratégie
+What to check	Quoi vérifier
+What to export	Quoi exporter
+What was read	Ce qui a été lu
+What you can decide	Ce que vous pouvez décider
+What you cannot control	Ce que vous ne contrôlez pas
+Where	Où
+Which uncertainty drives {0}: rank correlation	Quelle incertitude pilote {0} : corrélation de rang
+Which values	Quelles valeurs
+White	Blanc
+Wide: years as columns	Large : années en colonnes
+Width (px)	Largeur (px)
+Width (px, 0 = full)	Largeur (px, 0 = complète)
+Width (years)	Largeur (ans)
+Wind	Éolien
+Window	Fenêtre
+Window starts in	La fenêtre commence en
+Window {0}	Fenêtre {0}
+Windows	Fenêtres
+Windows of the rolling horizon	Fenêtres de l'horizon glissant
+Winter, Spring, Summer, Autumn	Hiver, Printemps, Été, Automne
+With Plotly: the first panel only.	Avec Plotly : le premier panneau seulement.
+With data	Avec données
+Worst	Pire
+Worst regret	Pire regret
+Worst regret (all metrics, scaled)	Pire regret (tous les indicateurs, normalisés)
+Written	Écrit
+X axis{0}	Axe X{0}
+X-axis title	Titre de l'axe X
+Y axis (left){0}	Axe Y (gauche){0}
+Y axis (right, optional){0}	Axe Y (droit, facultatif){0}
+Y max	Y max.
+Y min	Y min.
+Y-axis title	Titre de l'axe Y
+Year	Année
+Year of the equation	Année de l'équation
+Year of the flows shown	Année des flux affichés
+Year of the input	Année de l'entrée
+Year shown	Année affichée
+Year-to-year correlation	Corrélation d'une année à l'autre
+Year-to-year correlation of the rate	Corrélation d'une année à l'autre du taux
+YearSplit adds up to 1	YearSplit somme à 1
+YearSplit does not sum to 1	YearSplit ne somme pas à 1
+Years	Années
+Years (advanced: several ranges, e.g. 2030-2050, 2060)	Années (avancé : plusieurs plages, p. ex. 2030-2050, 2060)
+Years committed per step	Années engagées par étape
+Years from	Années à partir de
+Years on (Studio)	Années actives (Studio)
+Years seen	Années vues
+Years this technology is on {0}	Années où cette technologie est active {0}
+Year{0}	Année{0}
+Yield response (1 season, 2 stages)	Réponse du rendement (1 saison, 2 stades)
+Yield response without Ky	Réponse du rendement sans Ky
+You can change any of them afterwards.	Vous pouvez en changer n'importe lequel ensuite.
+Your models	Vos modèles
+Zoom	Zoom

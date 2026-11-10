@@ -1,0 +1,6 @@
+[tool.black]
+# code style of the Studio's Python (python -m black .): long lines kept up to 140, quotes as written
+line-length = 140
+skip-string-normalization = true
+extend-exclude = '(cases|runs|models|web/lib|engine/muio_api)/'
+# engine/muio_api is MUIO's own code (Apache-2.0), kept exactly as MUIO ships it
