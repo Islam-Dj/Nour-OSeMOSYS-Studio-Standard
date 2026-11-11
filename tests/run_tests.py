@@ -18,9 +18,24 @@ def free_port():
     return p
 
 
+def damaged_runs(cases):
+    """a case with a Monte Carlo run and a robust-decision run whose status files were left as null bytes, as an
+    interruption can leave them: the lists of runs must still load (studio_test.js checks them)"""
+    c = os.path.join(cases, 'OSeMOSYS', 'DAMAGED_RUNS')
+    os.makedirs(c)
+    open(os.path.join(c, 'case.json'), 'w').write('{"name": "Damaged runs"}')
+    for kind, key in (('mc', 'design.json'), ('rdm', 'rdm.json')):
+        d = os.path.join(c, kind, '20260101-000000-damaged_' + kind)
+        os.makedirs(d)
+        open(os.path.join(d, key), 'w').write('{}')
+        open(os.path.join(d, 'meta.json'), 'w').write('{"name": "damaged %s run"}' % kind)
+        open(os.path.join(d, 'status.json'), 'wb').write(b'\0' * 166)
+
+
 def main():
     port = free_port()
     tmp = tempfile.mkdtemp(prefix='nour_studio_tests_')
+    damaged_runs(os.path.join(tmp, 'cases'))
     srv = subprocess.Popen(
         [sys.executable, os.path.join(ROOT, 'run_studio.py'), '--port', str(port), '--no-browser', '--runs', os.path.join(tmp, 'runs'), '--cases', os.path.join(tmp, 'cases')],
         cwd=ROOT,

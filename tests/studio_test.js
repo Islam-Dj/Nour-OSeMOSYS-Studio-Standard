@@ -102,6 +102,13 @@ async function solve(data, name) {
         await p.waitForTimeout(1200);
         out(await p.evaluate(v => !document.getElementById(v === 'mc' ? 'mcview' : 'rdmview').hidden, v), `${v === 'mc' ? 'Monte Carlo' : 'Robust decisions'} opens`);
       }
+      // a run whose status file was left empty by an interruption (planted by run_tests.py) does not hide the other runs
+      for (const k of ['mc', 'rdm']) {
+        const res = await fetch(`${URL}/api/${k}`);
+        const L = res.ok ? await res.json() : [];
+        const bad = L.find(r => r.id === `20260101-000000-damaged_${k}`);
+        out(res.ok && !!bad && bad.state === 'failed', `${k === 'mc' ? 'Monte Carlo' : 'Robust decisions'}: a damaged run is listed as failed, the list still loads`, `${res.status}, ${L.length} runs`);
+      }
       // How to cite: the Studio and its two documents in each format, the same references as CITATION.cff
       const cff = fs.readFileSync(path.join(__dirname, '..', 'CITATION.cff'), 'utf8');
       const dois = [...cff.matchAll(/doi: "([^"]+)"/g)].map(m => m[1]);

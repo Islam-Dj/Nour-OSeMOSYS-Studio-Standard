@@ -3,7 +3,7 @@ One sub-folder per strategy (a Monte Carlo folder): the same futures for every s
 
 import json, os, re, shutil, subprocess, time
 from . import config, cases as _cases
-from .util import tool, NOWIN
+from .util import tool, NOWIN, read_run_json, UNREADABLE
 from .cases import run_base
 from .solvers import detect
 
@@ -24,8 +24,8 @@ def rdm_dir(rid):
 
 
 def _info(d):
-    s = json.load(open(os.path.join(d, 'status.json'))) if os.path.isfile(os.path.join(d, 'status.json')) else {}
-    s.update(json.load(open(os.path.join(d, 'meta.json'))) if os.path.isfile(os.path.join(d, 'meta.json')) else {})
+    s = read_run_json(os.path.join(d, 'status.json'), UNREADABLE)
+    s.update(read_run_json(os.path.join(d, 'meta.json')))
     return s
 
 

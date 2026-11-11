@@ -1186,12 +1186,27 @@ def solve_one(work, model, data, solver, opts, log, want_duals=False):
     return st_.upper(), obj, const, dict(res)
 
 
+def _read_json(p):
+    """a JSON file of a run: {} if missing, or if it cannot be read after a few tries (left empty by an interruption)"""
+    if not os.path.isfile(p):
+        return {}
+    for _ in range(3):
+        try:
+            return json.load(open(p))
+        except (ValueError, OSError):
+            time.sleep(0.05)
+    return {}
+
+
 def status(d, **kw):
     p = os.path.join(d, 'status.json')
-    s = json.load(open(p)) if os.path.isfile(p) else {}
+    s = _read_json(p)
     s.update(kw)
-    tmp = p + '.tmp'
-    json.dump(s, open(tmp, 'w'), indent=1)
+    tmp = p + f'.{os.getpid()}.{threading.get_ident()}.tmp'  # one file per writer: the server and the engine may write at once
+    with open(tmp, 'w') as f:
+        json.dump(s, f, indent=1)
+        f.flush()
+        os.fsync(f.fileno())  # on disk before the switch: an interruption leaves the old status or the new one, never an empty file
     os.replace(tmp, p)
     return s
 
@@ -1638,9 +1653,9 @@ def export_full(mc_dir, out_zip, wide=False, inputs=True, outputs=True, stats=Tr
     wide=True: years as columns (one line per sample and item) instead of one value per line."""
     import csv, io, zipfile
 
-    meta = json.load(open(os.path.join(mc_dir, 'meta.json'))) if os.path.isfile(os.path.join(mc_dir, 'meta.json')) else {}
+    meta = _read_json(os.path.join(mc_dir, 'meta.json'))
     D = json.load(open(os.path.join(mc_dir, 'design.json')))
-    st_ = json.load(open(os.path.join(mc_dir, 'status.json'))) if os.path.isfile(os.path.join(mc_dir, 'status.json')) else {}
+    st_ = _read_json(os.path.join(mc_dir, 'status.json'))
     run_id = os.path.basename(mc_dir)
     case = meta.get('case') or ''
     scen = ' + '.join(meta.get('scenarios') or []) or 'base'
