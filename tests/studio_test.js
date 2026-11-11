@@ -109,6 +109,22 @@ async function solve(data, name) {
         const bad = L.find(r => r.id === `20260101-000000-damaged_${k}`);
         out(res.ok && !!bad && bad.state === 'failed', `${k === 'mc' ? 'Monte Carlo' : 'Robust decisions'}: a damaged run is listed as failed, the list still loads`, `${res.status}, ${L.length} runs`);
       }
+      // another model file used for a case is saved with it, even when the case is saved at once (not by the autosave)
+      const MF = await p.evaluate(async text => {
+        await openExample(0);
+        const id = await MODELS.newId('Another model file');
+        await MODELS.save(id, {name: 'Another model file', file: 'another.txt', text});
+        await MODELS.load();
+        await useModel(id, true);
+        await LIB.flush();
+        const rec = await LIB.get(LIB.current);
+        await LIB.openRec(rec);
+        const r = {saved: rec.modelName, reopened: SCHEMA.name};
+        await useModel('_muio54', true); // back to the built-in model for the next checks
+        await LIB.flush();
+        return r;
+      }, fs.readFileSync(path.join(W, 'muio54_model.txt'), 'utf8'));
+      out(MF.saved === 'Another model file' && MF.reopened === 'Another model file', 'a model file used for a case stays with it when the case is reopened', `${MF.saved} / ${MF.reopened}`);
       // How to cite: the Studio and its two documents in each format, the same references as CITATION.cff
       const cff = fs.readFileSync(path.join(__dirname, '..', 'CITATION.cff'), 'utf8');
       const dois = [...cff.matchAll(/doi: "([^"]+)"/g)].map(m => m[1]);

@@ -126,7 +126,10 @@ async function useModel(id, quiet, save = true) {
   const m = MODELS.list.find(x => x.id === id) || {};
   setSchema(t, id === '_muio54' ? BUILTIN_NAME : id === '_muio57' ? MUIO57_NAME : m.name || id);
   SCHEMA.modelId = id;
-  if (M && save) LIB.autosave();
+  if (M && save) {
+    dirty = true; // a change of the case: a save before the autosave fires (another case opened, the window closed) keeps it
+    LIB.autosave();
+  }
   if (!quiet) toast(`This case now uses the model file ${m.name || id}`);
 }
 
